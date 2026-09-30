@@ -1,0 +1,24 @@
+---
+code: T1KB
+title: The Knowledge Base
+subtitle: Topic 1 · Gender Studies and the Social Construction of Gender — the discipline, and the idea at its heart, taught from zero
+header: T1 Knowledge Base
+gives: Syllabus Heads I and II taught from zero in simple English — every term explained; The discipline — its birth, its difference from Women's Studies, its many disciplines, the autonomy–integration debate and its state in Pakistan; The social construction of gender — its history, its theories, queer theory, masculinities and femininities, nature versus culture, gendered language and the transgender debate; Evidence inside every point, 16 diagrams, contemporary debates and five likely questions; A one-liner bank, every past MCQ on the topic, and a revision sheet
+---
+@toc
+@include kb/00_front.gsm
+@include kb/ch01_discipline.gsm
+@include kb/ch02_ws_gs.gsm
+@include kb/ch03_multi.gsm
+@include kb/ch04_autonomy.gsm
+@include kb/ch05_pakistan.gsm
+@include kb/ch06_constructionism.gsm
+@include kb/ch07_deconstruct.gsm
+@include kb/ch08_queer.gsm
+@include kb/ch09_masculinities.gsm
+@include kb/ch10_nature.gsm
+@include kb/ch11_transgender.gsm
+@include kb/p2_debates.gsm
+@include kb/p3_record.gsm
+@include kb/p4_oneliners.gsm
+@include kb/p5_revision.gsm

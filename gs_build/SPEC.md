@@ -11,8 +11,8 @@ decision already made, so a session never has to re-derive them. Content bluepri
 | Code | Document | Source | Status |
 |---|---|---|---|
 | MA | The Master Anatomy | `content/MA/*.gsm` | ✅ built (≈30,000 words, 15 figures, 44 tables) |
-| T1KB / T1QA | Gender Studies and the Social Construction of Gender | `content/T1/` | ⬜ next |
-| T2KB / T2QA | Feminist Theories and Practice | `content/T2/` | ⬜ |
+| T1KB / T1QA | Gender Studies and the Social Construction of Gender | `content/T1/` | ✅ built — KB ≈18,600 words, 21 figures; QA 16 answers (1,001–1,175 words each) + 1 note (573); feeders `oneliners.gsm`, `facts.gsm`, `RN.gsm` written |
+| T2KB / T2QA | Feminist Theories and Practice | `content/T2/` | ⬜ next |
 | T3KB / T3QA | Feminist Movements — the West, the United Nations and Pakistan | `content/T3/` | ⬜ |
 | T4KB / T4QA | Gender and Development | `content/T4/` | ⬜ |
 | T5KB / T5QA | Status of Women in Pakistan | `content/T5/` | ⬜ |
@@ -224,6 +224,21 @@ Copy `templates/QA_skeleton.gsm`. Order answers as `@py qa_index N` lists them (
   and a thinkers index. Refresh volatile data (see `data/facts_verified.md`) just before finalising.
 - **PR**: three sets exactly in FPSC format (MA Appendix B); 20 MCQs + Q.2–Q.8; keys; full model answers. Cover all
   Tier 3 blind spots at least once; T1, T4, T7 in every set.
+
+## 10a. Lessons from Topic 1 (apply from T2 on)
+
+- **Write answers longer than feels necessary.** First drafts of T1 model answers came out at ~800–950 words;
+  every one needed topping up. Draft each model answer with 10–13 headings of 100–130 words each, and check with
+  `python3 gs_build/tools_wordcount.py --answer content/Tn/qa/*.gsm` (counts only "## The model answer").
+- KB chapters drafted at ~1,000–1,500 words each; with Parts Zero–Five the T1 KB landed at ≈18,600 — the chapter
+  plan in the MA dossier is the right size (11 chapters + Parts). Use `tools_wordcount.py content/Tn/kb/*.gsm`.
+- File layout that worked: `content/Tn/KB.gsm` (front matter + includes), `kb/00_front.gsm`, `kb/chNN_*.gsm`,
+  `kb/p2_debates.gsm`, `kb/p3_record.gsm`, `kb/p4_oneliners.gsm` (includes `../oneliners.gsm` + `@py mcqs_topic N`),
+  `kb/p5_revision.gsm`; `QA.gsm` + `qa/NN.gsm` (one answer per file, in `qa_index` order).
+- Each QA answer: `# Answer k · Title (CSS YYYY)`, `@py question ID`, map (mindmap), decoding, model answer
+  (with one table or card inside), "Why this answer scores".
+- Verify unfamiliar facts before writing; never attribute specific claims to a reading-list author you have not read
+  (use a `remember`/`note` box instead of a `thinker` card).
 
 ## 10. Workflow for one topic (the cheap path)
 

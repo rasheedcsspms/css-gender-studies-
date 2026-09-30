@@ -344,7 +344,7 @@ class Builder:
             elif re.match(r"^ {4,}- ", ln):
                 flush()
                 self.bullet(s[2:], 3)
-            elif re.match(r"^(\d+|[ivx]+|[a-h])[.)]\s", s) and not buf:
+            elif re.match(r"^(\d+|[ivx]+|[a-h])[.)]\s", s):
                 flush()
                 num, _, rest = s.partition(" ")
                 self.numbered(num, rest.strip())

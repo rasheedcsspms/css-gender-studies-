@@ -1,0 +1,44 @@
+---
+code: T1QA
+title: The Question Answers
+subtitle: Topic 1 · Gender Studies and the Social Construction of Gender — every past question answered as a model
+header: T1 Question Answers
+gives: All sixteen CSS questions on Topic 1 (2016–2026) and the 2024 short note, answered in full; An answer map for every answer — each branch a numbered heading; The command words and limbs of every question decoded; Model answers of 1,000–1,300 words with evidence inside every heading; Why each answer scores — what the examiner rewards
+---
+@toc
+
+# How to Use These Answers
+
+## What is in this document
+
+@py qa_index 1
+
+## How every answer is built
+
+1. **The question**, exactly as set, with its year and number.
+2. **The answer map** — a mind map whose centre states what the question asks, limb by limb. Every branch is one numbered heading of the answer. Draw a quick version of this map in the margin of your answer book before you write.
+3. **Decoding the question** — the command words and what each limb demands.
+4. **The model answer** — 1,000 to 1,300 words, the length a strong candidate can write in about thirty minutes. Definitions come first; headings are taken from the question's own words; evidence sits inside every heading; there is a table or diagram, a Pakistan angle, a counter-argument and a balanced conclusion.
+5. **Why this answer scores** — what the examiner rewards in it.
+
+::: eye | Repeats and near repeats
+Topic 1 repeats itself more than any other topic. Several answers below cover the same ground (the status of the field in Pakistan; autonomy versus integration; Women's versus Gender Studies) — but each is built for its own question's limbs. Notice how the *same knowledge* is re-organised under *different headings*. That skill — re-cutting what you know to fit the exact question — is what this document teaches.
+:::
+
+@include qa/01.gsm
+@include qa/02.gsm
+@include qa/03.gsm
+@include qa/04.gsm
+@include qa/05.gsm
+@include qa/06.gsm
+@include qa/07.gsm
+@include qa/08.gsm
+@include qa/09.gsm
+@include qa/10.gsm
+@include qa/11.gsm
+@include qa/12.gsm
+@include qa/13.gsm
+@include qa/14.gsm
+@include qa/15.gsm
+@include qa/16.gsm
+@include qa/17.gsm

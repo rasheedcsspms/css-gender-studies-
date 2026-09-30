@@ -1,0 +1,16 @@
+# Part Four — The One-Liner Bank
+
+> Read this the day you finish the Knowledge Base, and again in the last week. The first table gives the facts of the topic as question and answer; the second gives every recovered MCQ on Topic 1 with its key.
+
+## The one-liners
+
+@include ../oneliners.gsm
+
+## Every past MCQ on Topic 1
+
+@py mcqs_topic 1
+
+::: trap | Two MCQ traps from the record
+- **2026 Q1** asked what Butler's performativity means; the correct answer ("gender is constituted through repeated acts") was not among the options, so the key was "None of these". Know the concept, not just the name.
+- **2023 Q18** asked which statement about Queer Studies is *incorrect*: the answer is "a new term for gays and lesbians". Queer theory questions all categories, including the "normal" ones.
+:::
