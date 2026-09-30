@@ -1,0 +1,46 @@
+---
+code: T4QA
+title: The Question Answers
+subtitle: Topic 4 · Gender and Development — every past question answered as a model
+header: T4 Question Answers
+gives: All sixteen CSS questions on Topic 4 (2016–2026) and the three short notes, answered in full — the heaviest topic in the paper; An answer map for every answer — each branch a numbered heading; The command words and limbs of every question decoded; Model answers of 1,000–1,300 words (notes 550–650) with evidence inside every heading; Why each answer scores — what the examiner rewards
+---
+@toc
+
+# How to Use These Answers
+
+## What is in this document
+
+@py qa_index 4
+
+## How every answer is built
+
+1. **The question**, exactly as set, with its year and number.
+2. **The answer map** — a mind map whose centre states what the question asks, part by part. Every branch is one numbered heading of the answer, and every point on it is a short phrase that makes complete sense on its own — so the map alone tells the examiner the whole argument. Draw a quick version in the margin of your answer book before you write.
+3. **Decoding the question** — the command words and what each part demands.
+4. **The model answer** — 1,000 to 1,300 words (550 to 650 for a short note), the length a strong candidate can write in about thirty minutes. It is built in two levels: main headings **1, 2, 3…** taken from the question's own words, and sub-headings **i), ii), iii)…** under them. The introduction always has a simple **definition** and the **argument**. Each sub-heading answers one point in a short paragraph with the **key words in bold**. Every answer has at least one **figure** besides the answer map (a comparison, flow, cycle, pyramid, Venn, spectrum or mapping), a Pakistan angle and a balanced conclusion.
+5. **Why this answer scores** — what the examiner rewards in it.
+
+::: eye | "Critically" is the command word of Topic 4
+Almost every question here says "critically review", "critically analyse", "critical gender analysis" or "critically evaluate". Notice the pattern in the answers below: every theory or approach gets (1) what it says, (2) what it says or assumes about women, (3) its **gender critique**, and (4) a **Pakistani example**. Notice also how the same material — Boserup, Mies, Elson, Moser, Kabeer, Wallerstein — is re-cut for each question. The near repeats (WID/WAD/GAD in 2016 and 2021; colonial and capitalist perspectives in 2023 and 2024) are answered separately to show how to fit old knowledge to new wording.
+:::
+
+@include qa/01.gsm
+@include qa/02.gsm
+@include qa/03.gsm
+@include qa/04.gsm
+@include qa/05.gsm
+@include qa/06.gsm
+@include qa/07.gsm
+@include qa/08.gsm
+@include qa/09.gsm
+@include qa/10.gsm
+@include qa/11.gsm
+@include qa/12.gsm
+@include qa/13.gsm
+@include qa/14.gsm
+@include qa/15.gsm
+@include qa/16.gsm
+@include qa/17.gsm
+@include qa/18.gsm
+@include qa/19.gsm

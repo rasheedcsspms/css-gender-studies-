@@ -1,0 +1,84 @@
+# Part One — Gender and Development
+
+# Chapter 1 · What Development Is, and Why Gender Matters to It
+
+> Before you can analyse theories of development, you need to know what "development" means, how the idea changed, and how it is measured. This chapter gives you the base for the whole topic.
+
+## 1.1  The birth of "development"
+
+The modern idea of development began after the **Second World War**. In his inaugural address of ==20 January 1949==, US President **Harry Truman** announced a programme (his "Point Four") to make scientific and industrial progress available for the "improvement and growth of **underdeveloped areas**". Many scholars date the "development era" from this speech. It divided the world into "developed" and "underdeveloped" countries, and made the West the model for everyone else.
+
+In the same years, colonies across Asia and Africa became independent — Pakistan and India in ==1947== — and new governments looked for ways to grow quickly. **Development** became a national goal, a field of study and a huge international industry of agencies (the World Bank, founded ==1944==; UN agencies), donors and experts.
+
+## 1.2  How the meaning of development changed
+
+::: fig timeline | How the meaning of development widened.
+@layout vertical
+1950s–60s: Development = economic growth (GDP), industry and modernisation
+1970s: Basic needs — food, water, health, shelter; the discovery of women (Boserup 1970)
+1980s: Structural adjustment — markets, debt repayment, cuts in the state
+1990: Human development — widening people's choices (UNDP, Mahbub ul Haq)
+1999: Development as freedom (Amartya Sen)
+2000: Millennium Development Goals
+2015: Sustainable Development Goals — "leave no one behind"
+:::
+
+1. **Growth.** In the 1950s and 1960s development meant rising **GDP**: factories, dams, roads and cities. Benefits were expected to "**trickle down**" to everyone.
+2. **Basic needs.** By the 1970s it was clear that growth often left the poor behind. The International Labour Organization and others called for meeting **basic needs** directly.
+3. **Adjustment.** In the debt crisis of the 1980s, the IMF and World Bank made loans conditional on **cutting state spending** and opening markets (Chapter 12).
+4. **Human development.** The Pakistani economist **Mahbub ul Haq** created the UNDP **Human Development Report** (==1990==) and the **Human Development Index** (HDI), which measures health, education and income together. He defined development as "**enlarging people's choices**".
+5. **Freedom.** **Amartya Sen** (*Development as Freedom*, ==1999==) argued that development means expanding people's **capabilities** — their real freedom to live lives they value.
+6. **Sustainability.** The **SDGs** (==2015==) joined economic, social and environmental goals under the promise to "**leave no one behind**".
+
+::: thinker Mahbub ul Haq | Pakistani economist · creator of the Human Development Report (1990)
+"The basic purpose of development is to enlarge people's choices." Haq argued that income is a means, not an end; people's health, knowledge and freedom are what matter.
+-> A Pakistani contribution to world thinking on development — quote it in any definition.
+:::
+
+## 1.3  Why gender matters to development
+
+1. **Women are half the population.** Development that ignores half the people is not development.
+2. **Women's work is uncounted.** GDP ignores **unpaid care and subsistence work**, most of it done by women. **Marilyn Waring** (*If Women Counted*, ==1988==) showed how national accounts make this work invisible.
+3. **Policies are not gender-neutral.** Land reform, credit, technology, taxes and spending cuts affect women and men differently because they start from different positions.
+4. **Equality is a goal in itself.** Gender equality is a human right (CEDAW, ==1979==; SDG 5) — not only a tool for growth.
+5. **Equality also helps development.** Educated mothers have healthier children; women's income is more often spent on children's food and schooling; a larger labour force raises growth. The World Bank's *World Development Report 2012: Gender Equality and Development* called this "**smart economics**" (Chapter 3 discusses its critics).
+
+::: fig cycle | Why gender equality and development reinforce each other.
+@centre Gender equality and development
+Girls' education: later marriage, fewer and healthier children
+Women's income: more spent on food and schooling
+Women's health: lower maternal and child deaths
+Women's voice: better public decisions
+More women in work: higher national income
+:::
+
+## 1.4  Measuring gender and development
+
+::: table | The main gender and development indices.
+@widths 3.4,3,7.6
+Index | Introduced | What it measures
+Human Development Index (HDI) | UNDP, ==1990== | Health, education and income — **not** a gender measure
+Gender Development Index (GDI) | UNDP, ==1995== | The HDI adjusted for gaps between women and men (revised in 2014 as a female-to-male HDI ratio)
+Gender Empowerment Measure (GEM) | UNDP, ==1995== | Women's share of seats, senior jobs and income; replaced in 2010
+Gender Inequality Index (GII) | UNDP, ==2010== | Reproductive health, empowerment and labour-market gaps
+Global Gender Gap Index | World Economic Forum, ==2006== | Economic participation, education, health and political empowerment
+:::
+
+A 2025 MCQ asked which indicator measures gender inequality. The key point: the **HDI** is **not** a gender measure; the **GDI**, **GEM** and **GII** are gender-related measures, and the **GII** is the UN's measure of gender *inequality*.
+
+::: data Pakistan's gender gap | World Economic Forum, Global Gender Gap Report 2026
+Pakistan ranked ==143rd of 145== economies, with ==59.5%== of its gender gap closed. It ranked ==144th== on **economic participation and opportunity**, ==130th== on **educational attainment** and ==107th== on **political empowerment**. In 2025 it had ranked last, ==148th of 148==.
+-> The economic gap is Pakistan's worst — which is why this topic matters so much for Pakistan.
+:::
+
+## 1.5  Pakistan's development story in brief
+
+- **1950s–60s:** planned growth under the Planning Commission and the Harvard Advisory Group; Ayub Khan's "**Decade of Development**"; the **Green Revolution** in wheat and rice. Growth was high, but in ==1968== **Mahbub ul Haq** warned that wealth was concentrated in about "**22 families**".
+- **1970s:** nationalisation under Z. A. Bhutto; basic-needs rhetoric ("*roti, kapra aur makan*").
+- **1980s–90s:** Gulf remittances; the first IMF adjustment programme (==1988==); debt and austerity.
+- **2000s–2020s:** services and remittances; social protection through the **Benazir Income Support Programme** (==2008==), which pays women; repeated IMF programmes; the ==2022== floods.
+- **Women throughout:** most working women remain in **agriculture** and the **informal sector**, much of it unpaid or home-based; female labour-force participation is only ==24.4%== (LFS 2024–25).
+
+::: eye | Opening any Topic 4 answer
+Begin with a short definition of development that goes beyond GDP (Haq: "enlarging people's choices"; Sen: "freedom"), then say in one sentence why development is **never gender-neutral**. Add Pakistan's 2026 ranking and female labour-force participation. This gives every answer a strong, current base.
+:::

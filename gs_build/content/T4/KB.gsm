@@ -1,0 +1,28 @@
+---
+code: T4KB
+title: The Knowledge Base
+subtitle: Topic 4 · Gender and Development — every theory, approach and critique, taught from zero
+header: T4 Knowledge Base
+gives: Syllabus Head V taught from zero in simple English — the heaviest topic in the paper, asked in every year; Colonial and capitalist perspectives of gender, and the thesis that development is the new name of coloniality; A gender analysis of modernisation, dependency, world-system and structural-functionalist theory; WID, WAD and GAD; Moser's needs and roles, Kabeer's empowerment, gender mainstreaming; The gender critique of structural adjustment; globalisation and "gendered globalisation"; climate change; the MDGs and SDGs; Evidence and Pakistani examples inside every point, diagrams, today's debates, the record and five likely questions; About 125 MCQ-style one-liners, every past MCQ on the topic, and a detailed revision sheet
+---
+@toc
+@include kb/00_front.gsm
+@include kb/ch01_development.gsm
+@include kb/ch02_colonial.gsm
+@include kb/ch03_capitalist.gsm
+@include kb/ch04_modernisation.gsm
+@include kb/ch05_dependency.gsm
+@include kb/ch06_worldsystem.gsm
+@include kb/ch07_functionalism.gsm
+@include kb/ch08_theories.gsm
+@include kb/ch09_wid.gsm
+@include kb/ch10_wad.gsm
+@include kb/ch11_gad.gsm
+@include kb/ch12_saps.gsm
+@include kb/ch13_globalisation.gsm
+@include kb/ch14_climate.gsm
+@include kb/ch15_goals.gsm
+@include kb/p2_debates.gsm
+@include kb/p3_record.gsm
+@include kb/p4_oneliners.gsm
+@include kb/p5_revision.gsm

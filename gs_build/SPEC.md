@@ -14,8 +14,8 @@ decision already made, so a session never has to re-derive them. Content bluepri
 | T1KB / T1QA | Gender Studies and the Social Construction of Gender | `content/T1/` | ✅ v2 (Standards v2) — KB ≈22,900 words (core ≈16,600 + 123 one-liners + MCQs + 3,900-word sheet), 20 figures; QA 16 answers + 1 note, all 1,000–1,070 (note 553), 34 figures; feeders `oneliners.gsm`, `rn_sheet.gsm`, `rn_plans.gsm`, `RN.gsm` (≈5,200), `facts.gsm` |
 | T2KB / T2QA | Feminist Theories and Practice | `content/T2/` | ✅ Standards v2 — KB ≈22,300 words (core ≈16,700 + 128 one-liners + 26 MCQs + 3,700-word sheet), 25 figures; QA 6 answers + 2 notes, all 1,021–1,075 (notes 553–559), 16 figures; feeders `oneliners.gsm`, `rn_sheet.gsm`, `rn_plans.gsm`, `RN.gsm` (≈4,800), `facts.gsm` |
 | T3KB / T3QA | Feminist Movements — the West, the United Nations and Pakistan | `content/T3/` | ✅ Standards v2 — KB ≈21,000 words (core ≈15,400 + 126 one-liners + 22 MCQs + 3,400-word sheet), 25 figures; QA 8 answers + 1 note + the 2023 repeat page, all 1,001–1,026 (note 542), 20 figures; feeders `oneliners.gsm`, `rn_sheet.gsm`, `rn_plans.gsm`, `RN.gsm`, `facts.gsm` |
-| T4KB / T4QA | Gender and Development | `content/T4/` | ⬜ next |
-| T5KB / T5QA | Status of Women in Pakistan | `content/T5/` | ⬜ |
+| T4KB / T4QA | Gender and Development | `content/T4/` | ✅ Standards v2 — KB ≈23,000 words (core ≈17,000 + 126 one-liners + 17 MCQs + 3,900-word sheet), 29 figures; QA 16 answers + 3 notes, all 974–1,012 (notes 550–555), 39 figures; feeders `oneliners.gsm`, `rn_sheet.gsm`, `rn_plans.gsm`, `RN.gsm`, `facts.gsm` |
+| T5KB / T5QA | Status of Women in Pakistan | `content/T5/` | ⬜ next |
 | T6KB / T6QA | Gender and Governance | `content/T6/` | ⬜ |
 | T7KB / T7QA | Gender-Based Violence and the Three Case Studies | `content/T7/` | ⬜ |
 | FB | The Fact Book | `content/FB/main.gsm` (+ `content/Tn/facts.gsm`) | ⬜ after T7 |

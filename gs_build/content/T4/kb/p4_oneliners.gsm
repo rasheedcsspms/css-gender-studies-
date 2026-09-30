@@ -1,0 +1,17 @@
+# Part Four — The One-Liner Bank
+
+> About 125 one-liners in the style of the past MCQs. Each is a complete, checkable fact: the **key word** is in bold green and the **date** in bold navy. Read them aloud; cover the bold words and test yourself; then attempt every past MCQ below.
+
+## The one-liners
+
+@include ../oneliners.gsm
+
+## Every past MCQ on Topic 4
+
+@py mcqs_topic 4
+
+::: trap | Three MCQ traps in Topic 4
+1. **GAD the approach, GAD the disorder.** A 2019 MCQ used "GAD" for *Generalized Anxiety Disorder*. Read the whole stem before assuming Gender and Development.
+2. **Who "coined" versus who "wrote".** WID was coined by development professionals in **Washington**; Boserup **wrote** the founding book (1970); Kabeer **wrote** *Reversed Realities* (1994); Wallerstein **developed** world-system theory (1974).
+3. **HDI is not a gender index.** The gender measures are the **GDI**, **GEM** (1995) and **GII** (2010).
+:::
