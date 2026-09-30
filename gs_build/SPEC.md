@@ -13,8 +13,8 @@ decision already made, so a session never has to re-derive them. Content bluepri
 | MA | The Master Anatomy | `content/MA/*.gsm` | ✅ built (≈30,000 words, 15 figures, 44 tables) |
 | T1KB / T1QA | Gender Studies and the Social Construction of Gender | `content/T1/` | ✅ v2 (Standards v2) — KB ≈22,900 words (core ≈16,600 + 123 one-liners + MCQs + 3,900-word sheet), 20 figures; QA 16 answers + 1 note, all 1,000–1,070 (note 553), 34 figures; feeders `oneliners.gsm`, `rn_sheet.gsm`, `rn_plans.gsm`, `RN.gsm` (≈5,200), `facts.gsm` |
 | T2KB / T2QA | Feminist Theories and Practice | `content/T2/` | ✅ Standards v2 — KB ≈22,300 words (core ≈16,700 + 128 one-liners + 26 MCQs + 3,700-word sheet), 25 figures; QA 6 answers + 2 notes, all 1,021–1,075 (notes 553–559), 16 figures; feeders `oneliners.gsm`, `rn_sheet.gsm`, `rn_plans.gsm`, `RN.gsm` (≈4,800), `facts.gsm` |
-| T3KB / T3QA | Feminist Movements — the West, the United Nations and Pakistan | `content/T3/` | ⬜ next |
-| T4KB / T4QA | Gender and Development | `content/T4/` | ⬜ |
+| T3KB / T3QA | Feminist Movements — the West, the United Nations and Pakistan | `content/T3/` | ✅ Standards v2 — KB ≈21,000 words (core ≈15,400 + 126 one-liners + 22 MCQs + 3,400-word sheet), 25 figures; QA 8 answers + 1 note + the 2023 repeat page, all 1,001–1,026 (note 542), 20 figures; feeders `oneliners.gsm`, `rn_sheet.gsm`, `rn_plans.gsm`, `RN.gsm`, `facts.gsm` |
+| T4KB / T4QA | Gender and Development | `content/T4/` | ⬜ next |
 | T5KB / T5QA | Status of Women in Pakistan | `content/T5/` | ⬜ |
 | T6KB / T6QA | Gender and Governance | `content/T6/` | ⬜ |
 | T7KB / T7QA | Gender-Based Violence and the Three Case Studies | `content/T7/` | ⬜ |
@@ -269,6 +269,7 @@ Copy `templates/QA_skeleton.gsm`. Order answers as `@py qa_index N` lists them (
 
 
 - **Lessons from Topic 2.** Inline markup: `***x***` is bold-italic (green), and `*italic*` may now sit inside `**bold**` (the parser was fixed in T2; before that, `***x***` printed a stray asterisk). `fig matrix` is a 2×2 quadrant — exactly four items, one sentence each (points joined by `;` run together). `fig mapping` uses `=>`, not `->`. Drafted answers again ran short (800–960); top up with "In simple words", "An example" and "The reply" sub-headings.
+- **Lessons from Topic 3.** A table's header row must not begin with an empty cell (` | A | B`) — the parser drops it; write `Aspect | A | B`. Exact repeats (2019/2023) get a short "refresh" page so answer numbers still match `qa_index`. The `--answer` count excludes figures and tables: draft each answer at 3–4 sentences per sub-heading or it lands near 800.
 
 ## 10. Workflow for one topic (the cheap path)
 

@@ -1,0 +1,37 @@
+---
+code: T3QA
+title: The Question Answers
+subtitle: Topic 3 · Feminist Movements — the West, the United Nations and Pakistan — every past question answered as a model
+header: T3 Question Answers
+gives: All nine CSS questions on Topic 3 (2016–2026) and the 2018 short note, answered in full — the exact 2023 repeat with a guide to refreshing the answer; An answer map for every answer — each branch a numbered heading; The command words and limbs of every question decoded; Model answers of 1,000–1,300 words (the note 550–650) with evidence inside every heading; Why each answer scores — what the examiner rewards
+---
+@toc
+
+# How to Use These Answers
+
+## What is in this document
+
+@py qa_index 3
+
+## How every answer is built
+
+1. **The question**, exactly as set, with its year and number.
+2. **The answer map** — a mind map whose centre states what the question asks, part by part. Every branch is one numbered heading of the answer, and every point on it is a short phrase that makes complete sense on its own — so the map alone tells the examiner the whole argument. Draw a quick version in the margin of your answer book before you write.
+3. **Decoding the question** — the command words and what each part demands.
+4. **The model answer** — 1,000 to 1,300 words (550 to 650 for a short note), the length a strong candidate can write in about thirty minutes. It is built in two levels: main headings **1, 2, 3…** taken from the question's own words, and sub-headings **i), ii), iii)…** under them. The introduction always has a simple **definition**, the **background** and the **argument**. Each sub-heading answers one point in a short paragraph with the **key words in bold**. Every answer has at least one **figure** besides the answer map (a timeline, comparison, flow, cycle, pyramid or mapping), a Pakistan angle and a balanced conclusion.
+5. **Why this answer scores** — what the examiner rewards in it.
+
+::: eye | History questions need a judgement
+Topic 3 tempts candidates to write pure history: dates, names, events. The examiner always adds a twist — **influence on Pakistan**, **effects on women's lives**, **strengths and weaknesses**, **past versus emerging**, **legal rights to bodily autonomy**, **NGO-isation**. Every answer below gives the history in dated stages and then **answers the twist** with evidence and a reasoned verdict. Notice how the same facts — Seneca Falls, WAF, the 2006 Act, the Aurat March — are re-cut to fit each question.
+:::
+
+@include qa/01.gsm
+@include qa/02.gsm
+@include qa/03.gsm
+@include qa/04.gsm
+@include qa/05.gsm
+@include qa/06.gsm
+@include qa/07.gsm
+@include qa/08.gsm
+@include qa/09.gsm
+@include qa/10.gsm

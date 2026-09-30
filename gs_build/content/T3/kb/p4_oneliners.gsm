@@ -1,0 +1,17 @@
+# Part Four — The One-Liner Bank
+
+> About 120 one-liners in the style of the past MCQs. Each is a complete, checkable fact: the **key word** is in bold green and the **date** in bold navy. Read them aloud; cover the bold words and test yourself; then attempt every past MCQ below.
+
+## The one-liners
+
+@include ../oneliners.gsm
+
+## Every past MCQ on Topic 3
+
+@py mcqs_topic 3
+
+::: trap | Three MCQ traps in Topic 3
+1. **Signed, ratified or acceded?** Pakistan **acceded** to CEDAW in **1996** — it did not sign first. Options may say "ratified"; 1996 is still the year to choose.
+2. **Adopted versus in force.** CEDAW was **adopted in 1979** and **entered into force in 1981**. Beijing's Platform was **adopted in 1995**; if 1995 is missing, choose "none of these" (MCQ 2024).
+3. **Founder versus first president.** For APWA the answer to both is **Begum Ra'ana Liaquat Ali Khan**; do not confuse APWA (1949) with WAF (1981).
+:::

@@ -1,0 +1,24 @@
+---
+code: T3KB
+title: The Knowledge Base
+subtitle: Topic 3 · Feminist Movements — the West, the United Nations and Pakistan, taught from zero
+header: T3 Knowledge Base
+gives: Syllabus Head IV taught from zero in simple English — the four waves of Western feminism, the United Nations and women, and the women's movement in Pakistan; Each wave with its principles, goals, strategies, leaders, achievements and blind spots; The four UN World Conferences, CEDAW, Beijing and its reviews, UN Women and SDG 5; Pakistan phase by phase — from the Pakistan Movement, APWA and WAF to the Aurat March, digital activism and the NGO-isation debate; Evidence inside every point, diagrams, today's debates, the examiner's record and five likely questions; About 120 MCQ-style one-liners, every past MCQ on the topic, and a detailed revision sheet for exam night
+---
+@toc
+@include kb/00_front.gsm
+@include kb/ch01_first.gsm
+@include kb/ch02_second.gsm
+@include kb/ch03_third.gsm
+@include kb/ch04_fourth.gsm
+@include kb/ch05_compare.gsm
+@include kb/ch06_un.gsm
+@include kb/ch07_roots.gsm
+@include kb/ch08_pakistan.gsm
+@include kb/ch09_influence.gsm
+@include kb/ch10_ngo.gsm
+@include kb/ch11_evaluation.gsm
+@include kb/p2_debates.gsm
+@include kb/p3_record.gsm
+@include kb/p4_oneliners.gsm
+@include kb/p5_revision.gsm
