@@ -106,10 +106,10 @@ def _styles(doc, accent):
         b.paragraph_format.line_spacing = 1.12
 
     n = _get_style(doc, "GS Numbered")
-    n.paragraph_format.left_indent = Cm(0.75)
-    n.paragraph_format.first_line_indent = Cm(-0.75)
+    n.paragraph_format.left_indent = Cm(0.95)
+    n.paragraph_format.first_line_indent = Cm(-0.95)
     n.paragraph_format.space_after = Pt(4)
-    n.paragraph_format.tab_stops.add_tab_stop(Cm(0.75))
+    n.paragraph_format.tab_stops.add_tab_stop(Cm(0.95))
 
     lead = _get_style(doc, "GS Lead")
     _font(lead, size=12, italic=True, colour=S.SLATE)

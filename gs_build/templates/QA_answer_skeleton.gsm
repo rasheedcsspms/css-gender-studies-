@@ -4,22 +4,35 @@
 ## The answer map
 ::: fig mindmap | The answer map: every branch is one numbered heading of the model answer below.
 @note <one-line strategy>
-@ask ① <LIMB ONE>
-@ask ② <LIMB TWO>
-(1) Introduction: <definition>; <context>; <thesis>
-(2) <Heading>: <evidence>; <evidence>
-(n) Conclusion: <judgement>; <way forward>
+@ask ① <PART ONE>
+@ask ② <PART TWO>
+(1) Introduction: <complete-sense phrase>; <complete-sense phrase>; <thesis phrase>
+(2) <Heading>: <phrase that makes sense alone>; <phrase>; <phrase>
+(n) Conclusion: <judgement phrase>; <way-forward phrase>
 :::
 
 ## Decoding the question
 
 ## The model answer
 
-### (1) Introduction
+### 1. Introduction
 
-### (2) <Heading from the question's words>
+#### i) Definition
 
-### (n) Conclusion
+#### ii) Background
+
+#### iii) Pakistan and the question
+
+### 2. <Heading from the question's words>
+
+#### i) <Sub-point>
+
+#### ii) <Sub-point>
+
+::: fig compare | <a figure besides the answer map>
+:::
+
+### n. Conclusion
 
 ## Why this answer scores
 - 

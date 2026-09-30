@@ -38,7 +38,10 @@ Term | Meaning
 ## Five likely questions
 
 # Part Four — The One-Liner Bank
-@include oneliners.gsm
+%% file: kb/p4_oneliners.gsm — intro, then:
+@include ../oneliners.gsm
 @py mcqs_topic n
 
 # Part Five — The Revision Sheet
+%% file: kb/p5_revision.gsm — intro, then:
+@include ../rn_sheet.gsm

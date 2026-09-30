@@ -12,11 +12,14 @@ from engine.markup import Builder, read_source   # noqa: E402
 import blocks                              # noqa: E402
 
 def answer_only(lines):
-    """Keep only the lines under '## The model answer' (up to the next '## ')."""
-    out, keep = [], False
+    """Keep only the lines under '## The model answer' (up to the next top-level '## ' outside a block)."""
+    out, keep, inblock = [], False, False
     for ln in lines:
-        if ln.startswith("## "):
-            keep = ln.strip().lower().startswith("## the model answer")
+        st = ln.strip()
+        if st.startswith(":::"):
+            inblock = st != ":::"
+        elif ln.startswith("## ") and not inblock:
+            keep = st.lower().startswith("## the model answer")
             continue
         if keep and not ln.startswith("@py"):
             out.append(ln)

@@ -231,7 +231,8 @@ def title_text(item):
     t, sep, rest = clean(item).partition(":")
     if not sep:
         return t.strip(), []
-    return t.strip(), [p.strip() for p in rest.split(";") if p.strip()]
+    pts = [p.strip() for p in rest.split(";") if p.strip()]
+    return t.strip(), [p[0].upper() + p[1:] for p in pts]
 
 
 # ============================================================ templates

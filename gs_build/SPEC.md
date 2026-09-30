@@ -11,7 +11,7 @@ decision already made, so a session never has to re-derive them. Content bluepri
 | Code | Document | Source | Status |
 |---|---|---|---|
 | MA | The Master Anatomy | `content/MA/*.gsm` | ✅ built (≈30,000 words, 15 figures, 44 tables) |
-| T1KB / T1QA | Gender Studies and the Social Construction of Gender | `content/T1/` | ✅ built — KB ≈18,600 words, 21 figures; QA 16 answers (1,001–1,175 words each) + 1 note (573); feeders `oneliners.gsm`, `facts.gsm`, `RN.gsm` written |
+| T1KB / T1QA | Gender Studies and the Social Construction of Gender | `content/T1/` | ✅ v2 (Standards v2) — KB ≈22,900 words (core ≈16,600 + 123 one-liners + MCQs + 3,900-word sheet), 20 figures; QA 16 answers + 1 note, all 1,000–1,070 (note 553), 34 figures; feeders `oneliners.gsm`, `rn_sheet.gsm`, `rn_plans.gsm`, `RN.gsm` (≈5,200), `facts.gsm` |
 | T2KB / T2QA | Feminist Theories and Practice | `content/T2/` | ⬜ next |
 | T3KB / T3QA | Feminist Movements — the West, the United Nations and Pakistan | `content/T3/` | ⬜ |
 | T4KB / T4QA | Gender and Development | `content/T4/` | ⬜ |
@@ -147,6 +147,33 @@ Blocks (`@py NAME args`):
 - **Spellings:** Malala Yousafzai; Sharmeen Obaid-Chinoy; Mukhtaran Mai (also "Mukhtar Mai"); Simone de Beauvoir;
   Kimberlé Crenshaw; Raewyn (R. W.) Connell; Zia-ul-Haq; Ra'ana Liaquat Ali Khan.
 - **Colours** are automatic per topic (`data/topics.py`); do not hard-code.
+
+## 6a. Standards v2 — the user's review of Topic 1 (these OVERRIDE §7–§8 wherever they differ)
+
+1. **One-liners** (`content/Tn/oneliners.gsm`): about **120**, **numbered** (`1. …`, continuous across groups), grouped
+   under `### A · …` sub-headings by chapter. Written **in the style of the past MCQs** — analytic, one fact or
+   distinction per line, "which is NOT / incorrect" traps included, past-MCQ facts tagged "(MCQ 2018)". **Bold every
+   key word, name and date**: `**term**` (terms and names), `==1949==` (dates, numbers), `***italic-bold***` for
+   Urdu/Latin terms and titles. KB Part Four = intro + `@include ../oneliners.gsm` + `@py mcqs_topic N` (past MCQs
+   stay in the KB).
+2. **Revision sheet** (`content/Tn/rn_sheet.gsm`, ≈3,500–4,000 words): the topic for **exam night**, one `##` section
+   per chapter, bullets of the form "**term** = meaning in a few words"; every thinker with their idea and year, every
+   date with its event, every law with its key section — **each line must make complete sense on its own**. Included
+   by KB Part Five (`kb/p5_revision.gsm`) **and** by the RN volume. `content/Tn/RN.gsm` = H1 + glance box +
+   `@include rn_sheet.gsm` + `@include rn_plans.gsm` (answer plans for every past question; RN only).
+3. **Language:** simpler — short sentences, everyday words, every technical term explained in brackets or the next
+   sentence; quotations followed by an "In simple words:" arrow line.
+4. **Answer maps:** every point is a **short phrase that makes complete sense** to an examiner (6–14 words), e.g.
+   "Pakistan founded five Women's Studies centres in 1989" — never a bare date or name. 3–4 points per branch.
+5. **Model answers:** two levels of headings — `### 1. Introduction` … and `#### i) Definition` … under each.
+   The introduction always has `i) Definition` (simple), background/origin, the Pakistani context, and the argument.
+   Every sub-heading = one point in a short paragraph (2–4 sentences) with **key words in bold**. Big parts of a
+   question (e.g. "the autonomy/integration debate") get their own main heading with many sub-headings (origin →
+   definition + simple example → case for each → risks → view). **At least one figure besides the answer map**
+   (compare / flow / cycle / tree / spectrum / grid / venn / pyramid), plus a table where useful.
+   Length 1,000–1,300 words (short notes 550–650) — check with `tools_wordcount.py --answer`.
+6. **KB length:** teaching core (Parts Zero–Three) 15,000–19,000 words; with one-liners, past MCQs and the revision
+   sheet the file is ≈22,000–24,000 words — accepted by the user.
 
 ## 7. The Knowledge Base (TnKB) — skeleton and budgets
 
