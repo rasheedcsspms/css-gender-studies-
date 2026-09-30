@@ -1,0 +1,25 @@
+# Answer k · <Short title> (CSS YYYY)
+@py question YYYY-Q
+
+## The answer map
+::: fig mindmap | The answer map: every branch is one numbered heading of the model answer below.
+@note <one-line strategy>
+@ask ① <LIMB ONE>
+@ask ② <LIMB TWO>
+(1) Introduction: <definition>; <context>; <thesis>
+(2) <Heading>: <evidence>; <evidence>
+(n) Conclusion: <judgement>; <way forward>
+:::
+
+## Decoding the question
+
+## The model answer
+
+### (1) Introduction
+
+### (2) <Heading from the question's words>
+
+### (n) Conclusion
+
+## Why this answer scores
+- 

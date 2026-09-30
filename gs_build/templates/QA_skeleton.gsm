@@ -1,0 +1,23 @@
+---
+code: TnQA
+title: The Question Answers
+subtitle: Topic n · <Topic title> — every past question answered as a model
+header: Tn Question Answers
+gives: Every CSS question on this topic, 2016–2026, answered in full; An answer map for every answer — each branch a numbered heading; The command words decoded; Model answers of 1,000–1,300 words with evidence in every heading; Why each answer scores
+---
+@toc
+
+# How to Use These Answers
+
+## What is in this document
+@py qa_index n
+
+## How every answer is built
+1. The question, exactly as set.
+2. The answer map — the centre states what the question asks, limb by limb; every branch is a numbered heading.
+3. Decoding the question — the command words and what each limb demands.
+4. The model answer — definitions first; headings from the question's own words; evidence inside every heading; a diagram; the Pakistan angle; a balanced conclusion.
+5. Why this answer scores.
+
+@include qa/01.gsm
+%% one file per answer: qa/01.gsm, qa/02.gsm … (see SPEC §8 for the answer skeleton)

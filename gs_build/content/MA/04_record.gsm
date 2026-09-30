@@ -1,0 +1,271 @@
+# Part Three — The Record: What Has Been Asked, 2016–2026
+
+> The examiner has a memory, habits and a direction of travel. This part reads all three from eleven papers, so that you prepare for the paper that is likely, not the paper you fear.
+
+## 3.1  How the record was built
+
+Every descriptive question from CE-2016 to CE-2026 was taken from the past-paper volume in this folder. That is ==77 questions==. The five short-note questions (2017, 2018, 2019, 2024, 2026) were split into their parts, because each part is a separate subject: ==84 items== in all. Each item was then tagged four ways:
+
+1. **Topic** — which of the seven topics it belongs to (its "home").
+2. **Family** — the underlying question it asks, whatever the wording. "Write a comprehensive note on the autonomy versus integration debate" (2017) and "Discuss in detail how the autonomy and integration debate has contributed to the field" (2021) belong to the same family. There are ==48 families==.
+3. **Command words** — define, differentiate, discuss, critically evaluate, and so on.
+4. **Leaks** — any second topic the answer needs.
+
+A full question counts as **one visit** to its topic; a short-note part counts as **half a visit**. The ==140 MCQs== recovered for 2016, 2018, 2019 and 2023–2026 were tagged by topic too. (The MCQ sheets for 2017, 2020, 2021 and 2022 could not be reliably recovered; no reconstruction has been attempted.)
+
+## 3.2  The heat map
+
+@py heatmap_topics
+
+### How to read it
+
+Each row is a topic, each column a paper. The darker the cell, the more the examiner visited that topic that year; the right-hand column is the total over eleven years. Three things stand out:
+
+- **Two topics carry the paper.** T4 (gender and development, ==17.5==) and T1 (the discipline and social construction, ==16.5==) together account for ==44%== of all visits.
+- **T4 never misses.** It appears in every paper, usually with one or two questions, and in 2019 with two and a half.
+- **T1 has cooled.** After dominating 2016–2023, it fell to half a visit in 2024 and none in 2025. But its 2026 question — queer theory and the transgender law — shows it returning in a harder, contemporary form.
+
+The same record, read by the nine syllabus heads rather than the seven topics, shows where inside each topic the pressure falls:
+
+@py heatmap_heads
+
+## 3.3  How much each topic weighs
+
+@py topic_weights
+
+The weights are unequal, but the lesson is not "study only the heavy topics". Look at the columns of the heat map: in most years, three or four different topics supply the seven questions. You need four good answers. A candidate who has mastered T1, T4 and T7 and neglected the rest will, in a typical year, find two or three questions they can answer well — not four. **Master every topic; master the heavy ones deeply.**
+
+::: table | The seven topics ranked by weight.
+@widths 1.4,6,1.8,1.8,5
+Rank | Topic | Visits | Share | In how many of 11 papers
+1 | T4 · Gender and Development | 17.5 | 22% | 11
+2 | T1 · The Discipline & Social Construction | 16.5 | 21% | 10
+3 | T7 · Gender-Based Violence & Case Studies | 10.5 | 13% | 9
+4 | T3 · Feminist Movements | 9.5 | 12% | 8
+5= | T5 · Status of Women in Pakistan | 8.5 | 11% | 7
+5= | T6 · Gender and Governance | 8.5 | 11% | 9
+7 | T2 · Feminist Theories | 7 | 9% | 7
+:::
+
+## 3.4  The repeat engine
+
+The strongest predictor of the next paper is the last ten. The examiner returns again and again to a small number of families. Below, every family is listed by how often it has been asked.
+
+### The families asked three times or more
+
+@py repeat_engine 3
+
+These fifteen families are the **core of the paper**. Between them they account for ==51 of the 84 items== — three in every five. Every one of them gets a full model answer in the QA documents, and most get more than one, because each repetition came with a different limb.
+
+### The families asked twice
+
+@py repeat_engine 2 2
+
+### The families asked once
+
+@py repeat_engine 1 1
+
+### Exact and near repeats
+
+The examiner does not mind repeating himself or herself word for word.
+
+::: table | Exact and near repeats in the record.
+@widths 3,3,8
+First asked | Asked again | How close
+2019 Q3 | 2023 Q5 | **Identical**: "Outline and explain the three major waves of feminist movements in the West. Discuss the influence of these waves on feminist movements in Pakistan."
+2016 Q2 | 2023 Q2 | **Near identical**: a note on the status of Women's/Gender Studies in Pakistan, plus views on the autonomy vs integration debate.
+2016 Q8 | 2021 Q7 | **Near identical**: critically review / analyse WID, WAD and GAD. (Asked again with two of the three in 2025 Q7.)
+2016 Q3 | 2017 Q3; 2023 Q8 | **Same family**: the forms of violence against women in Pakistan and strategies to eliminate it.
+2022 Q7 | 2023 Q6; 2024 Q3 | **Same family**: the colonial and capitalist perspectives of gender (2024 adds "development as coloniality").
+2017 Q6 | 2018 Q6; 2019 Q5; 2025 Q3 | **Same family**: globalisation and gender inequality (2025 adds world-system theory).
+2022 Q2 | 2023 Q3 | **Same limb**: the multidisciplinary nature of Gender Studies.
+2019 Q4 | 2021 Q6 | **Same family**: modernisation theory and women's subordination.
+:::
+
+::: eye | What repetition means for you
+The examiner is not short of ideas; he or she is testing the core. A family asked four or five times will be asked again. The question is never *whether* the waves, WID/WAD/GAD, the forms of violence, the women's movement or the quota will appear — only *in what form*. That is why the QA documents answer every repetition separately: the new limb (influence on Pakistan; "compare past and emerging trends"; "development as coloniality") is where the marks are.
+:::
+
+## 3.5  The leaks between topics
+
+Many questions have a home topic but need material from another. The table lists every leak in the record. The Knowledge Bases cross-reference each other at exactly these points, so that no answer is ever built from one topic alone.
+
+@py leaks_table
+
+The strongest channels are **T5 ↔ everything** (Pakistan's data and laws feed almost every applied question), **T2 ↔ T1 and T5** (intersectionality), and **T3 ↔ T4** (the NGO-isation debate joins the movement to development).
+
+## 3.6  The blind spots — syllabus lines never asked, 2016–2026
+
+Some syllabus lines have never been the subject of a descriptive question. Blind spots are dangerous in two ways: candidates skip them, and examiners eventually fill them. The last three papers broke several long silences (world-system theory by name in 2025; queer theory in 2026), so expect more.
+
+::: table | The blind spots of the descriptive paper.
+@widths 3.3,5.2,5.5
+Head | Syllabus line | Record
+II | Historicizing Constructionism | Never by name (2016 Q6 asked for "theories of social construction")
+III | Liberal Feminism | Never on its own; only inside comparisons (2022 Q3 "two Western schools"). MCQ 2023
+III | **Men's Feminism** | **Never asked**, in either part of the paper
+III | Psychoanalytic / Postmodern | Once each (2021 Q5; 2019 note)
+IV | **United Nations Conferences on Women** | **Never a descriptive question** — though a favourite of the MCQs (2016, 2019, 2023, 2024, 2026)
+IV | Third Wave on its own | Only paired with the first wave (2022) or within "the three waves"
+V | World-System and Dependency theories | Only as partners of other theories (2019, 2025)
+VI | **Status of Women in Education** | **Never a full question** — only through Malala (2025) and intersectionality (2026)
+VI | Women and Law | Once directly (2020 Q6, human-rights quotation); partly in 2018 Q5
+VII | **Defining Governance** | **Never asked**
+VII | **Gender Issues in Women as Voters** | **Never asked** on its own
+VII | Women as Candidates | Only within "obstacles faced by women politicians" (2024 Q7)
+:::
+
+::: eye | The most likely blind spots to break
+Three blind spots stand out: **women and education** (a whole syllabus line, never asked, and at the centre of national debate — 25 million or more children out of school, most of them girls); **the UN conferences on women** (Beijing+30 in 2025 gives the examiner a perfect hook); and **women as voters** (the gender gap in the electoral rolls and the 10% turnout rule are rich, current material). Each is taught in full depth in its topic, and each is a strong candidate for the Prediction Papers.
+:::
+
+## 3.7  Beyond the syllabus — what the examiner asked that the syllabus never names
+
+@py beyond_table
+
+Eight items — ==10%== of the record — ask about something the syllabus does not name, and six of the eight come from the last two papers. The direction is unmistakable: the examiner reads the news, the reports and the recent literature, and expects you to have done so too. The contemporary layer of every Knowledge Base (§2.4) exists to meet exactly this demand.
+
+## 3.8  The objective paper, 2016–2026
+
+@py mcq_weights
+
+@py mcq_table
+
+### What the MCQs teach
+
+- **The MCQ paper and the descriptive paper weigh the topics differently.** T4 dominates the descriptive paper but supplies only ==19== of 140 MCQs. T1 and T2 supply ==54== between them — nearly two in five — because the objective paper loves names, books and terms: who coined "hegemonic masculinity", who wrote *Gender Trouble*, what is androgyny.
+- **The objective paper has turned theoretical.** In 2016, 2018 and 2019 most MCQs asked about Pakistan: laws, dates and "firsts" (the first woman Speaker, the first woman Foreign Secretary). From 2023, most ask about theory: performativity, standpoint theory, strategic essentialism, kyriarchy, the matrix of domination, Foucault's repressive hypothesis. In 2025 and 2026 together, ==12== of 40 MCQs came from T2 alone.
+- **Defective items are common.** Several recent items had no correct option ("None of these" was the right answer to six 2026 items). Know the fact well enough to recognise when every option is wrong.
+
+### MCQ facts asked more than once
+
+::: table | The facts the objective paper keeps returning to.
+@widths 6.2,4.3,3.5
+Fact | Answer | Years
+Author of *The Second Sex* / "one is not born … a woman" | Simone de Beauvoir (1949) | 2016, 2019, 2024, 2025
+Workplace harassment law | Protection against Harassment of Women at the Workplace Act, ==2010== | 2016, 2018 (twice), 2019, 2024
+Pakistan's accession to CEDAW | ==1996== | 2016, 2018, 2019
+The Beijing Conference / Platform for Action | Fourth World Conference on Women, Beijing, ==1995== | 2019, 2023, 2024 (twice), 2026
+Hegemonic masculinity | R. W. (Raewyn) Connell | 2018, 2023, 2026
+Judith Butler | *Gender Trouble* (1990); gender is performative | 2019, 2024, 2026
+APWA | Founded ==1949== by Begum Ra'ana Liaquat Ali Khan | 2016, 2018, 2019
+The Hudood Ordinances | ==1979==, under Zia-ul-Haq; the focus of 1980s activism | 2016, 2019, 2025
+Muslim Family Laws Ordinance | ==1961== | 2016, 2018
+Kate Millett | Radical feminist | 2016, 2023
+*The Feminine Mystique* | Betty Friedan (1963) | 2024, 2025
+Post-structural feminism | The contingent, discursive nature of identities | 2018, 2023
+Women in Pakistan's first Constituent Assembly | Two (Begum Jahanara Shahnawaz and Begum Shaista Ikramullah) | 2016, 2024
+First woman Speaker of the National Assembly | Dr Fahmida Mirza (2008) | 2016, 2019
+Minimum marriage age for girls (federal law as then stood) | 16 years — **now 18 in Islamabad** under the 2025 Act | 2016, 2019
+Androgyny | Having both masculine and feminine traits | 2023, 2024
+Seneca Falls Convention | ==1848==; Elizabeth Cady Stanton and Lucretia Mott | 2024, 2025
+Malala Yousafzai | Born ==1997==; works for girls' education | 2016, 2019
+Patriarchal bargain | Deniz Kandiyoti (1988) | 2026 (twice in one paper)
+:::
+
+::: update | The child-marriage answer has changed
+Two past MCQs (2016, 2019) keyed "16 years" as the minimum marriage age for girls under federal law — correct under the Child Marriage Restraint Act of 1929 as it then applied. The **Islamabad Capital Territory Child Marriage Restraint Act 2025** (assented 30 May 2025) sets ==18== for both girls and boys in the capital; Sindh has had 18 since 2013, and the Punjab Assembly passed a bill in April 2026. If the question asks for the *current* law, read it carefully: the answer now depends on the territory.
+:::
+
+## 3.9  How the questions are shaped
+
+Beneath the wording, the eighty-four items come in seven shapes. Recognising the shape tells you the structure of the answer before you write a word.
+
+::: table | The seven shapes of a Gender Studies question.
+@widths 3.2,4.8,6
+Shape | Example | The structure it needs
+1. Define and differentiate | "Differentiate between Gender Studies and Women's Studies" (2023) | Define each; a table or list of contrasts on named criteria; examples; how they relate; conclusion
+2. Explain a theory | "Discuss the development of Marxist/socialist feminism and its philosophical stance" (2021) | Origin and thinkers; core claims; key concepts; application to Pakistan; critique; conclusion
+3. Critically evaluate | "Critically analyse WID and GAD … principles and limitations" (2025) | Define; principles of each; strengths; limitations; comparison; verdict
+4. Pakistan-applied problem | "What is the status of women's health in Pakistan? How could it be improved?" (2017) | Data-led status; causes (with theory); consequences; measures; conclusion
+5. Movement or history | "Trace the evolution of the feminist movement in Pakistan, from WAF to the digital activism of the 2020s" (2026) | Phases in order, each with events, leaders, laws and achievements; the shift the question names; evaluation
+6. Case study | "Critically examine Malala Yousafzai's achievements and activism" (2025) | The person and the event; context; what she did; impact (local and global); criticism; lessons
+7. Short notes | "(a) Is 'sex' also a social construct? (b) Radical feminism" (2024) | For each: definition, three to five developed points with evidence, one example, one-line conclusion — about 550–650 words
+:::
+
+## 3.10  The command words, decoded
+
+@py command_words
+
+::: table | What each command word demands.
+@widths 3.4,10.6
+Command | What the examiner wants
+Define | The precise meaning, ideally with the source of the definition; then an example.
+Differentiate / distinguish | The differences on stated criteria (a table is ideal), and a sentence on what the two share.
+Discuss | Several sides of the issue, developed with evidence; your reasoned conclusion.
+Explain / elaborate / elucidate | How and why something works; causes and mechanisms; examples.
+Describe / outline | The main features in order, clearly; less argument, more coverage.
+Trace | Development through time — phases, dates, turning points — in chronological order.
+Critically analyse / examine / evaluate / review | The strengths *and* weaknesses, tested against evidence, ending in a judgement. Never only praise or only criticism.
+Comment on (a statement) | Say whether and how far the statement is true, with evidence on both sides.
+Give your views / in your opinion | A clear personal position — but argued with evidence, not asserted.
+Compare | Similarities and differences, point by point.
+What are / what is | Usually the first limb: definition plus a structured list; often followed by "how" or "why", which carries more marks.
+Short notes | A compact, structured mini-answer; headings still help.
+:::
+
+## 3.11  What changed between 2016 and 2026
+
+Read in order, the eleven papers fall into three eras.
+
+::: fig flow | Three eras of the Gender Studies paper.
+@per 3
+2016–2019 · Foundations: define and differentiate; the discipline; WID/WAD/GAD; forms of violence; many short notes; MCQs on Pakistani laws, dates and "firsts"
+2020–2023 · Depth: deconstructing gender; gendered language; psychoanalytic and Marxist feminism; SAPs; colonial perspectives; the case studies; MCQs turn to concepts
+2024–2026 · Application: named laws and reports (PPWA 2016, Gender Gap 2025, Transgender Act 2018); intersectionality; climate; NGO-isation; the digital gap; MCQs on advanced theory
+:::
+
+Four shifts matter most for your preparation:
+
+1. **From "what" to "how far".** Early questions asked what things are; recent ones ask you to evaluate, apply and critique. Description alone no longer scores.
+2. **From the syllabus to the world.** Recent questions name reports, laws and statistics from the previous year or two. You need current facts, not only textbook theory.
+3. **From single topics to combinations.** 2026 Q2 combines social construction, queer theory and Pakistani law; 2026 Q6 combines the movement with a development critique. Leaks are increasing.
+4. **Longer question stems.** Several 2026 questions run to four or five lines, giving you facts to use (for example 2026 Q8(a) supplies the mobile-gap figures). Read them twice: the stem often contains the structure of the answer.
+
+## 3.12  Where the next paper could come from
+
+No one can predict a paper. But the record makes some questions much more likely than others. The tiers below guide how deeply to prepare each area. **Every syllabus line is covered in the Knowledge Bases whatever its tier**; the tiers decide how much practice-writing each deserves.
+
+### Tier 1 — prepare to full-answer depth from every angle
+
+::: table
+@widths 4.2,1.1,8.7
+Area | Topic | Why, and the angle most likely next
+Gender-based violence: forms, causes, theories, laws and strategies | T7 | Asked in 9 of 11 papers (ten items). Next angle: the new domestic-violence laws (Islamabad 2025); online violence; masculinities
+WID, WAD, GAD (with Moser and Kabeer) | T4 | Five visits. Next angle: gender mainstreaming and its critics; GAD in Pakistan's programmes (BISP)
+The waves of feminism and Pakistan | T3 | Five visits, including an exact repeat. Next angle: the fourth wave and digital feminism
+The women's movement in Pakistan | T3 | Six items (with APWA/WAF and NGO-isation), two in 2026 alone. Next angle: Aurat March; NGO-isation; the backlash
+Colonial, capitalist and development theories; globalisation | T4 | Twelve items in nine papers, across five families. Next angle: gendered globalisation and platform work; IMF programmes
+Social construction, sex/gender, masculinities and queer theory | T1 | Seven items in seven papers. Next angle: the transgender law and the courts; masculinities
+Political quotas and participation | T6 | Six items in six papers. Next angle: the 2024 elections; the 5% ticket rule; reserved seats disputes
+Intersectionality | T2/T5 | Asked in both of the last two papers — a new favourite
+:::
+
+### Tier 2 — prepare to a full plan and a strong short answer
+
+::: table
+@widths 4.2,1.1,8.7
+Area | Topic | Why
+Autonomy vs integration; status of Gender Studies in Pakistan | T1 | Asked four times each, but not since 2023 — due for a return
+Women's vs Gender Studies; multidisciplinary nature | T1 | Four and two visits; a reliable "define and differentiate" question
+Radical, Marxist, psychoanalytic and postmodern feminism | T2 | Each asked once or twice; ideal short-note material
+Women's health | T5 | Three visits (2017, 2023, 2024)
+The Global Gender Gap and Pakistan's ranking | T5 | Asked 2018 and 2026; the 2026 report gives new figures
+The three case studies | T7 | Each asked once — Mukhtaran Mai (2019), Obaid-Chinoy (2020), Malala (2025); the older two are due
+Structural Adjustment Policies | T4 | Asked once (2022); IMF programmes make it topical
+Masculinities | T1/T7 | Asked 2021, 2023 and 2026 (note)
+:::
+
+### Tier 3 — the blind spots most likely to be broken
+
+::: table
+@widths 4.2,1.1,8.7
+Area | Topic | Why
+Status of women in education | T5 | A whole syllabus line never asked; out-of-school girls; Malala links
+UN Conferences on Women | T3 | Never a descriptive question; Beijing+30 (2025)
+Women as voters; defining governance | T6 | Never asked; the electoral gender gap and the 10% rule
+Men's feminism | T2 | Never asked in either part
+Liberal feminism on its own | T2 | The most famous school, never asked alone
+Women and law — family law, inheritance, the new child-marriage laws | T5 | Only one direct question in eleven years; 2025–2026 laws are new
+Historicizing constructionism | T1 | A syllabus line never asked by name
+:::

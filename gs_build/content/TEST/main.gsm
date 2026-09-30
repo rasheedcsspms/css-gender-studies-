@@ -1,0 +1,203 @@
+---
+code: TEST
+title: Engine Test
+subtitle: Every block and figure in one file
+header: Engine Test
+gives: Boxes and cards; Tables; Every figure template
+---
+@toc
+
+# Part Zero — A Test Heading
+
+> This is a lead paragraph that introduces the part in a friendly way.
+
+Gender is the set of **roles, behaviours and expectations** a society attaches to being a woman or a man. The word was used in this sense from ==1972== onwards, when *Ann Oakley* wrote her book. This is ^^plain bold^^.
+
+## 0.1  Second level heading
+
+- A first bullet with a **key term**.
+  - A second-level bullet.
+    - A third-level bullet.
+- Back to level one.
+
+1. A numbered paragraph with ==1848== inside.
+2. A second numbered paragraph.
+
+### Third level
+
+#### Fourth level
+
+##### Fifth level
+
+::: simple
+Sex is about bodies. Gender is about society. Think of sex as the hardware and gender as the software.
+:::
+
+::: trap | Do not confuse the two debates
+- Sex vs gender is a debate about **what** differences exist.
+- Nature vs nurture is a debate about **why**.
+-> Keep them apart in your introduction.
+:::
+
+::: thinker Simone de Beauvoir | French philosopher · The Second Sex (1949)
+"One is not born, but rather becomes, a woman."
+-> Womanhood is made by society, not given by birth.
+:::
+
+::: data Global Gender Gap Report 2026 | World Economic Forum
+Pakistan ranked ==143rd of 145== economies with a parity score of ==59.5%==, up from 148th of 148 in 2025.
+-> Pakistan remains near the bottom despite the biggest one-year gain in a decade.
+:::
+
+::: law Criminal Law (Amendment) (Offences in the name or pretext of Honour) Act 2016
+Removed the family's power to forgive a murderer in the name of honour so as to escape punishment.
+-> Closed the forgiveness loophole the examiner asked about.
+:::
+
+::: table | A test table
+@widths 2,5,3
+Term | Meaning | Asked
+**Sex** | Biological difference // chromosomes, hormones, organs | 2018, 2024
+**Gender** | Social difference | 2020
+**Patriarchy** | Rule of the father | MCQ 2023
+:::
+
+::: fig mindmap | The answer map
+@note Define both, then prove the difference with five contrasts.
+@ask ① DEFINE Gender Studies
+@ask ② DIFFERENTIATE it from Women's Studies
+(1) Introduction: Oakley 1972; the shift from women to gender
+(2) Women's Studies: born 1969–70 Cornell, San Diego; women as subject and agent
+(3) Gender Studies: relations between genders; men and masculinities; LGBTQ
+(4) Five contrasts: subject; aim; method; politics; institutions
+(5) Pakistan: QAU 1989; centres; debates
+(6) Conclusion: complementary, not rival
+:::
+
+::: fig flow | A flow
+Women in Development: 1970s; Boserup 1970
+Women and Development: late 1970s; Marxist
+Gender and Development: 1980s; relations and power
+Gender mainstreaming: Beijing 1995
+:::
+
+::: fig flow | A vertical flow
+@dir down
+Problem: women left out
+Solution: add women
+Critique: ignores power
+:::
+
+::: fig timeline | A horizontal timeline
+1848: Seneca Falls Convention
+1893: New Zealand grants the vote
+1949: The Second Sex
+1963: The Feminine Mystique
+1979: CEDAW adopted
+1995: Beijing Platform
+2018: Aurat March begins
+:::
+
+::: fig timeline | A vertical timeline with groups
+== First wave (1848–1920)
+1848: Seneca Falls Convention in New York
+1918: British women over 30 get the vote
+== Second wave (1960s–1980s)
+1963: Betty Friedan's The Feminine Mystique names 'the problem that has no name'
+1970: Kate Millett's Sexual Politics
+== Third wave (1990s–2010s)
+1991: Rebecca Walker coins 'third wave'
+:::
+
+::: fig compare | A comparison
+@vs vs
+## Women's Studies
+- Studies women
+- Born of the women's movement
+- Aims to fill the gaps
+## Gender Studies
+- Studies relations between genders
+- Includes men and sexual minorities
+- Aims to analyse power
+:::
+
+::: fig tree | A tree
+Schools of feminism
+- Liberal: equal rights through law
+  - Wollstonecraft
+  - Mill
+  - Friedan
+- Radical: patriarchy is the root
+  - Millett
+  - Firestone
+- Marxist/Socialist: capitalism and patriarchy
+  - Engels
+- Psychoanalytic: the unconscious mind
+- Postmodern: no single 'woman'
+:::
+
+::: fig grid | A grid
+@cols 3
+Health: maternal deaths; malnutrition
+Education: literacy 53% for women
+Employment: LFPR 24.4%
+Law: many acts, weak enforcement
+Politics: 60 reserved seats
+Violence: honour killings
+:::
+
+::: fig cycle | A cycle
+@centre The cycle of violence
+Tension builds: stress, anger
+Incident: abuse happens
+Reconciliation: apology
+Calm: honeymoon phase
+:::
+
+::: fig spectrum | A spectrum
+@left Nature
+@right Nurture
+10: Biological determinism
+30: Evolutionary psychology
+55: Interactionism
+80: Social learning theory
+95: Strong social constructionism
+:::
+
+::: fig venn | A venn
+@centre A Dalit Muslim woman
+Gender: sexism
+Class: poverty
+Religion: minority status
+:::
+
+::: fig pyramid | A pyramid
+Direct violence: visible acts — beating, acid, murder
+Cultural violence: beliefs that justify it
+Structural violence: laws, poverty and institutions that harm without a hand
+:::
+
+::: fig matrix | A 2x2
+@x Addresses condition → position
+@y Short-term → long-term
+Practical needs: water, health
+Strategic interests: law, voice
+Welfare: relief
+Empowerment: power
+:::
+
+::: fig bars | Bars
+@unit %
+@max 100
+Iceland: 93
+Pakistan: 59.5 *
+Global average: 69.2
+:::
+
+@py heatmap_topics
+@py topic_weights
+@py papers_glance
+@py repeat_engine 3
+@py mapping_heads
+@py family_docs
+@py command_words

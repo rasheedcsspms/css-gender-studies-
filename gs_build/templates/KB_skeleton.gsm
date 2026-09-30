@@ -1,0 +1,44 @@
+---
+code: TnKB
+title: The Knowledge Base
+subtitle: Topic n · <Topic title from data/topics.py>
+header: Tn Knowledge Base
+gives: The topic from zero — every term explained in simple English; Every syllabus line and every past-question family, with evidence inside every point; <n> diagrams; the contemporary debates; The examiner's record and five likely questions; A one-liner bank, every past MCQ, and a revision sheet
+---
+@toc
+
+# How to Use This Document
+
+## What this topic covers
+%% syllabus lines word for word; what the topic adds beyond them (MA §2.3); its weight in the record (MA §3.3)
+
+## How this document is built
+%% Part Zero → Part Five; the cards and boxes (one line each); reading order
+
+# Part Zero — The ABC of <Topic>
+
+## 0.1  The words of this topic
+::: table | The key terms of Topic n (★ = must be able to define).
+@widths 3.2,10.8
+Term | Meaning
+:::
+
+## 0.2  The topic on one page
+::: fig grid | Topic n on one page.
+:::
+
+# Chapter 1 · <Title from the MA dossier plan>
+%% 900–1,800 words; headings from question words; cards inside points; simple + example boxes; trap/eye; Pakistan angle; ≥1 figure
+
+# Part Two — Contemporary Debates
+
+# Part Three — The Examiner's Record of Topic n
+@py topic_questions n
+## What the record reveals
+## Five likely questions
+
+# Part Four — The One-Liner Bank
+@include oneliners.gsm
+@py mcqs_topic n
+
+# Part Five — The Revision Sheet

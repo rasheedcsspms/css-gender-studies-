@@ -1,0 +1,17 @@
+---
+code: MA
+title: The Master Anatomy
+subtitle: The paper, the record of 2016–2026, the seven topics, the method and the plan — the map you read before anything else
+header: The Master Anatomy
+gives: Gender Studies from zero — the ideas, words, thinkers and timeline a complete beginner needs; The paper explained — syllabus, reading list, structure, marks and minutes; Every descriptive question (2016–2026) and all 140 recovered MCQs tagged, mapped and analysed; The nine syllabus heads rebuilt into seven topics, each with a full dossier; The method of a high-scoring answer, and a sixteen-week plan to the exam hall
+---
+@toc
+@include 00_how.gsm
+@include 01_zero.gsm
+@include 02_paper.gsm
+@include 03_topics.gsm
+@include 04_record.gsm
+@include 05_dossiers.gsm
+@include 06_method.gsm
+@include 07_plan.gsm
+@include 08_appendices.gsm

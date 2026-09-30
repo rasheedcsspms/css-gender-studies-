@@ -1,0 +1,121 @@
+# Part Two — Seven Topics: Rebuilding the Syllabus
+
+## 2.1  Why seven topics — and why these seven
+
+The nine syllabus heads are uneven. Head I (the discipline) and Head II (social construction) are both short and conceptual, and the examiner mixes them freely: the question "how do you deconstruct the word gender?" (2020) belongs to both. Head IX is not a subject at all but three people, all of whose stories are stories of violence and resistance. Meanwhile Head V (gender and development) is the heaviest head in the record and needs a long topic of its own.
+
+A good topic is one unit you can master in two to three weeks, whose questions are answered in one recognisable way. Two decisions follow, and nothing else is moved:
+
+1. **Heads I and II become Topic 1.** You cannot explain the discipline of Gender Studies without the idea of gender as a social construction, and you cannot discuss social construction without the discipline that invented it. Together they form the foundation of the subject — "what is gender, and how do we study it?" — and the examiner treats them as one family.
+2. **Heads VIII and IX become Topic 7.** Mukhtaran Mai (rape ordered by a village council), Malala Yousafzai (shot for demanding education) and Sharmeen Obaid-Chinoy (films on acid attacks and honour killing) are each a case study *of violence against women and the resistance to it*. Studying them inside the violence topic means every case study answer arrives with theory, law and data already in hand — and every violence answer can call on a vivid case.
+
+Heads III, IV, V, VI and VII each become one topic, unchanged. No syllabus line is split between topics, and no line is dropped.
+
+@py mapping_heads
+
+## 2.2  The seven topics at a glance
+
+::: fig grid | The seven topics of these notes, with the syllabus heads each one carries.
+@cols 4
+T1 · The Discipline and Social Construction: Heads I + II
+T2 · Feminist Theories and Practice: Head III
+T3 · Feminist Movements: Head IV
+T4 · Gender and Development: Head V
+T5 · Status of Women in Pakistan: Head VI
+T6 · Gender and Governance: Head VII
+T7 · Gender-Based Violence and the Case Studies: Heads VIII + IX
+:::
+
+::: table | The seven topics.
+@widths 1,5,2,6
+T | Topic | Heads | What it covers
+T1 | Gender Studies and the Social Construction of Gender | I + II | The meaning and birth of the discipline; Women's vs Gender Studies; its multidisciplinary nature; autonomy vs integration; the field in Pakistan; sex and gender; the history of constructionism; queer theory; is sex also constructed?; masculinities and femininities; nature vs culture; gendered language; the transgender debate.
+T2 | Feminist Theories and Practice | III | What feminism is; liberal, radical, Marxist/socialist, psychoanalytic, men's and postmodern feminism; plus intersectionality, Black, postcolonial, eco- and Muslim feminisms; which feminism suits Pakistan.
+T3 | Feminist Movements — the West, the UN and Pakistan | IV | The four waves in the West; the suffrage struggle; the UN conferences, CEDAW and Beijing; the women's movement in Pakistan from APWA to WAF to Aurat March; NGO-isation; digital activism.
+T4 | Gender and Development | V | Colonial and capitalist perspectives; modernisation, dependency, world-system and structural functionalism; WID, WAD, GAD; Moser and Kabeer; SAPs; globalisation; gender and climate change.
+T5 | Status of Women in Pakistan | VI | Health, education, employment and law; the Constitution and pro-women laws; the Global Gender Gap; intersectional disadvantage; the digital divide; climate impacts on women.
+T6 | Gender and Governance | VII | Defining governance; the suffragist movement; women as voters, candidates and representatives; the history and impact of quotas; women in leadership.
+T7 | Gender-Based Violence and the Three Case Studies | VIII + IX | Defining GBV; theories; structural and direct forms; laws and strategies; masculinities and violence; Mukhtaran Mai, Malala Yousafzai, Sharmeen Obaid-Chinoy.
+:::
+
+## 2.3  What each topic adds beyond the syllabus's words
+
+The syllabus names the minimum. The examiner has repeatedly asked beyond it (§3.7). Each topic therefore carries the syllabus lines *and* the additions the record demands.
+
+::: table | The additions each topic carries, and why.
+@widths 1,6,7
+T | Added beyond the syllabus words | Why
+T1 | Gendered language; the transgender law (2018) and the Federal Shariat Court judgment (2023); androgyny; "doing gender"; the history of Women's Studies centres in Pakistan | Asked in 2020 (language) and 2026 (transgender law); frequent in MCQs
+T2 | Intersectionality; Black, postcolonial, eco- and Muslim feminism; standpoint theory; patriarchal bargain; kyriarchy; matrix of domination; "which feminism for Pakistan" | Intersectionality asked in 2025 and 2026; the 2023–2026 MCQs are full of these names
+T3 | The fourth wave and #MeToo; Beijing+30 (2025); CEDAW reporting; NGO-isation; digital activism; the local roots of South Asian feminism | Asked in 2025 ("different waves"), 2026 (digital activism; NGO-isation)
+T4 | Moser's practical and strategic needs; Kabeer's empowerment; gender mainstreaming; the MDGs and SDGs; ecofeminism and climate; "development as coloniality"; gender budgeting | Asked in 2018 (needs), 2024 (coloniality), 2026 (climate)
+T5 | The Global Gender Gap Report; the Gender Inequality Index; the digital gender gap; intersectional disadvantage; climate impacts; the child-marriage laws of 2025–2026 | Asked in 2018 and 2026 (gap report), 2026 (digital gap; intersectionality)
+T6 | Women in leadership; the Elections Act 2017; reserved seats in the 2024 elections; critical mass; violence against women in politics | Asked in 2020 (leadership), 2024 (political participation as a human right)
+T7 | Masculinity studies and violence; online violence; the Islamabad Domestic Violence Act (2025); the root-causes (ecological) model | Asked in 2025 (root causes) and 2026 (masculinity studies)
+:::
+
+## 2.4  The contemporary layer — the hot topics each topic carries
+
+The examiner of 2024–2026 wants the subject applied to the present. Every Knowledge Base therefore ends its teaching with a chapter of **contemporary debates**, and the Prediction Papers draw heavily on them. This is the list the notes will cover.
+
+::: table | The contemporary layer, topic by topic.
+@widths 1,13
+T | Contemporary debates the notes will cover
+T1 | The transgender law and the courts; "gender ideology" debates worldwide; the growth and funding of Gender Studies departments in Pakistan; masculinity in crisis; gender in textbooks (the Single National Curriculum debate); social media and gender norms
+T2 | Is feminism a "Western import"?; Muslim feminism and re-reading the sources; intersectionality in Pakistan; ecofeminism and climate justice; the backlash against feminism online; men as allies
+T3 | The Aurat March and its slogans; the fourth wave and #MeToo in Pakistan; Beijing+30 (2025) and the review of progress; NGO-isation and donor dependence; digital activism and its risks; the anti-gender backlash worldwide
+T4 | Gender and climate change (the 2022 floods, heat waves); the care economy and unpaid work; gender budgeting; the SDGs at mid-point; IMF programmes and austerity; platform and gig work; artificial intelligence and women's jobs
+T5 | The Global Gender Gap 2025–2026; female labour-force participation; out-of-school girls; maternal and mental health; the digital gender gap; child-marriage laws (2025–2026); inheritance in practice; intersectional disadvantage of minority, rural and disabled women
+T6 | Women in the 2024 elections; the 10% turnout rule and missing women voters; dynastic politics; women ministers; violence against women in politics; the 33% representation on public boards (2026 bills)
+T7 | Domestic violence laws (Islamabad 2025); online abuse and PECA; honour killings in the HRCP data; femicide; jirga "justice"; masculinity and violence; Mukhtaran Mai, Malala and Obaid-Chinoy today
+:::
+
+## 2.5  The two documents each topic gets
+
+### The Knowledge Base (TnKB)
+
+Each Knowledge Base is between ==15,000 and 19,000 words==, longer for the heavier topics. It is written for a beginner and builds the topic from zero:
+
+1. **How to use this document**, and the contents.
+2. **Part Zero — the ABC of the topic.** The key terms, each defined in one sentence with an example; the background you need; a one-page picture of the whole topic.
+3. **Part One — the chapters.** One chapter for every syllabus line and every family of past questions, built from the question words. Headings go up to five levels deep. Every point carries its evidence card inside it. Every chapter has simple-words boxes, examples, traps and at least one diagram — ten to eighteen diagrams per topic.
+4. **Part Two — contemporary debates.** The live controversies of the topic (§2.4), each with a balanced view and the latest data.
+5. **Part Three — the examiner's record of the topic.** Every past question, what the record reveals, and five likely questions for the next paper (not solved here; the Prediction Papers solve predicted questions).
+6. **Part Four — the one-liner bank.** Forty to eighty short facts for the MCQs and quick recall.
+7. **Part Five — the revision sheet.** The whole topic on a few pages.
+
+### The Question Answers (TnQA)
+
+Each Question Answers document answers every past question of its topic as a model of ==1,000–1,300 words== — the length a strong candidate can actually write in thirty minutes. Each answer has five parts:
+
+1. **The question** exactly as set, with its year and number.
+2. **The answer map** — a mind map whose centre states what the question asks, limb by limb, and whose every branch is one numbered heading of the answer.
+3. **Decoding the question** — what the command words demand and what each limb requires.
+4. **The model answer** — an introduction with definitions; numbered headings (1), (2)… from the question's own words, with sub-headings (i), (ii)… and (a), (b)…; evidence inside every heading; a diagram; the Pakistan angle; a balanced, forward-looking conclusion.
+5. **Why this answer scores** — what the examiner rewards in it.
+
+Where two questions are exact repeats (2019 Q3 and 2023 Q5), one full answer is given and the repeat is marked. Where questions are near repeats with different limbs, each gets its own answer, because the limbs change the structure. Short notes get complete answers of about ==550–650 words== each.
+
+::: table | Planned length of each topic's documents, weighted by the record.
+@widths 1,5.5,1.8,2.2,2.2,1.3
+T | Topic | Visits | KB words | QA answers | Rank
+T1 | Gender Studies and the Social Construction of Gender | 16.5 | about 18,500 | 16 full + 1 note | 2
+T2 | Feminist Theories and Practice | 7 | about 17,500 | 6 full + 2 notes | 7
+T3 | Feminist Movements | 9.5 | about 17,000 | 9 full + 1 note | 4
+T4 | Gender and Development | 17.5 | about 19,000 | 16 full + 3 notes | 1
+T5 | Status of Women in Pakistan | 8.5 | about 17,000 | 8 full + 1 note | 5
+T6 | Gender and Governance | 8.5 | about 16,000 | 8 full + 1 note | 5
+T7 | Gender-Based Violence and the Case Studies | 10.5 | about 18,000 | 9 full + 3 notes | 3
+:::
+
+T2 has the fewest visits but a long Knowledge Base, because it carries the most MCQs of any topic after T1 (26 of 140), because its theories are used inside every other topic, and because the examiner's new favourite — intersectionality — lives there.
+
+## 2.6  The compiled volumes
+
+When all seven topics are complete, five volumes are compiled from them (Figure 1):
+
+- **The Fact Book (FB)** records every fact in the set — dates, numbers, statistics with source and year, laws with their key sections, conventions, conferences, reports, thinkers and their books, cases and people — arranged topic by topic and then by type. It is different from an ordinary summary: it is a reference to memorise from and to refresh before the exam. Because data changes, every statistic in it carries its source and year, and it is the one volume updated last.
+- **The Question Answers (QA)** print volume gathers all seven TnQA documents in syllabus order.
+- **The One-Liner and MCQ Bank (OL)** gathers the one-liners of every Knowledge Base, all 140 recovered MCQs with explained keys, and new practice MCQs written on every syllabus line — especially the lines the objective paper has not yet touched.
+- **The Revision Notes (RN)** carry the whole subject for the last three weeks. They are deliberately fuller than a one-page summary: about ==4,500 words per topic==, with every theory, every argument frame, the essential data and laws, the answer structures for the families that repeat, and the key diagrams redrawn in simple form.
+- **The Prediction Papers (PR)** are three complete papers set exactly as FPSC prints the Gender Studies paper: the FPSC heading, time and marks, the printed instructions, Part I with 20 MCQs (options A–D) and Part II with seven questions (Q.2 to Q.8, attempt four, 20 marks each, with one question of two short notes). Each set is followed by the MCQ key and full model answers. Together they add 21 predicted descriptive questions drawn from the blind spots, the repeat engine and the contemporary layer.
