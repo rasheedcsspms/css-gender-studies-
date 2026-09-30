@@ -1,0 +1,17 @@
+# Part Four — The One-Liner Bank
+
+> About 120 one-liners in the style of the past MCQs. Each is a complete, checkable fact: the **key word** is in bold green and the **date** in bold navy. Read them aloud; cover the bold words and test yourself; then attempt every past MCQ below.
+
+## The one-liners
+
+@include ../oneliners.gsm
+
+## Every past MCQ on Topic 2
+
+@py mcqs_topic 2
+
+::: trap | Three MCQ traps in Topic 2
+1. **Two "Mitchells", one idea each.** Juliet Mitchell wrote both *Woman's Estate* (socialist feminism, 1971) and *Psychoanalysis and Feminism* (1974). Check which book the question names.
+2. **"Coined" versus "developed".** Crenshaw **coined** intersectionality (1989); Collins **developed** the matrix of domination (1990); Kandiyoti **coined** the patriarchal bargain (1988); Schüssler Fiorenza **coined** kyriarchy (1992).
+3. **"None of these" is sometimes right.** Two 2026 MCQs (Kandiyoti; Collins) had no correct option among A–C. If the name you know is missing, choose "none of these".
+:::

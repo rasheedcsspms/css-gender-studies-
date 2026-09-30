@@ -172,7 +172,7 @@ def set_properties(doc, title, subject, author="CSS Gender Studies notes"):
 # ============================================================ inline markup
 # **term** = key term (bold, subject colour) · ==date/number== (bold navy)
 # ^^bold^^ plain bold · *italic*
-_INLINE = re.compile(r"\*\*(.+?)\*\*|==(.+?)==|\^\^(.+?)\^\^|(?<![\w*])\*(?!\s)(.+?)(?<!\s)\*(?![\w*])")
+_INLINE = re.compile(r"\*\*\*(.+?)\*\*\*|\*\*(.+?)\*\*(?!\*)|==(.+?)==|\^\^(.+?)\^\^|(?<![\w*])\*(?!\s)(.+?)(?<!\s)\*(?![\w*])")
 
 
 def add_runs(p, text, size=None, colour=None, bold=False, italic=False, accent=S.GREEN):
@@ -180,13 +180,15 @@ def add_runs(p, text, size=None, colour=None, bold=False, italic=False, accent=S
     for m in _INLINE.finditer(text):
         if m.start() > pos:
             _run(p, text[pos:m.start()], size, colour, bold, italic)
-        term, num, strong, ital = m.groups()
-        if term is not None:
-            _run(p, term, size, accent, True, italic)
+        bi, term, num, strong, ital = m.groups()
+        if bi is not None:
+            _run(p, bi, size, accent, True, True)
+        elif term is not None:
+            add_runs(p, term, size, accent, True, italic, accent)      # allows *italic* inside **term**
         elif num is not None:
             _run(p, num, size, S.NAVY, True, italic)
         elif strong is not None:
-            _run(p, strong, size, colour, True, italic)
+            add_runs(p, strong, size, colour, True, italic, accent)
         else:
             _run(p, ital, size, colour, bold, True)
         pos = m.end()
@@ -210,7 +212,7 @@ def _run(p, text, size=None, colour=None, bold=False, italic=False):
 
 def plain(text):
     """Strip inline markup (for word counts and captions)."""
-    return _INLINE.sub(lambda m: next(g for g in m.groups() if g is not None), text)
+    return _INLINE.sub(lambda m: plain(next(g for g in m.groups() if g is not None)), text)
 
 
 # ============================================================ cell helpers

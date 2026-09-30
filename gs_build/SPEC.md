@@ -12,8 +12,8 @@ decision already made, so a session never has to re-derive them. Content bluepri
 |---|---|---|---|
 | MA | The Master Anatomy | `content/MA/*.gsm` | ✅ built (≈30,000 words, 15 figures, 44 tables) |
 | T1KB / T1QA | Gender Studies and the Social Construction of Gender | `content/T1/` | ✅ v2 (Standards v2) — KB ≈22,900 words (core ≈16,600 + 123 one-liners + MCQs + 3,900-word sheet), 20 figures; QA 16 answers + 1 note, all 1,000–1,070 (note 553), 34 figures; feeders `oneliners.gsm`, `rn_sheet.gsm`, `rn_plans.gsm`, `RN.gsm` (≈5,200), `facts.gsm` |
-| T2KB / T2QA | Feminist Theories and Practice | `content/T2/` | ⬜ next |
-| T3KB / T3QA | Feminist Movements — the West, the United Nations and Pakistan | `content/T3/` | ⬜ |
+| T2KB / T2QA | Feminist Theories and Practice | `content/T2/` | ✅ Standards v2 — KB ≈22,300 words (core ≈16,700 + 128 one-liners + 26 MCQs + 3,700-word sheet), 25 figures; QA 6 answers + 2 notes, all 1,021–1,075 (notes 553–559), 16 figures; feeders `oneliners.gsm`, `rn_sheet.gsm`, `rn_plans.gsm`, `RN.gsm` (≈4,800), `facts.gsm` |
+| T3KB / T3QA | Feminist Movements — the West, the United Nations and Pakistan | `content/T3/` | ⬜ next |
 | T4KB / T4QA | Gender and Development | `content/T4/` | ⬜ |
 | T5KB / T5QA | Status of Women in Pakistan | `content/T5/` | ⬜ |
 | T6KB / T6QA | Gender and Governance | `content/T6/` | ⬜ |
@@ -266,6 +266,9 @@ Copy `templates/QA_skeleton.gsm`. Order answers as `@py qa_index N` lists them (
   (with one table or card inside), "Why this answer scores".
 - Verify unfamiliar facts before writing; never attribute specific claims to a reading-list author you have not read
   (use a `remember`/`note` box instead of a `thinker` card).
+
+
+- **Lessons from Topic 2.** Inline markup: `***x***` is bold-italic (green), and `*italic*` may now sit inside `**bold**` (the parser was fixed in T2; before that, `***x***` printed a stray asterisk). `fig matrix` is a 2×2 quadrant — exactly four items, one sentence each (points joined by `;` run together). `fig mapping` uses `=>`, not `->`. Drafted answers again ran short (800–960); top up with "In simple words", "An example" and "The reply" sub-headings.
 
 ## 10. Workflow for one topic (the cheap path)
 

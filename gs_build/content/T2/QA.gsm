@@ -1,0 +1,35 @@
+---
+code: T2QA
+title: The Question Answers
+subtitle: Topic 2 · Feminist Theories and Practice — every past question answered as a model
+header: T2 Question Answers
+gives: All six CSS questions on Topic 2 (2016–2025) and the two short notes (2019, 2024), answered in full; An answer map for every answer — each branch a numbered heading; The command words and limbs of every question decoded; Model answers of 1,000–1,300 words (notes 550–650) with evidence inside every heading; Why each answer scores — what the examiner rewards
+---
+@toc
+
+# How to Use These Answers
+
+## What is in this document
+
+@py qa_index 2
+
+## How every answer is built
+
+1. **The question**, exactly as set, with its year and number.
+2. **The answer map** — a mind map whose centre states what the question asks, part by part. Every branch is one numbered heading of the answer, and every point on it is a short phrase that makes complete sense on its own — so the map alone tells the examiner the whole argument. Draw a quick version in the margin of your answer book before you write.
+3. **Decoding the question** — the command words and what each part demands.
+4. **The model answer** — 1,000 to 1,300 words (550 to 650 for a short note), the length a strong candidate can write in about thirty minutes. It is built in two levels: main headings **1, 2, 3…** taken from the question's own words, and sub-headings **i), ii), iii)…** under them. The introduction always has a simple **definition**, the **background** and the **argument**. Each sub-heading answers one point in a short paragraph with the **key words in bold**. Every answer has at least one **figure** besides the answer map (a comparison, flow, cycle, pyramid or Venn diagram), often a table as well, a Pakistan angle, the criticisms and a balanced conclusion.
+5. **Why this answer scores** — what the examiner rewards in it.
+
+::: eye | Theory questions need Pakistan too
+Topic 2 is the most theoretical topic in the paper, and many candidates answer it like a Western textbook — names, dates and nothing else. The examiner rewards the candidate who **applies** each school: every answer below ends its analysis with a **Pakistan angle**, and several **test the question's own wording** (for example, the word "inherent" in 2021). Notice also how the same thinkers — Millett, Hartmann, Chodorow, Crenshaw — are re-used under different headings to fit each question.
+:::
+
+@include qa/01.gsm
+@include qa/02.gsm
+@include qa/03.gsm
+@include qa/04.gsm
+@include qa/05.gsm
+@include qa/06.gsm
+@include qa/07.gsm
+@include qa/08.gsm
