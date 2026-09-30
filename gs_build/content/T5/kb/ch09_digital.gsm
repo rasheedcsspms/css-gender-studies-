@@ -1,0 +1,125 @@
+# Chapter 9 · The Digital Gender Gap
+
+> A 2026 short note asked about the "**gendered implications of digital transformation and the narrowing mobile gender gap** in Pakistan (2024–2025), including the fact that **eight million more women** came online and the mobile internet gender gap fell from **38% to 25%**." This chapter explains the gap, its causes, its recent narrowing and what it means for women.
+
+## 9.1  What the digital gender gap is
+
+::: define Digital gender gap | three layers
+The difference between women and men in (1) **access** — owning a phone or using the internet; (2) **skills and use** — the ability to use digital services; and (3) **benefits** — using digital tools to learn, earn, bank, get health care or information, and be safe online.
+:::
+
+The organisation that measures the **mobile** gender gap across low- and middle-income countries is the **GSMA** (the association of mobile operators), in its annual *Mobile Gender Gap Report*.
+
+## 9.2  Pakistan's recent progress
+
+::: data The narrowing mobile-internet gender gap | GSMA, as cited in the CSS 2026 paper
+Between 2024 and 2025, Pakistan's **mobile-internet gender gap** fell from ==38%== to ==25%==, and about **eight million more women** came online. A gap of 25% means women are still a quarter less likely than men to use mobile internet.
+:::
+
+::: fig bars | Pakistan's mobile-internet gender gap (%).
+@unit %
+@colour 2F7D4F
+Before (2024): 38
+After (2025): 25 *
+:::
+
+What drove the change:
+
+1. **Cheaper smartphones and data**.
+2. **Digital payments** — BISP and other cash transfers paid through mobile accounts and biometric systems bring women into digital finance.
+3. **Awareness and skills** programmes by government, operators and NGOs.
+4. **Social media and online work** — women's use of messaging, video and freelancing platforms.
+5. **Identity cards** — more women registered for CNICs, which are needed to buy a SIM card.
+
+## 9.2a  Pakistan in the global picture
+
+Across low- and middle-income countries, the GSMA has long reported that **South Asia** has the widest mobile gender gaps in the world, and Pakistan has been among the widest within the region. The narrowing to ==25%== is therefore significant — but it still leaves Pakistan behind many peers. The gap is widest among **rural, older, less-educated and poorer** women, which means the digital divide is itself **intersectional**: a young, educated urban woman may be almost as connected as a man, while a rural woman with no schooling may have no phone of her own at all.
+
+::: simple
+A phone today is a bank, a school, a clinic, a job centre and a newspaper. A woman without one is shut out of all five. That is why the digital gap matters for every other dimension of women's status.
+:::
+
+## 9.3  Why the gap exists — the barriers
+
+::: fig tree | Barriers to women's digital inclusion in Pakistan.
+Barriers
+- Access
+  - Cost of phones and data
+  - No CNIC for a SIM
+  - Poor rural coverage
+- Skills
+  - Low literacy
+  - Low digital literacy
+- Social norms
+  - Family disapproval
+  - Men control phones
+- Safety
+  - Online harassment
+  - Blackmail and image abuse
+:::
+
+1. **Affordability** — phones and data are a larger burden for women with little or no income.
+2. **Identity documents** — a SIM must be registered to a **CNIC**; many rural women lack one.
+3. **Literacy** — low female literacy (about ==53%==) limits use of text-based services.
+4. **Social norms** — families may disapprove of girls and women owning phones; phones are often **shared** or controlled by male relatives.
+5. **Online harassment** — abuse, blackmail, doxxing and fake images drive women offline; many do not report.
+6. **Relevance** — few services designed for women in local languages.
+
+## 9.4  Gendered implications of digital transformation
+
+::: fig compare | Digital transformation: opportunities and risks for women.
+## Opportunities
+- Income from freelancing and online business at home
+- Mobile banking and direct cash transfers
+- Telemedicine and health information
+- Online learning and skills
+- Voice, networks and activism
+## Risks
+- Online harassment, blackmail and image abuse
+- Surveillance and control by family
+- Insecure platform work without protection
+- Misinformation and scams
+- A new divide if rural and poor women are left out
+:::
+
+### (1) Economic
+
+Women whose mobility is restricted can earn from home through **freelancing**, **e-commerce** and social-media businesses; mobile wallets give them money in their own names.
+
+### (2) Health and education
+
+**Telemedicine** platforms connect women patients with women doctors; online learning reaches girls who cannot attend distant schools.
+
+### (3) Social protection
+
+**BISP** payments through biometric and digital systems reduce leakages and reach women directly.
+
+### (4) Voice and activism
+
+Social media amplified campaigns such as the **Aurat March** and responses to violence (Topic 3).
+
+### (5) Safety risks
+
+The **Prevention of Electronic Crimes Act 2016** criminalises online harassment and image-based abuse (it was amended in 2025); the **FIA**'s cybercrime wing handles complaints; the **Digital Rights Foundation** runs a cyber-harassment helpline (from ==2016==). Many women still fear reporting.
+
+## 9.4a  Women in the digital economy
+
+Pakistan is one of the world's larger sources of **online freelancers**, and women form a growing share, working from home in writing, design, programming, virtual assistance and online teaching. Social-media commerce lets women sell clothes, food and crafts from home. For women whose families restrict their movement, this is a real opening. But online work is **insecure** — no contracts, pensions or protection — and payment systems can be hard to access without a bank account or CNIC. Digital skills programmes and women's access to **digital finance** are therefore as important as phones themselves.
+
+## 9.4b  Reporting online harassment
+
+A woman who is harassed or blackmailed online can complain to the **Federal Investigation Agency (FIA)** cybercrime wing (now being moved to a new cybercrime agency) under **PECA 2016**, or seek help from the **Digital Rights Foundation**'s helpline. In practice, many women hesitate: they fear their families will blame them or take away their phones, and complaint processes can be slow. Surveys by digital-rights groups suggest that most women who face online harassment never report it. Faster, confidential and women-friendly reporting — with female investigators — would encourage more women to use their legal protection.
+
+## 9.5  The way forward
+
+1. **Close the access gap** — affordable devices and data; CNIC registration drives for women; rural coverage.
+2. **Digital skills** — through schools, LHWs, BISP and women's centres.
+3. **Safety by design** — faster, women-friendly cybercrime reporting; platform accountability.
+4. **Women-centred services** — health, finance, agriculture and legal information in local languages and voice.
+5. **Protect digital workers** — social security and fair terms for freelancers.
+6. **Data** — track the gap by sex, region and income.
+7. **Link to SDG target 5.b** — use technology to empower women.
+
+::: eye | Short note on the digital gap (2026)
+Define the gap (access, skills, benefits); the GSMA figures (38% → 25%; eight million more women online); drivers of progress; remaining barriers (cost, CNIC, literacy, norms, harassment); implications (opportunities and risks — compare figure); policy (three or four points). About 600 words.
+:::

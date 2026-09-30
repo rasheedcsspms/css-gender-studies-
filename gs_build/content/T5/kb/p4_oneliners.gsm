@@ -1,0 +1,17 @@
+# Part Four — The One-Liner Bank
+
+> About 120 one-liners in the style of the past MCQs. Each is a complete, checkable fact: the **key word** is in bold green and the **date** in bold navy. Read them aloud; cover the bold words and test yourself; then attempt every past MCQ below.
+
+## The one-liners
+
+@include ../oneliners.gsm
+
+## Every past MCQ on Topic 5
+
+@py mcqs_topic 5
+
+::: trap | Three MCQ traps in Topic 5
+1. **Harassment: 2010, not 2006.** The workplace harassment law is ==2010==; the Women's Protection Act is ==2006==. Both appear often (the 2010 Act in five MCQs).
+2. **"The paper states…".** Some MCQs quote figures from the paper itself (female literacy 48%, breast-cancer deaths 13,000). Choose the figure the stem attributes, even if newer data differ.
+3. **Minimum marriage age.** Under the old **federal** law it is **16** for girls; Sindh (2013) and Islamabad (2025) set **18**. Read whether the stem asks for federal, provincial or Islamabad law.
+:::

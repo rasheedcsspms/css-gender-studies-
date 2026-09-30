@@ -1,0 +1,36 @@
+---
+code: T5QA
+title: The Question Answers
+subtitle: Topic 5 · Status of Women in Pakistan — every past question answered as a model
+header: T5 Question Answers
+gives: All eight CSS questions on Topic 5 (2017–2026) and the short note, answered in full; An answer map for every answer — each branch a numbered heading; The command words and limbs of every question decoded; Model answers of 1,000–1,300 words (note 550–650) with current Pakistani data inside every heading; Why each answer scores — what the examiner rewards
+---
+@toc
+
+# How to Use These Answers
+
+## What is in this document
+
+@py qa_index 5
+
+## How every answer is built
+
+1. **The question**, exactly as set, with its year and number.
+2. **The answer map** — a mind map whose centre states what the question asks, part by part. Every branch is one numbered heading of the answer, and every point on it is a short phrase that makes complete sense on its own — so the map alone tells the examiner the whole argument. Draw a quick version in the margin of your answer book before you write.
+3. **Decoding the question** — the command words and what each part demands.
+4. **The model answer** — 1,000 to 1,300 words (550 to 650 for a short note), the length a strong candidate can write in about thirty minutes. It is built in two levels: main headings **1, 2, 3…** taken from the question's own words, and sub-headings **i), ii), iii)…** under them. The introduction always has a simple **definition** and the **argument**. Each sub-heading answers one point in a short paragraph with the **key words in bold**. Every answer has at least one **figure** besides the answer map (a comparison, flow, cycle, pyramid, Venn, grid or mapping), a Pakistan angle and a balanced conclusion.
+5. **Why this answer scores** — what the examiner rewards in it.
+
+::: eye | Topic 5 is won with current, dated data
+Every question on this topic is about Pakistan **now**, so the examiner rewards **dated figures with sources**: MMR ==186== (PMMS 2019), female literacy about ==53%== (Census 2023), female labour-force participation ==24.4%== (LFS 2024–25), Global Gender Gap ==148/148== (2025) and ==143/145== (2026), the mobile-internet gap ==38% → 25%== (GSMA). Notice how the same small set of numbers and laws — Articles 25 and 34, MFLO 1961, the 2006 Act, the Harassment Act 2010, the 2016 honour law, the LHW Programme — is re-cut for each question. The two health questions of 2017 and 2023 overlap; they are answered separately to show how "within available resources" and "status as a whole" change the answer.
+:::
+
+@include qa/01.gsm
+@include qa/02.gsm
+@include qa/03.gsm
+@include qa/04.gsm
+@include qa/05.gsm
+@include qa/06.gsm
+@include qa/07.gsm
+@include qa/08.gsm
+@include qa/09.gsm

@@ -1,0 +1,23 @@
+---
+code: T5KB
+title: The Knowledge Base
+subtitle: Topic 5 · Status of Women in Pakistan — health, education, employment and law, taught from zero
+header: T5 Knowledge Base
+gives: Syllabus Head VI taught from zero in simple English — the status of women in Pakistan in health, education, employment and law; How status is measured — the Global Gender Gap Report 2025 and 2026, and why Pakistan ranks so low; Maternal health and Fathalla's "road to maternal death"; education gaps; the double burden of paid work; The Constitution, family law, protective laws, human rights and the enforcement gap; Intersectional disadvantage, the digital gender gap and climate impacts; Evidence and current data inside every point, diagrams, today's debates, the record and five likely questions; About 120 MCQ-style one-liners, every past MCQ on the topic, and a detailed revision sheet
+---
+@toc
+@include kb/00_front.gsm
+@include kb/ch01_measuring.gsm
+@include kb/ch02_health.gsm
+@include kb/ch03_maternal.gsm
+@include kb/ch04_education.gsm
+@include kb/ch05_employment.gsm
+@include kb/ch06_constitution.gsm
+@include kb/ch07_laws.gsm
+@include kb/ch08_intersection.gsm
+@include kb/ch09_digital.gsm
+@include kb/ch10_political.gsm
+@include kb/p2_debates.gsm
+@include kb/p3_record.gsm
+@include kb/p4_oneliners.gsm
+@include kb/p5_revision.gsm

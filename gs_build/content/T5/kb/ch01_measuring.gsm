@@ -1,0 +1,146 @@
+# Part One — The Status of Women in Pakistan
+
+# Chapter 1 · Measuring Women's Status: The Global Gender Gap and Pakistan
+
+> Two questions asked why Pakistan ranks so low: "What reasons are responsible for ranking Pakistan as the **second-worst country** in the world for gender inequality despite… the 1973 Constitution?" (2018) and "Evaluate Pakistan's performance in the World Economic Forum's **Global Gender Gap Report 2025**… Identify the socio-economic and political factors" (2026). A 2024 MCQ asked Pakistan's rank in 2023 (**142nd of 146**).
+
+## 1.1  How women's status is measured
+
+Women's status cannot be seen in one number, so international bodies combine several indicators into an **index**.
+
+::: table | The main international measures of women's status.
+@widths 3.6,3,7.4
+Index | Publisher | What it measures
+Global Gender Gap Index (GGGI) | World Economic Forum, since ==2006== | Gaps between women and men in **economic participation and opportunity**, **educational attainment**, **health and survival**, and **political empowerment**
+Gender Inequality Index (GII) | UNDP, since ==2010== | Reproductive health, empowerment and labour-market gaps
+Gender Development Index (GDI) | UNDP, since ==1995== | Women's human development compared with men's
+Women, Business and the Law | World Bank | Legal equality in areas such as work, pay, marriage and assets
+SDG 5 indicators | UN | Progress on the gender goal's targets
+:::
+
+## 1.2  The Global Gender Gap Index explained
+
+::: define Global Gender Gap Index | World Economic Forum
+A yearly score from 0 to 1 (or 0–100%) showing how much of the **gap between women and men** a country has closed across four sub-indices: **economic participation and opportunity**, **educational attainment**, **health and survival**, and **political empowerment**. A score of 100% would mean full parity. It measures **gaps**, not absolute levels — a poor country can score well if women and men are equally poor.
+:::
+
+::: fig grid | The four sub-indices of the Global Gender Gap Index.
+@cols 4
+Economic participation: labour force, wages, income, senior roles, professional jobs
+Educational attainment: literacy and enrolment at each level
+Health and survival: sex ratio at birth, healthy life expectancy
+Political empowerment: women in parliament, ministers, years with a woman head of state
+:::
+
+## 1.3  Pakistan's record
+
+::: fig bars | Pakistan's rank in the Global Gender Gap Report (lower is better; out of the countries shown).
+@colour 2F7D4F
+2006 (of 115): 112
+2017 (of 144): 143 *
+2021 (of 156): 153
+2023 (of 146): 142
+2025 (of 148): 148 *
+2026 (of 145): 143
+:::
+
+::: data Global Gender Gap Report 2025 | World Economic Forum
+Pakistan ranked ==148th of 148== — **last** — with ==56.7%== of its gender gap closed (about 57% in 2024). The share of women among government ministers fell to **zero**. The report recorded a small rise in female literacy.
+:::
+
+::: data Global Gender Gap Report 2026 | World Economic Forum
+Pakistan rose to ==143rd of 145==, with ==59.5%== of the gap closed — its strongest gain in a decade. Sub-index ranks: **economic participation** ==144th==, **educational attainment** ==130th==, **political empowerment** ==107th==. It was still the lowest of the seven South Asian countries and of 38 lower-middle-income economies. The global gap was ==69.2%== closed, with parity ==120 years== away; **Iceland** ranked first for the 17th year.
+:::
+
+In ==2017== Pakistan ranked ==143rd of 144== — "**second-worst**", the basis of the 2018 question.
+
+## 1.3a  Reading Pakistan's record over time
+
+When the index began in ==2006==, Pakistan ranked ==112th of 115==. Its **score** rose slowly over the next two decades as girls' enrolment and women's political representation grew — the **60 reserved seats** of ==2002== helped the political sub-index. But its **rank** often fell, because other countries improved faster and more countries were added. In ==2017== it was ==143rd of 144== ("second-worst"), in ==2021== ==153rd of 156==, in ==2023== ==142nd of 146== (MCQ 2024), and in ==2025== last of 148. The ==2026== jump to ==143rd of 145== came mainly from **education** and **political empowerment**, each up 11 places.
+
+The lesson for an exam answer is to distinguish **rank** (relative to others) from **score** (absolute progress). Pakistan has made slow absolute progress, but others have moved faster.
+
+## 1.4  Why Pakistan ranks so low — the four sub-indices
+
+### (1) Economic participation — the biggest gap
+
+- Female **labour-force participation** is only ==24.4%== (LFS 2024–25), against roughly 80% for men.
+- Women earn far less; the ILO has reported one of the **widest gender pay gaps** in the world for Pakistan.
+- Very few women are **managers, legislators or senior officials**.
+- Most working women are in **agriculture** and the **informal sector**, much of it unpaid.
+
+### (2) Educational attainment
+
+- Female literacy is about ==53%== against about ==68%== for men (Census 2023).
+- More than **25 million** children are out of school, most of them girls.
+- Gaps are widest in **rural** areas and in **Balochistan** and parts of **Khyber Pakhtunkhwa**.
+
+### (3) Health and survival
+
+- A **skewed sex ratio** and son preference; the maternal mortality ratio was ==186== (2019); high anaemia and malnutrition among women.
+
+### (4) Political empowerment
+
+- Women's presence in the National Assembly rests mainly on **60 reserved seats**; only ==11== women won **general** seats in ==2024==.
+- In 2025 there were **no women ministers**; a woman became chief minister of Punjab in ==2024==.
+
+## 1.5  "Despite the Constitution and conventions" — why commitments have not closed the gap (2018)
+
+Pakistan's **Constitution** (Articles 25, 34) promises equality, and it has joined **CEDAW** (==1996==), the **Beijing Platform** (==1995==) and the **SDGs** (==2015==). Yet the gap persists. The reasons:
+
+::: fig cycle | Why commitments have not closed Pakistan's gender gap.
+@centre A persistent gender gap
+Weak enforcement of laws
+Patriarchal norms: purdah, honour, son preference
+Poverty and low public spending on health and education
+Unsafe transport and harassment limit mobility
+Unpaid care and no childcare
+Weak political will and representation
+Conflict, disasters and economic crises
+:::
+
+1. **The enforcement gap.** Laws exist on paper; police, courts and local officials often do not apply them.
+2. **Patriarchal social norms** — purdah, family honour, son preference, early marriage — limit girls' schooling, women's mobility and work.
+3. **Poverty and low spending.** Public spending on health and education has long been low — each only about 1–2% of GDP — so services are weak, especially for rural women.
+4. **Mobility and safety.** Unsafe transport and harassment keep women out of work and study.
+5. **Unpaid care.** Without childcare, women carry most household and care work.
+6. **Political will and voice.** Few women in elected office; gender often low on the agenda.
+7. **Crises.** Conflict in the north-west (attacks on girls' schools), the ==2022== floods and economic crises hit women hardest.
+8. **Reservations and uneven federalism.** After the **18th Amendment** (==2010==), women's development moved to the provinces, whose capacity and laws differ.
+
+## 1.5a  Pakistan in South Asia
+
+Pakistan has usually ranked **last in South Asia** in the Global Gender Gap Report. Neighbours with similar incomes and cultures have done better in particular areas:
+
+- **Bangladesh** has had far higher female labour-force participation, driven by the export garment industry, and has long had women heads of government.
+- **Sri Lanka** has near-universal female literacy and good maternal health, the result of decades of public spending on schools and clinics.
+- **Nepal** raised women's political representation through quotas in its 2015 constitution.
+
+The comparison shows that Pakistan's low ranking is **not fixed by religion or region**: policy choices — spending on girls' schools and clinics, jobs that women can reach safely, quotas and their enforcement — make the difference.
+
+## 1.5b  What would move Pakistan up the index
+
+Because the index measures **gaps**, Pakistan's rank would rise fastest with changes in the **economic** sub-index, where it is weakest.
+
+1. **More women in paid work** — through safe transport, childcare, enforcement of the harassment law and home-based and digital work with protection.
+2. **Closing the pay gap** — minimum wages enforced for women; equal pay for work of equal value.
+3. **Women in senior posts** — in the civil service, business and boards.
+4. **Girls' secondary education** — to close the enrolment gap after primary school.
+5. **Maternal and child health** — skilled birth attendance and nutrition.
+6. **Women ministers and elected women** — the 2025 fall to zero women ministers cost Pakistan heavily; appointing women to cabinet is one of the quickest ways to improve the political score.
+
+::: simple
+The index is like a report card with four subjects. Pakistan is failing worst in one subject — **economic participation**. Improving that subject would lift the overall grade more than anything else.
+:::
+
+## 1.6  Critiques of the index
+
+::: balance | How far should we trust the ranking?
+- **For:** it is consistent over time, uses official data, and compares countries on the same basis; it draws attention to Pakistan's economic gap.
+- **Against:** it measures **gaps**, not well-being; small data changes can move ranks sharply; it misses **violence**, **unpaid care** and informal work; data for Pakistan can be dated.
+-> **Line to take:** the ranking is a **signal**, not the whole story; Pakistan's rise in 2026 is welcome, but its economic gap remains among the world's widest.
+:::
+
+::: eye | The model structure for 2026 Q4
+1. Introduction: the index, its four sub-indices; Pakistan 148/148 (56.7%) in 2025 and 143/145 (59.5%) in 2026. 2. Economic participation — LFPR 24.4%, pay gap, informal work. 3. Education — literacy 53/68, out-of-school girls. 4. Health — MMR 186, anaemia, sex ratio. 5. Political empowerment — 11 women on general seats, no women ministers in 2025. 6. Socio-economic factors (poverty, norms, mobility, care). 7. Political factors (will, enforcement, federalism). 8. Critique of the index. 9. Way forward. 10. Conclusion. Draw the bars figure.
+:::
