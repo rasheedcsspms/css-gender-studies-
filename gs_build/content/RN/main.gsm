@@ -1,0 +1,167 @@
+---
+code: RN
+title: The Revision Notes
+subtitle: CSS Gender Studies — the whole subject for the last three weeks, all seven topics in one volume
+header: The Revision Notes
+updated: October 2026
+compress: yes
+gives: The whole syllabus for the last three weeks — every theory, argument frame, fact and law — in about 5,000 words per topic; Every topic opened by an at-a-glance box: its weight, its question families and what is due; Four key diagrams per topic, redrawn simply, each with the questions it serves; An answer plan for every past descriptive question, 2016 to 2026; A three-week revision timetable, the paper at a glance, the due list and the links between topics
+---
+@toc 1-2
+
+# How to Use This Volume
+
+## What this volume is
+
+These are the Revision Notes for the **last three weeks** before the CSS Gender Studies paper. They are deliberately fuller than a one-page summary. Each topic gets about **5,000 words**, enough to hold every theory, every argument frame, the essential data and laws, and an answer plan for every question the examiner has set. They are not a substitute for the Knowledge Bases, which teach the subject from zero. They are what you read once the teaching is done, to keep the whole subject in your head at once.
+
+Every topic chapter is built the same way:
+
+1. **At a glance.** The topic's syllabus heads, its weight in the paper, the families of questions it produces, and what has **never been asked** and is therefore due.
+2. **The revision sheet.** The whole topic, heading by heading, in short bulleted lines. Each line carries a **term, a thinker with a date, a law or a figure**, and the key words are in bold. Every heading ends with a **line to take** — the judgement you will write in your conclusion.
+3. **The key diagrams.** Four diagrams that carry most of the topic, redrawn simply enough to draw from memory in two minutes. Each is followed by the past questions it serves.
+4. **Every past question as an answer plan.** The skeleton of each model answer in the Question Answers: the introduction, the numbered headings in order, the evidence for each, and the conclusion.
+
+::: table | The seven topics in this volume.
+@widths 1.2,7.4,2,3.4
+Topic | Title | Syllabus head | Weight, 2016–2026
+T1 | Gender Studies and the Social Construction of Gender | I, II | 16.5 visits · 28 MCQs
+T2 | Feminist Theories and Practice | III | 7 visits · 26 MCQs
+T3 | Feminist Movements — the West, the United Nations and Pakistan | IV | 9.5 visits · 22 MCQs
+T4 | Gender and Development | V | 17.5 visits · 19 MCQs
+T5 | Status of Women in Pakistan | VI | 8.5 visits · 19 MCQs
+T6 | Gender and Governance | VII | 8.5 visits · 14 MCQs
+T7 | Gender-Based Violence and the Three Case Studies | VIII, IX | 10.5 visits · 12 MCQs
+:::
+
+::: eye | How to revise from these notes
+Never just read. For each heading of a revision sheet, **cover it, say it aloud, then check**. For each diagram, draw it on a blank sheet before you look. For each answer plan, read only the question, say the plan from memory, then compare. What you cannot recall is what you revise next. Reading feels like learning, but recalling is what you will do on the day.
+:::
+
+## The three-week timetable
+
+The plan gives the heavy topics (T4 and T1) two days each in the first pass, then a second pass from memory, two full mock sittings, and a light final day.
+
+::: table | A three-week revision timetable.
+@widths 1.6,4.2,8.2
+Day | Topic | What you do
+^^Week 1^^ | ^^First pass^^ | ^^Read, recall aloud, draw — the four heaviest topics^^
+1 | T4 · Gender and Development | Revision sheet, headings 1–8, recalled aloud
+2 | T4 | Rest of the sheet; the four diagrams; say every answer plan aloud
+3 | T1 · Gender Studies and construction | Revision sheet, recalled aloud
+4 | T1 | Diagrams; answer plans; write one answer in thirty minutes
+5 | T7 · Gender-based violence | Sheet, diagrams, plans; learn the laws timeline
+6 | T3 · Feminist movements | Sheet, diagrams, plans; the six phases in Pakistan
+7 | Review | Redraw all sixteen diagrams of T1, T3, T4 and T7; one timed answer
+^^Week 2^^ | ^^First pass completed^^ | ^^The three lighter topics, timed answers and the first mock^^
+8 | T5 · Status of women | Sheet, diagrams, plans; refresh every number with its source and year
+9 | T6 · Gender and governance | Sheet, diagrams, plans; the quota history by heart
+10 | T2 · Feminist theories | Sheet, diagrams, plans; one thinker and one book per school
+11 | T4 and T1 | Two timed answers on questions you have not practised
+12 | T7 and T3 | All answer plans aloud; one timed answer each
+13 | T5, T6 and T2 | All answer plans aloud; one timed answer
+14 | Mock 1 | Part II in full: four questions in two hours, with answer maps
+^^Week 3^^ | ^^Second pass^^ | ^^Everything from memory, the due list and the second mock^^
+15 | T4 and T1 | Write each revision sheet's headings from memory, then fill the gaps
+16 | T7, T3 and T5 | The same
+17 | T6 and T2 | The same
+18 | All seven | Draw all 28 key diagrams from memory; check against the notes
+19 | The due list | Plan an answer for every item on the due list below; refresh the dated data
+20 | Mock 2 | A complete paper — MCQs and four questions in three hours
+21 | Light day | The at-a-glance boxes, the anchor dates and the lines to take. Then rest.
+:::
+
+# The Paper at a Glance
+
+## How the paper is set
+
+The paper carries **100 marks** in three hours. **Part I** has twenty MCQs for twenty marks, answered on a separate sheet in at most thirty minutes. **Part II** has seven questions, numbered 2 to 8, of which you attempt **four**, each worth twenty marks. One question is usually split into short notes.
+
+@py topic_weights
+
+@py heatmap_topics
+
+## The time plan
+
+::: table | A working time plan for the three hours.
+@widths 3,2,9
+Stage | Minutes | What you do
+Part I (MCQs) | 20–25 | Answer all twenty; mark doubtful ones and return to them; never leave a blank
+Choosing | 8–10 | Read all seven questions twice; choose the four where you have theory *and* Pakistan evidence
+Answer maps | 4 × 3 | For each question, a quick map: introduction, numbered headings, evidence, diagram, conclusion
+Writing | 4 × 30 | About 30 minutes per answer: 1,000–1,300 words
+Review | 5–8 | Underline key terms; check names, dates and numbers; number the headings clearly
+:::
+
+## The frame of every scoring answer
+
+::: fig flow | The frame of a scoring answer.
+@per 5
+Introduction: a simple definition and your argument
+Headings: numbered, taken from the question's own words
+Each heading: a point, then a thinker, law or dated figure
+A diagram: early, labelled, referred to in the text
+Conclusion: a judgement and a way forward for Pakistan
+:::
+
+::: remember | Five habits the examiner rewards
+1. **Decode every limb.** "Define, discuss and differentiate" is three tasks; answer all three under separate headings.
+2. **Evidence inside the point.** Every heading carries a name with a date, a law with its year, or a figure with its source.
+3. **Pakistan in every answer.** Even a Western-theory question ends with what it explains in Pakistan.
+4. **One diagram at least.** The key diagrams in these notes are chosen because they fit the questions that repeat.
+5. **A judgement, not a summary.** End with a line to take — each revision sheet gives one for every heading.
+:::
+
+## What is due
+
+The record shows a clear pattern: the examiner returns to the families that repeat, but every year adds at least one question from a line never yet asked in full. Prepare an answer plan for each line below.
+
+::: table | The due list: syllabus lines never yet asked as a full question (or silent for three years).
+@widths 1.2,12.8
+Topic | Lines that are due
+T1 | The discipline half — Women's versus Gender Studies, autonomy and integration, status in Pakistan — silent since 2023
+T2 | Liberal feminism; men's feminism
+T3 | The UN conferences and CEDAW as a full question (only MCQs so far)
+T4 | World-system theory on its own; gender mainstreaming; the SDGs; the care economy
+T5 | Women's education; family law and the MFLO 1961; women in politics; climate impacts on women
+T6 | Defining governance; women as voters; the South Asian experience
+T7 | Acid attacks; workplace harassment; cyber violence; the ecological model; a comparison of the three case studies
+:::
+
+## The links between topics
+
+The same ideas serve many questions. Learn each once, in its home topic, and carry it across.
+
+::: table | Ideas that cross topics.
+@widths 4.4,1.6,8
+Idea | Home | Also earns marks in
+Intersectionality (Crenshaw 1989; Collins 1990) | T2 | T5 marginalised groups (2026); T7 root causes; T1 the move from Women's to Gender Studies
+Social construction; performativity (Butler 1990) | T1 | T2 postmodern feminism; T7 masculinities and violence
+Hegemonic masculinity (Connell 1987, 1995) | T1 | T7 masculinity studies (2026); T2 men's feminism and men's movements
+Patriarchy (Millett 1970; Walby 1990) | T2 | T7 root causes of violence; T5 status of women
+CEDAW (1979; Pakistan 1996) | T3 | T5 law and human rights; T6 Article 7 and quotas; T7 General Recommendation 19
+Beijing Platform (1995) | T3 | T4 gender mainstreaming; T6 Critical Area G; T7 Critical Area D
+Boserup (1970) and WID | T4 | T5 women's employment; T1 why a discipline was needed
+Moser's triple role; Hochschild's second shift | T4 · T5 | T5 the double burden (2019); T4 globalisation
+Hudood Ordinances (1979) and WAF (1981) | T3 | T5 law; T7 laws on violence
+Global Gender Gap Report (2025: 148th of 148; 2026: 143rd of 145) | T5 | T1 significance of Gender Studies; T6 political empowerment
+Reserved seats and the LFO (2002) | T6 | T3 phase five of the movement; T5 women in politics
+Honour-killing law (2016) | T7 | T5 law and human rights; T1 the honour-killing example of two lenses
+Malala Yousafzai | T7 | T5 girls' education
+NGO-isation | T3 | T4 donor-driven projects and the WAD critique
+Structural violence (Galtung 1969) | T7 | T5 the enforcement gap; T4 dependency and world-system
+:::
+
+@include ../T1/RN.gsm
+
+@include ../T2/RN.gsm
+
+@include ../T3/RN.gsm
+
+@include ../T4/RN.gsm
+
+@include ../T5/RN.gsm
+
+@include ../T6/RN.gsm
+
+@include ../T7/RN.gsm

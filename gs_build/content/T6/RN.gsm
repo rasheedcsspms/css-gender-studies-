@@ -6,4 +6,6 @@
 
 @include rn_sheet.gsm
 
+@include rn_figs.gsm
+
 @include rn_plans.gsm
