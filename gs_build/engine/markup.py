@@ -11,7 +11,7 @@ See gs_build/SPEC.md §3 for the full syntax. In short:
   ::: table | cap   a table (rows split on " | "; first row = header; @widths 3,7)
   ::: fig kind | c  a figure from a template (see figures.py)
   :::               closes a block
-  @toc  @pagebreak  @py NAME args  @include file  %% comment
+  @toc [1-2]  @pagebreak  @py NAME args  @include file [:: TAG]  %% comment
 Inline: **key term**  ==date/number==  ^^bold^^  *italic*
 """
 import re
@@ -38,11 +38,27 @@ def read_source(path: Path):
     out = []
     for ln in lines:
         if ln.startswith("@include "):
-            _, sub = read_source(path.parent / ln.split(None, 1)[1].strip())
+            target, _, tag = ln.split(None, 1)[1].partition(" :: ")
+            _, sub = read_source(path.parent / target.strip())
+            if tag.strip():
+                sub = _tag_h1(sub, tag.strip())
             out.extend(sub)
         else:
             out.append(ln)
     return fm, out
+
+
+def _tag_h1(lines, tag):
+    """Prefix every level-1 heading outside ::: blocks with 'TAG · ' (used by compiled volumes)."""
+    out, inblock = [], False
+    for ln in lines:
+        st = ln.strip()
+        if st.startswith(":::"):
+            inblock = st != ":::"
+        elif not inblock and ln.startswith("# "):
+            ln = f"# {tag} · {ln[2:]}"
+        out.append(ln)
+    return out
 
 
 class Builder:
@@ -271,7 +287,7 @@ class Builder:
         self.figure_file(path, caption, width)
 
     # ------------------------------------------------------------ contents
-    def toc(self):
+    def toc(self, levels="1-3"):
         self.doc.add_heading("Contents", 1)
         t, c = self._cell(S.tint(S.SLATE, 0.93), S.SLATE)
         p = c.paragraphs[0]
@@ -286,7 +302,7 @@ class Builder:
             K.add_runs(q, txt)
         K.spacer(self.doc, 8)
         p = self.doc.add_paragraph()
-        K.add_field(p, 'TOC \\o "1-3" \\h \\z \\u', "Right-click here and choose Update Field to build the contents.")
+        K.add_field(p, f'TOC \\o "{levels}" \\h \\z \\u', "Right-click here and choose Update Field to build the contents.")
 
     # ------------------------------------------------------------ the parser
     def run(self, lines):
@@ -325,9 +341,9 @@ class Builder:
                 self.heading(len(m.group(1)), m.group(2).strip())
                 i += 1
                 continue
-            if s == "@toc":
+            if s == "@toc" or s.startswith("@toc "):
                 flush()
-                self.toc()
+                self.toc(*(s.split()[1:2] or ["1-3"]))
             elif s == "@pagebreak":
                 flush()
                 K.page_break(self.doc)

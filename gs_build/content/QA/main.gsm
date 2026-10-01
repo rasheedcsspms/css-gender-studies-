@@ -1,0 +1,190 @@
+---
+code: QA
+title: The Question Answers
+subtitle: CSS Gender Studies — every descriptive question from 2016 to 2026, answered as a model, in one volume
+header: The Question Answers
+updated: October 2026
+gives: Every descriptive question set in CSS Gender Studies from 2016 to 2026 — full questions and short notes — answered in full, topic by topic; An answer map for every answer, each branch a numbered heading of the answer; The command words and limbs of every question decoded; Model answers of 1,000–1,300 words (short notes 550–650) with current, dated Pakistani evidence; Why each answer scores; A master index of every question by year, showing the topic and answer number where it is answered
+---
+@toc 1-1
+
+# How to Use This Volume
+
+## What this volume is
+
+This volume brings together the model answers from the seven topic books of the Question Answers, so that every descriptive question set in the CSS Gender Studies paper from ==2016== to ==2026== is answered in one place. The answers are grouped by **topic** — the seven topics into which the nine syllabus heads are organised — and, within each topic, in the order the questions were set. Each answer is tagged with its topic: "**T4 · Answer 7**" is the seventh answer in Topic 4.
+
+There are two ways to find an answer:
+
+1. **By topic** — turn to the topic's part. It opens with a table of its questions and a short note on how the examiner sets that topic.
+2. **By year** — use the **index of questions by year**, which follows this introduction and gives the topic and answer number for every question in every paper.
+
+## How every answer is built
+
+1. **The question**, exactly as set, with its year and number.
+2. **The answer map** — a mind map whose centre states what the question asks, part by part. Every branch is one numbered heading of the answer, and every point on it is a short phrase that makes complete sense on its own — so the map alone tells the examiner the whole argument. Draw a quick version in the margin of your answer book before you write.
+3. **Decoding the question** — the command words and what each part demands.
+4. **The model answer** — 1,000 to 1,300 words (550 to 650 for a short note), the length a strong candidate can write in about thirty minutes. It is built in two levels: main headings **1, 2, 3…** taken from the question's own words, and sub-headings **i), ii), iii)…** under them. The introduction always has a simple **definition** and the **argument**. Each sub-heading answers one point in a short paragraph with the **key words in bold**. Every answer has at least one **figure** besides the answer map, a Pakistan angle and a balanced conclusion.
+5. **Why this answer scores** — what the examiner rewards in it.
+
+::: eye | How to practise with this volume
+Do not read the answers like a textbook. Take a question, cover the answer, and give yourself **five minutes** to draw your own answer map and **thirty minutes** to write. Then compare: did you decode every limb of the question? Did each heading carry a **dated fact, a law or a thinker**? Did you include a **figure** and a **Pakistan angle**? Did you end with a **judgement**? The near repeats — the same theme asked in different words in different years — are answered separately on purpose: study how the same knowledge is re-cut to fit new wording.
+:::
+
+::: table | The seven topics and the answers in this volume.
+@widths 1.4,7.2,2.2,3.2
+Topic | Title | Syllabus head | Answers
+T1 | Gender Studies and the Social Construction of Gender | I, II | 16 full + 1 note
+T2 | Feminist Theories and Practice | III | 6 full + 2 notes
+T3 | Feminist Movements — the West, the United Nations and Pakistan | IV | 9 full + 1 note
+T4 | Gender and Development | V | 16 full + 3 notes
+T5 | Status of Women in Pakistan | VI | 8 full + 1 note
+T6 | Gender and Governance | VII | 8 full + 1 note
+T7 | Gender-Based Violence and the Three Case Studies | VIII, IX | 9 full + 3 notes
+:::
+
+# The Index of Questions by Year
+
+> Every descriptive question in every paper from 2016 to 2026, with the topic and answer number where this volume answers it. Short notes are marked.
+
+@py qa_master_index
+
+# Topic 1 · Gender Studies and the Social Construction of Gender
+
+> Syllabus heads I and II. 16 full questions and 1 short note, answered below in the order they were set. Each answer is tagged **T1**.
+
+@py qa_index 1
+
+@include ../T1/qa_eye.gsm
+@include ../T1/qa/01.gsm :: T1
+@include ../T1/qa/02.gsm :: T1
+@include ../T1/qa/03.gsm :: T1
+@include ../T1/qa/04.gsm :: T1
+@include ../T1/qa/05.gsm :: T1
+@include ../T1/qa/06.gsm :: T1
+@include ../T1/qa/07.gsm :: T1
+@include ../T1/qa/08.gsm :: T1
+@include ../T1/qa/09.gsm :: T1
+@include ../T1/qa/10.gsm :: T1
+@include ../T1/qa/11.gsm :: T1
+@include ../T1/qa/12.gsm :: T1
+@include ../T1/qa/13.gsm :: T1
+@include ../T1/qa/14.gsm :: T1
+@include ../T1/qa/15.gsm :: T1
+@include ../T1/qa/16.gsm :: T1
+@include ../T1/qa/17.gsm :: T1
+
+# Topic 2 · Feminist Theories and Practice
+
+> Syllabus head III. 6 full questions and 2 short notes, answered below in the order they were set. Each answer is tagged **T2**.
+
+@py qa_index 2
+
+@include ../T2/qa_eye.gsm
+@include ../T2/qa/01.gsm :: T2
+@include ../T2/qa/02.gsm :: T2
+@include ../T2/qa/03.gsm :: T2
+@include ../T2/qa/04.gsm :: T2
+@include ../T2/qa/05.gsm :: T2
+@include ../T2/qa/06.gsm :: T2
+@include ../T2/qa/07.gsm :: T2
+@include ../T2/qa/08.gsm :: T2
+
+# Topic 3 · Feminist Movements — the West, the United Nations and Pakistan
+
+> Syllabus head IV. 9 full questions and 1 short note, answered below in the order they were set. Each answer is tagged **T3**.
+
+@py qa_index 3
+
+@include ../T3/qa_eye.gsm
+@include ../T3/qa/01.gsm :: T3
+@include ../T3/qa/02.gsm :: T3
+@include ../T3/qa/03.gsm :: T3
+@include ../T3/qa/04.gsm :: T3
+@include ../T3/qa/05.gsm :: T3
+@include ../T3/qa/06.gsm :: T3
+@include ../T3/qa/07.gsm :: T3
+@include ../T3/qa/08.gsm :: T3
+@include ../T3/qa/09.gsm :: T3
+@include ../T3/qa/10.gsm :: T3
+
+# Topic 4 · Gender and Development
+
+> Syllabus head V. 16 full questions and 3 short notes, answered below in the order they were set. Each answer is tagged **T4**.
+
+@py qa_index 4
+
+@include ../T4/qa_eye.gsm
+@include ../T4/qa/01.gsm :: T4
+@include ../T4/qa/02.gsm :: T4
+@include ../T4/qa/03.gsm :: T4
+@include ../T4/qa/04.gsm :: T4
+@include ../T4/qa/05.gsm :: T4
+@include ../T4/qa/06.gsm :: T4
+@include ../T4/qa/07.gsm :: T4
+@include ../T4/qa/08.gsm :: T4
+@include ../T4/qa/09.gsm :: T4
+@include ../T4/qa/10.gsm :: T4
+@include ../T4/qa/11.gsm :: T4
+@include ../T4/qa/12.gsm :: T4
+@include ../T4/qa/13.gsm :: T4
+@include ../T4/qa/14.gsm :: T4
+@include ../T4/qa/15.gsm :: T4
+@include ../T4/qa/16.gsm :: T4
+@include ../T4/qa/17.gsm :: T4
+@include ../T4/qa/18.gsm :: T4
+@include ../T4/qa/19.gsm :: T4
+
+# Topic 5 · Status of Women in Pakistan
+
+> Syllabus head VI. 8 full questions and 1 short note, answered below in the order they were set. Each answer is tagged **T5**.
+
+@py qa_index 5
+
+@include ../T5/qa_eye.gsm
+@include ../T5/qa/01.gsm :: T5
+@include ../T5/qa/02.gsm :: T5
+@include ../T5/qa/03.gsm :: T5
+@include ../T5/qa/04.gsm :: T5
+@include ../T5/qa/05.gsm :: T5
+@include ../T5/qa/06.gsm :: T5
+@include ../T5/qa/07.gsm :: T5
+@include ../T5/qa/08.gsm :: T5
+@include ../T5/qa/09.gsm :: T5
+
+# Topic 6 · Gender and Governance
+
+> Syllabus head VII. 8 full questions and 1 short note, answered below in the order they were set. Each answer is tagged **T6**.
+
+@py qa_index 6
+
+@include ../T6/qa_eye.gsm
+@include ../T6/qa/01.gsm :: T6
+@include ../T6/qa/02.gsm :: T6
+@include ../T6/qa/03.gsm :: T6
+@include ../T6/qa/04.gsm :: T6
+@include ../T6/qa/05.gsm :: T6
+@include ../T6/qa/06.gsm :: T6
+@include ../T6/qa/07.gsm :: T6
+@include ../T6/qa/08.gsm :: T6
+@include ../T6/qa/09.gsm :: T6
+
+# Topic 7 · Gender-Based Violence and the Three Case Studies
+
+> Syllabus heads VIII and IX. 9 full questions and 3 short notes, answered below in the order they were set. Each answer is tagged **T7**.
+
+@py qa_index 7
+
+@include ../T7/qa_eye.gsm
+@include ../T7/qa/01.gsm :: T7
+@include ../T7/qa/02.gsm :: T7
+@include ../T7/qa/03.gsm :: T7
+@include ../T7/qa/04.gsm :: T7
+@include ../T7/qa/05.gsm :: T7
+@include ../T7/qa/06.gsm :: T7
+@include ../T7/qa/07.gsm :: T7
+@include ../T7/qa/08.gsm :: T7
+@include ../T7/qa/09.gsm :: T7
+@include ../T7/qa/10.gsm :: T7
+@include ../T7/qa/11.gsm :: T7
+@include ../T7/qa/12.gsm :: T7

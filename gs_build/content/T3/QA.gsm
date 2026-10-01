@@ -21,9 +21,7 @@ gives: All nine CSS questions on Topic 3 (2016–2026) and the 2018 short note, 
 4. **The model answer** — 1,000 to 1,300 words (550 to 650 for a short note), the length a strong candidate can write in about thirty minutes. It is built in two levels: main headings **1, 2, 3…** taken from the question's own words, and sub-headings **i), ii), iii)…** under them. The introduction always has a simple **definition**, the **background** and the **argument**. Each sub-heading answers one point in a short paragraph with the **key words in bold**. Every answer has at least one **figure** besides the answer map (a timeline, comparison, flow, cycle, pyramid or mapping), a Pakistan angle and a balanced conclusion.
 5. **Why this answer scores** — what the examiner rewards in it.
 
-::: eye | History questions need a judgement
-Topic 3 tempts candidates to write pure history: dates, names, events. The examiner always adds a twist — **influence on Pakistan**, **effects on women's lives**, **strengths and weaknesses**, **past versus emerging**, **legal rights to bodily autonomy**, **NGO-isation**. Every answer below gives the history in dated stages and then **answers the twist** with evidence and a reasoned verdict. Notice how the same facts — Seneca Falls, WAF, the 2006 Act, the Aurat March — are re-cut to fit each question.
-:::
+@include qa_eye.gsm
 
 @include qa/01.gsm
 @include qa/02.gsm

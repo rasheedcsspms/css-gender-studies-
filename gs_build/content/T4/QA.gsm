@@ -21,9 +21,7 @@ gives: All sixteen CSS questions on Topic 4 (2016–2026) and the three short no
 4. **The model answer** — 1,000 to 1,300 words (550 to 650 for a short note), the length a strong candidate can write in about thirty minutes. It is built in two levels: main headings **1, 2, 3…** taken from the question's own words, and sub-headings **i), ii), iii)…** under them. The introduction always has a simple **definition** and the **argument**. Each sub-heading answers one point in a short paragraph with the **key words in bold**. Every answer has at least one **figure** besides the answer map (a comparison, flow, cycle, pyramid, Venn, spectrum or mapping), a Pakistan angle and a balanced conclusion.
 5. **Why this answer scores** — what the examiner rewards in it.
 
-::: eye | "Critically" is the command word of Topic 4
-Almost every question here says "critically review", "critically analyse", "critical gender analysis" or "critically evaluate". Notice the pattern in the answers below: every theory or approach gets (1) what it says, (2) what it says or assumes about women, (3) its **gender critique**, and (4) a **Pakistani example**. Notice also how the same material — Boserup, Mies, Elson, Moser, Kabeer, Wallerstein — is re-cut for each question. The near repeats (WID/WAD/GAD in 2016 and 2021; colonial and capitalist perspectives in 2023 and 2024) are answered separately to show how to fit old knowledge to new wording.
-:::
+@include qa_eye.gsm
 
 @include qa/01.gsm
 @include qa/02.gsm

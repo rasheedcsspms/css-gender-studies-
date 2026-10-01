@@ -21,9 +21,7 @@ gives: All sixteen CSS questions on Topic 1 (2016–2026) and the 2024 short not
 4. **The model answer** — 1,000 to 1,300 words, the length a strong candidate can write in about thirty minutes. It is built in two levels: main headings **1, 2, 3…** taken from the question's own words, and sub-headings **i), ii), iii)…** under them. The introduction always has a simple **definition**, the **background**, the **Pakistani context** and the **argument**. Each sub-heading answers one point in a short paragraph with the **key words in bold**. Every answer has at least one **figure** besides the answer map (a comparison, flow, cycle, tree, spectrum or grid), often a table as well, a Pakistan angle, a counter-argument and a balanced conclusion.
 5. **Why this answer scores** — what the examiner rewards in it.
 
-::: eye | Repeats and near repeats
-Topic 1 repeats itself more than any other topic. Several answers below cover the same ground (the status of the field in Pakistan; autonomy versus integration; Women's versus Gender Studies) — but each is built for its own question's limbs. Notice how the *same knowledge* is re-organised under *different headings*. That skill — re-cutting what you know to fit the exact question — is what this document teaches.
-:::
+@include qa_eye.gsm
 
 @include qa/01.gsm
 @include qa/02.gsm

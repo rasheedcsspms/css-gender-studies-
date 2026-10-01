@@ -19,7 +19,7 @@ decision already made, so a session never has to re-derive them. Content bluepri
 | T6KB / T6QA | Gender and Governance | `content/T6/` | ✅ Standards v2 (restored to full length) — KB ≈22,200 words (core ≈16,500 + 120 one-liners + 14 MCQs + 3,800-word sheet), 23 figures; QA 8 answers + 1 note, all 1,051–1,061 (note 599), 18 figures; feeders `oneliners.gsm`, `rn_sheet.gsm`, `rn_plans.gsm`, `RN.gsm`, `facts.gsm` |
 | T7KB / T7QA | Gender-Based Violence and the Three Case Studies | `content/T7/` | ✅ Standards v2 — KB ≈23,200 words (core ≈17,200 + 125 one-liners + 12 MCQs + 3,985-word sheet), 28 figures; QA 9 answers + 3 notes, all 1,050–1,186 (notes 591–606), 27 figures; feeders `oneliners.gsm`, `rn_sheet.gsm`, `rn_plans.gsm`, `RN.gsm`, `facts.gsm` |
 | FB | The Fact Book | `content/FB/main.gsm` (+ `content/FB/fb/*.gsm`, `content/Tn/facts.gsm`) | ✅ built — ≈14,700 words, 54 tables, 2 figures, 60 pages: master timeline (94 events, 8 eras), topic sections T1–T7, numbers card (★ volatile, refreshed Oct 2026: HRCP 2025 = 470 honour killings; GSMA 2026 = mobile-internet gap 8%), index of laws (Constitution, ~50 Pakistani laws, international instruments), 114 thinkers, conferences/reports/surveys, cases, firsts. Front matter `updated:` sets the cover's "facts current" date |
-| QA | The Question Answers — all seven | `content/QA/main.gsm` (includes `content/Tn/QA.gsm` bodies) | ⬜ after T7 |
+| QA | The Question Answers — all seven | `content/QA/main.gsm` (generated: includes `content/Tn/qa/*.gsm :: Tn` and `content/Tn/qa_eye.gsm`) | ✅ built — ≈101,300 words, 84 answers, 176 figures, 399 pages; contents at level 1 only (`@toc 1-1`); index of questions by year (`@py qa_master_index`); answers tagged "Tn · Answer k" |
 | OL | The One-Liner and MCQ Bank | `content/OL/main.gsm` (+ `content/Tn/oneliners.gsm`) | ⬜ after T7 |
 | RN | The Revision Notes — all seven | `content/RN/main.gsm` (+ `content/Tn/RN.gsm`) | ⬜ after T7 |
 | PR | The Prediction Papers — Sets 1–3 | `content/PR/main.gsm` | ⬜ last |
@@ -243,7 +243,7 @@ Copy `templates/QA_skeleton.gsm`. Order answers as `@py qa_index N` lists them (
 
 ## 9. Compiled volumes
 
-- **QA**: `content/QA/main.gsm` = front matter + `@toc` + one H1 part per topic that `@include`s `../Tn/qa/*.gsm`.
+- **QA**: `content/QA/main.gsm` = front matter + `@toc 1-1` + how-to + `@py qa_master_index` + one H1 part per topic (`@py qa_index N`, `@include ../Tn/qa_eye.gsm`, then `@include ../Tn/qa/NN.gsm :: Tn`). `@include FILE :: TAG` prefixes every H1 in the file with "TAG · "; each topic's eye box lives in `content/Tn/qa_eye.gsm`, shared with TnQA. Regenerate main.gsm if a topic's answer list changes.
 - **OL**: front matter + per topic `@include ../Tn/oneliners.gsm` + `@py mcqs_topic N` + new practice MCQs
   (`content/OL/practice_Tn.gsm`, 25–40 per topic, weighted to lines the objective paper has not touched).
 - **RN**: front matter + per topic `@include ../Tn/RN.gsm` (≈4,500 words each).

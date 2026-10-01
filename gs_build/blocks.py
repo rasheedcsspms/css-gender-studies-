@@ -270,7 +270,7 @@ def qa_index(b, n):
     for i, d in enumerate(R.by_topic(n), 1):
         rows.append(f"{i} | {d['text'][:140] + ('…' if len(d['text']) > 140 else '')} | {R.label(d)} | "
                     + "; ".join(R.FAMILIES[f] for f in d["families"]))
-    b.table(f"The questions answered in this document (T{n}).", ["@widths 0.8,8.2,2.4,2.6", "@font 9"] + rows)
+    b.table(f"The questions answered for Topic {n}, in the order they were set.", ["@widths 0.8,8.2,2.4,2.6", "@font 9"] + rows)
 
 
 @block("mcqs_topic")
@@ -282,3 +282,27 @@ def mcqs_topic(b, n):
         if m["topic"] == n:
             rows.append(f"{m['year']} · {m['n']} | {m['stem']} | {m['answer']}")
     b.table(f"Every recovered MCQ on T{n}, with its key.", ["@widths 1.6,7.6,4.8", "@font 9"] + rows)
+
+
+@block("qa_master_index")
+def qa_master_index(b, *args):
+    """Every past question by year, with the topic and answer number it has in the compiled QA volume."""
+    num = {}
+    for t in TP.TOPICS:
+        for i, d in enumerate(R.by_topic(t["n"]), 1):
+            num[d["id"]] = (t["n"], i)
+    by = defaultdict(list)
+    for d in R.items():
+        by[d["year"]].append(d)
+    for y in R.YEARS:
+        if not by[y]:
+            continue
+        b.heading(2, f"CSS {y}")
+        rows = ["Q | The question | Answer"]
+        for d in sorted(by[y], key=lambda x: (x["q"], x["part"])):
+            q = f"Q{d['q']}" + (f"({d['part']})" if d["part"] else "")
+            txt = d["text"] if not d["short"] else f"Short note — {d['text']}"
+            txt = txt[:170] + ("…" if len(txt) > 170 else "")
+            t, i = num[d["id"]]
+            rows.append(f"^^{q}^^ | {txt} | T{t} · Answer {i}")
+        b.table(f"CSS {y}: every question and where it is answered.", ["@widths 1.1,10.3,2.6", "@font 9"] + rows)

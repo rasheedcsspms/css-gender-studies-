@@ -21,9 +21,7 @@ gives: All nine CSS questions on Topic 7 (2016–2025) and the three short notes
 4. **The model answer** — 1,000 to 1,300 words (550 to 650 for a short note), the length a strong candidate can write in about thirty minutes. It is built in two levels: main headings **1, 2, 3…** taken from the question's own words, and sub-headings **i), ii), iii)…** under them. The introduction always has a simple **definition** and the **argument**. Each sub-heading answers one point in a short paragraph with the **key words in bold**. Every answer has at least one **figure** besides the answer map (a grid, cycle, pyramid, tree, timeline or comparison), a Pakistan angle and a balanced conclusion.
 5. **Why this answer scores** — what the examiner rewards in it.
 
-::: eye | Topic 7 rewards a five-part frame
-Every violence question in this topic asks for two or three things at once — define, explain forms, devise strategies, identify causes, describe consequences. Notice how each answer below uses the same five-part frame: (1) a precise **definition** (DEVAW ==1993==; the Punjab Act ==2016==); (2) current **data** — PDHS 2017–18 (**28%**), SSDO 2024 (**32,617** cases; conviction about **0.5%**), HRCP 2024 (**405** honour killings); (3) **theory** — power and control, Galtung, the ecological model; (4) the **forms, causes, laws or consequences** the question names; and (5) **strategies** organised as prevention, protection, prosecution, provision and partnership. The three near repeats — 2016, 2017 and 2023 — are answered separately to show how to re-cut the same knowledge for "sites", "workable" and "practical". The case studies are always **analysed**, not just narrated.
-:::
+@include qa_eye.gsm
 
 @include qa/01.gsm
 @include qa/02.gsm
