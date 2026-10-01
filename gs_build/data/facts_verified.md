@@ -127,3 +127,13 @@ Obaid-Chinoy Saving Face (Oscar 2012), A Girl in the River (Oscar 2016).
 - **Malala**: Islamabad "Girls' Education in Muslim Communities" conference (Muslim World League), 11–12 Jan 2025 — Islamabad
   Declaration; Malala Fund has invested about **$14.6m** in Pakistan since 2013; "I am not Malala" day by a private schools
   federation (Nov 2014).
+
+## Refresh for the Fact Book ★ (checked 1 October 2026)
+- **HRCP State of Human Rights in 2025** (released 5 May 2026): at least **470** honour killings in 2025 (405 in 2024), more than a
+  third in Punjab; **1,332** murders linked to domestic violence; **2,586** cyber-harassment cases. (Yahoo/AFP; Greater Kashmir; The Current.)
+- **GSMA Mobile Gender Gap Report 2026** (launched June 2026; data for 2025): Pakistan's **mobile-internet gender gap 25% (2024) → 8% (2025)**;
+  women's mobile-internet adoption **45% → 53%**; **mobile-ownership gap 37% → 27%** (68% of women vs 93% of men own a phone) —
+  "most improved" of the surveyed countries; **28%** of women users use only someone else's phone (4% of men); 23% of women cite
+  family disapproval. Earlier: 2023 → 2024 gap **38% → 25%**, ~8 million more women online (GSMA 2025 — the 2026 exam note).
+- **SSDO 2025**: more than 20,000 incidents of violence against women in January–June 2025 (fact sheet); full-year report not yet verified.
+- LFS 2025–26 not yet published; **24.4%** (LFS 2024–25) remains the latest female LFPR.

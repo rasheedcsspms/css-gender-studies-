@@ -1,0 +1,50 @@
+---
+code: FB
+title: The Fact Book
+subtitle: CSS Gender Studies — every date, law, figure, thinker and case in one place, current to October 2026
+header: The Fact Book
+updated: October 2026
+gives: A master timeline of Gender Studies, from Wollstonecraft to 2026, with every event tagged to its topic; Topic by topic — the dates, laws, figures, thinkers, comparisons and quotations of all seven topics; A numbers card — every statistic you may quote, with its source and year, refreshed in October 2026; An index of laws — the Constitution's articles on women, every Pakistani law on women with its key sections, and the international instruments; An index of thinkers, a list of conferences, reports and surveys, an index of cases, and Pakistan's women "firsts"
+---
+@toc
+@include fb/00_front.gsm
+@include fb/01_timeline.gsm
+
+# Part Two — Topic by Topic
+
+> The seven sections below are the Fact Book sections written with each topic's Knowledge Base, so their dates and figures match the topic books exactly. Each gives the topic's timeline, its key tables of figures, and the comparisons and quotations examiners reward.
+
+# Topic 1 · Gender Studies and the Social Construction of Gender
+
+@include ../T1/facts.gsm
+
+# Topic 2 · Feminist Theories and Practice
+
+@include ../T2/facts.gsm
+
+# Topic 3 · Feminist Movements — the West, the United Nations and Pakistan
+
+@include ../T3/facts.gsm
+
+# Topic 4 · Gender and Development
+
+@include ../T4/facts.gsm
+
+# Topic 5 · Status of Women in Pakistan
+
+@include ../T5/facts.gsm
+
+# Topic 6 · Gender and Governance
+
+@include ../T6/facts.gsm
+
+# Topic 7 · Gender-Based Violence and the Three Case Studies
+
+@include ../T7/facts.gsm
+
+@include fb/03_numbers.gsm
+@include fb/04_laws.gsm
+@include fb/05_thinkers.gsm
+@include fb/06_reports.gsm
+@include fb/07_cases.gsm
+@include fb/08_firsts.gsm

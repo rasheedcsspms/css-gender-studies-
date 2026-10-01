@@ -90,7 +90,7 @@ def cover(doc, fm, accent):
     K._run(p, "Federal Public Service Commission  ·  CSS Competitive Examination  ·  Optional paper, 100 marks",
            9, S.SLATE)
     p = bot.add_paragraph()
-    K._run(p, f"Written for CE-2027 onwards  ·  Record: CE-2016 to CE-2026  ·  Facts current to {UPDATED}",
+    K._run(p, f"Written for CE-2027 onwards  ·  Record: CE-2016 to CE-2026  ·  Facts current to {fm.get('updated', UPDATED)}",
            9, S.SLATE, italic=True)
 
 
