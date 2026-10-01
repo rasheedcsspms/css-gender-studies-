@@ -1,22 +1,137 @@
 ---
 code: PR
 title: The Prediction Papers
-subtitle: test
+subtitle: CSS Gender Studies — three complete papers set as FPSC prints them, with explained MCQ answers and full model answers
 header: The Prediction Papers
 updated: October 2026
-gives: test
+compress: yes
+gives: Three complete CSS Gender Studies papers in the FPSC format — Part I (20 MCQs) and Part II (Q. No. 2 to Q. No. 8); Set 1 — the most probable paper; Set 2 — a difficult paper (about 70% difficult, 30% medium); Set 3 — a mixed paper of probable and difficult questions; Every MCQ explained, with the answer in bold straight after each question; Full model answers to all 25 descriptive items (1,050–1,350 words; short notes 580–650), each with an answer map, decoding, headed model answer, figures and why it scores; The reasoning behind every predicted question, and a coverage map of all seven topics and every blind spot
 ---
+@toc 1-1
+
+# How to Use This Volume
+
+## What this volume is
+
+This volume contains **three complete prediction papers** for the CSS Gender Studies examination, each set exactly as the **Federal Public Service Commission** prints the paper: the Roll Number box, the heading, the time-and-marks lines, the printed **NOTE**, **Part-I** (Q. No. 1, twenty MCQs with options (a) to (d)) and **Part-II** (Q. No. 2 to Q. No. 8, attempt any four, 20 marks each, with one question of short notes).
+
+::: table | The three sets at a glance.
+@widths 2.2,4.4,7.4
+Set | Design | What it tests
+^^Set 1^^ | The most probable paper | The questions the record makes most likely for the next paper: the families that rotate back, the blind spots most likely to break, and the 2023–2026 style of long, current stems
+^^Set 2^^ | The difficult paper: about 70% difficult, 30% medium | Theory-heavy and cross-topic questions — historicizing constructionism, men's feminism, the political economy of adjustment, Galtung, the "Western import" debate — that separate high scorers from the rest
+^^Set 3^^ | The mixed paper | Probable and medium questions alongside difficult ones — the shape of most real papers — covering the lines the first two sets leave out
+:::
+
+## How each set is built
+
+1. **The paper** — Part-I and Part-II, set as FPSC prints them. Nothing in the paper gives the answer away.
+2. **Part I explained** — every MCQ again, with its four options and the **correct answer in bold straight after it**, followed by a one-line reason.
+3. **The model answers** — one for every question in Part II, including **every** short note. Each model answer follows the house format of the Question Answers: the question in a box, an **answer map**, **decoding the question**, the **model answer** with numbered headings, sub-headings and sub-sub-headings, at least one **figure** besides the map, and **why this answer scores**.
+
+## How to sit a paper
+
+::: eye | Sit each paper as if it were the real examination
+1. **Part I — 30 minutes.** Answer all twenty MCQs on a separate sheet. Do not look at "Part I explained" until you have finished.
+2. **Choose — 10 minutes.** Read all seven questions of Part II twice and choose the four where you have both **theory** and **Pakistani evidence**.
+3. **Write — about 30 minutes per question.** Draw a quick answer map in the margin, then write 1,000–1,300 words under numbered headings, with at least one diagram.
+4. **Mark yourself.** Compare each answer with the model: did you answer every limb of the question? Did each heading carry a thinker, a law or a dated figure? Did you include a figure, a Pakistani angle and a judgement?
+5. **Space the papers out.** Sit Set 1 three weeks before the examination, Set 3 two weeks before and Set 2 one week before.
+:::
+
+# How the Papers Were Set
+
+## The method
+
+No one can predict a paper. But the eleven papers from ==2016== to ==2026== show clear patterns, analysed in the Master Anatomy, and the three sets are built on them:
+
+1. **The rotation of families.** The examiner returns to a small number of question families — gender-based violence, WID/WAD/GAD, the waves, the movement in Pakistan, development theories, social construction, quotas — in new forms.
+2. **The blind spots.** Syllabus lines never asked as a descriptive question are filled sooner or later. Every Tier 3 blind spot of the Master Anatomy appears at least once across the three sets.
+3. **The contemporary layer.** Since 2024 the examiner has named reports, laws and figures from the previous year or two. Every set includes current material: the 2025–2026 laws, the Global Gender Gap reports of 2025 and 2026, the 2024 elections, Beijing+30, the IMF programmes of 2023–2024 and the digital gender gap.
+4. **The objective paper's shift to theory.** The MCQs are weighted like the 2023–2026 papers — more concepts and thinkers than dates — with several keys of "None of these", as in 2026.
+5. **Topics 1, 4 and 7 in every set**, as the Master Anatomy's format requires.
+
+## Every descriptive question, and why it was set
+
+::: table | The 25 descriptive items across the three sets.
+@widths 1.6,1,6.6,4.8
+Set · Q | Topic | Question (in short) | Why it was set
+1 · 2 | T1 | Women's to Gender Studies; status in Pakistan; autonomy versus integration | The discipline half of T1, asked four times, silent since 2023
+1 · 3 | T7 | The domestic-violence laws, 2013–2025, and why legislation alone fails | GBV in 9 of 11 papers; the Islamabad law of 2025 completes the set
+1 · 4 | T4 | Gender mainstreaming: tools, achievements, limits | The next angle on WID/WAD/GAD; never asked in full
+1 · 5 | T3 | The fourth wave, #MeToo and the Aurat March | The waves asked five times; the fourth wave is the next step
+1 · 6 | T5 | Women's education and Article 25A | The clearest blind spot in the paper
+1 · 7 | T6 | Women as voters and candidates; Elections Act 2017; 2024 elections | A blind spot with rich, current data
+1 · 8(a) | T2 | Liberal feminism | The most famous school, never asked alone
+1 · 8(b) | T3 | The UN World Conferences and Beijing+30 | Never a descriptive question; Beijing+30 in 2025
+2 · 2 | T1 | Historicizing constructionism; is the sex/gender distinction constructed? | A syllabus line never asked by name; follows the 2024 and 2026 questions
+2 · 3 | T2 | Men's feminism, Connell and the manosphere | Never asked in either part of the paper
+2 · 4 | T4 | Structural adjustment, IMF programmes 2023–2024 and the care economy | Asked once (2022); IMF programmes make it topical
+2 · 5 | T7 | Honour killing through Galtung's triangle; the 2004 and 2016 laws | Galtung named in 2019; honour killing a constant
+2 · 6 | T3 | "Feminism is a Western import" | The most common objection to feminism in Pakistan; joins T2 and T3
+2 · 7 | T5 | Family law: MFLO 1961 and the child-marriage laws | Women and law asked directly only once; new laws of 2025–2026
+2 · 8(a) | T6 | Gender and good governance | Defining governance has never been asked
+2 · 8(b) | T4 | World-system theory and the sexual division of labour | Asked only as a partner of other theories (2019, 2025)
+3 · 2 | T1 | Gender roles, stereotypes and the agents that make them | A reliable construction question in a new, applied form
+3 · 3 | T4 | BISP through Moser and Kabeer | GAD applied to Pakistan's largest programme
+3 · 4 | T2 | Patriarchy: radical, Marxist and socialist explanations | Schools of feminism recur as full questions and notes
+3 · 5 | T5 | Women's paid work (24.4%) and unpaid care | Asked in 2019; new LFS data
+3 · 6 | T6 | Reserved seats and substantive representation | Quotas asked six times; a harder evaluative angle
+3 · 7 | T7 | Mukhtaran Mai, Malala and Sharmeen Obaid-Chinoy compared | Each asked singly; the comparison never
+3 · 8(a) | T7 | Technology-facilitated violence | The digital layer of the 2026 paper
+3 · 8(b) | T4 | SDG 5 and Pakistan's progress | The SDGs never asked in full
+3 · 8(c) | T5 | The National Commission on the Status of Women | An MCQ favourite, never a descriptive question
+:::
+
+## Coverage of the seven topics
+
+::: fig bars | Descriptive items per topic across the three sets (full question = 1; short note = ½).
+@colour plum
+@xlabel items across Sets 1–3
+T1 · The Discipline & Social Construction: 3
+T2 · Feminist Theories: 2.5
+T3 · Feminist Movements: 2.5
+T4 · Gender and Development: 4 *
+T5 · Status of Women in Pakistan: 3.5
+T6 · Gender and Governance: 2.5
+T7 · Gender-Based Violence & Case Studies: 3.5
+:::
+
+The spread follows the record — **Topic 4**, the heaviest topic, has the most items — with **Topic 5** raised slightly because two of the Master Anatomy's Tier 3 blind spots (education and women and law) belong to it.
+
+## The blind spots covered
+
+::: table | Every Tier 3 blind spot of the Master Anatomy appears at least once.
+@widths 5.4,1.2,7.4
+Blind spot | Topic | Where it is set
+Status of women in education | T5 | Set 1 · Q. No. 6
+United Nations Conferences on Women | T3 | Set 1 · Q. No. 8(b)
+Women as voters | T6 | Set 1 · Q. No. 7
+Defining governance | T6 | Set 2 · Q. No. 8(a)
+Men's feminism | T2 | Set 2 · Q. No. 3
+Liberal feminism on its own | T2 | Set 1 · Q. No. 8(a)
+Women and law — family law, inheritance, child-marriage laws | T5 | Set 2 · Q. No. 7
+Historicizing constructionism | T1 | Set 2 · Q. No. 2
+World-system theory on its own | T4 | Set 2 · Q. No. 8(b)
+The SDGs | T4 | Set 3 · Q. No. 8(b)
+A comparison of the three case studies | T7 | Set 3 · Q. No. 7
+:::
+
 # Set 1 · The Most Probable Paper
+
+> The paper the record makes most likely: families that are due to return, the blind spots most likely to break, and the long, current stems of the 2023–2026 papers.
+
+Set 1 brings back the **discipline half of Topic 1** (silent since 2023), asks about **gender-based violence** through the newest laws, turns **WID/WAD/GAD** to its next angle (mainstreaming) and the **waves** to the fourth wave, and breaks three blind spots — **education**, **women as voters** and the **UN conferences**. Its MCQs mirror the recent objective papers, with four keys of "None of these".
 
 @py pr_part1 1
 
 @py pr_part2 1
 
-# Set 1 · Part I explained
+# Set 1 · Part I Explained
+
+> Each MCQ of Set 1 with its options. The correct answer is printed in bold straight after each question, with a one-line reason.
 
 @py pr_mcq_answers 1
-
-@py pr_question 1 Q8b
 
 @include s1/q2.gsm
 @include s1/q3.gsm
@@ -26,3 +141,54 @@ gives: test
 @include s1/q7.gsm
 @include s1/q8a.gsm
 @include s1/q8b.gsm
+
+# Set 2 · The Difficult Paper
+
+> About 70% difficult and 30% medium: theory-heavy, cross-topic questions that reward depth.
+
+Five of the seven Part II questions are **difficult** — historicizing constructionism, men's feminism, the gendered political economy of adjustment, honour killing through Galtung, and the "Western import" debate — and two are **medium** (family law; the notes on governance and world-system theory). Of the twenty MCQs, **fourteen are difficult and six medium**: lesser-known thinkers, "which is NOT" items and keys of "None of these".
+
+@py pr_part1 2
+
+@py pr_part2 2
+
+# Set 2 · Part I Explained
+
+> Each MCQ of Set 2 with its options. The correct answer is printed in bold straight after each question, with a one-line reason.
+
+@py pr_mcq_answers 2
+
+@include s2/q2.gsm
+@include s2/q3.gsm
+@include s2/q4.gsm
+@include s2/q5.gsm
+@include s2/q6.gsm
+@include s2/q7.gsm
+@include s2/q8a.gsm
+@include s2/q8b.gsm
+
+# Set 3 · The Mixed Paper
+
+> Probable and medium questions alongside difficult ones — the shape of most real papers.
+
+Set 3 mixes **medium** questions (gender roles and stereotypes; patriarchy; women's paid work; the notes) with **difficult** ones (BISP through Moser and Kabeer; reserved seats and substantive representation; the three case studies compared). Its short-note question returns to the older "**any TWO**" form, with three notes to choose from — all three are answered.
+
+@py pr_part1 3
+
+@py pr_part2 3
+
+# Set 3 · Part I Explained
+
+> Each MCQ of Set 3 with its options. The correct answer is printed in bold straight after each question, with a one-line reason.
+
+@py pr_mcq_answers 3
+
+@include s3/q2.gsm
+@include s3/q3.gsm
+@include s3/q4.gsm
+@include s3/q5.gsm
+@include s3/q6.gsm
+@include s3/q7.gsm
+@include s3/q8a.gsm
+@include s3/q8b.gsm
+@include s3/q8c.gsm

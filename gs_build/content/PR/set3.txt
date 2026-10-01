@@ -1,0 +1,37 @@
+%% Prediction Paper Set 3 — the mixed paper: probable and medium questions alongside difficult ones. Rendered by engine/fpsc.py.
+%% Part II: Q2 medium, Q3 difficult, Q4 medium, Q5 medium (probable), Q6 difficult, Q7 difficult, Q8 medium
+year: 2027
+
+## MCQ
+Gender schema theory (1981), which holds that children sort the world through mental maps of "masculine" and "feminine", was proposed by: || Sandra Bem | Lawrence Kohlberg | Albert Bandura | None of these || A || Sandra Bem (1981); Kohlberg proposed cognitive-developmental stages, Bandura social learning.
+In Kohlberg's theory, the stage at which a child understands that gender does not change with clothes or activities is: || Gender identity | Gender stability | Gender constancy | None of these || C || Gender constancy (about age 6–7), after identity (2–3) and stability (4–5).
+"Heteronormativity" refers to: || The assumption that heterosexuality is the only normal sexuality | The study of hormones | The equal treatment of all sexualities | None of these || A || A key concept of queer theory: the assumption of two opposite genders and that only heterosexuality is normal.
+The Supreme Court's 2009 order recognising a third gender in CNICs came in a petition filed by: || Asma Jahangir | Hina Jilani | Benazir Bhutto | None of these || D || None of these — Dr Muhammad Aslam Khaki (*Khaki v. SSP (Operations) Rawalpindi*).
+*Sexual Politics* (1970), a founding text of radical feminism, was written by: || Kate Millett | Shulamith Firestone | Germaine Greer | None of these || A || Kate Millett (1970); Firestone wrote *The Dialectic of Sex* (1970).
+Engels' *The Origin of the Family, Private Property and the State* (1884) linked women's subordination to: || Biology | The rise of private property | Religion | None of these || B || Engels called the overthrow of mother-right, with private property, "the world historical defeat of the female sex".
+"Dual-systems theory" holds that women's oppression results from: || Capitalism alone | Patriarchy alone | Capitalism and patriarchy together | None of these || C || Heidi Hartmann, "The Unhappy Marriage of Marxism and Feminism" (1979): two linked systems.
+The term "ecofeminism" was coined in 1974 by: || Vandana Shiva | Françoise d'Eaubonne | Carolyn Merchant | Bina Agarwal || B || Françoise d'Eaubonne (1974); Bina Agarwal later proposed feminist environmentalism (1992).
+The UN Decade for Women ran from: || 1975–1985 | 1976–1985 | 1980–1990 | None of these || B || 1976–1985, after International Women's Year (1975), with the themes Equality, Development and Peace.
+UN Security Council Resolution 1325 (2000) concerns: || Women, peace and security | Child marriage | Maternal health | None of these || A || Resolution 1325 (31 October 2000) calls for women's participation in peace-making and protection in conflict.
+The first Aurat March was held in: || 2016 | 2017 | 2018 | 2019 || C || 8 March 2018, first in Karachi.
+The distinction between women's "practical" and "strategic" gender interests (1985) was first drawn by: || Maxine Molyneux | Ester Boserup | Diane Elson | None of these || A || Maxine Molyneux, "Mobilization without Emancipation?" (1985); Caroline Moser turned it into practical and strategic gender needs.
+W. W. Rostow's *The Stages of Economic Growth* (1960) is the classic text of: || Dependency theory | World-system theory | Structural functionalism | None of these || D || None of these — modernisation theory (five stages from traditional society to high mass consumption).
+Which SDG target calls for recognising and valuing unpaid care and domestic work? || 5.2 | 5.3 | 5.4 | 5.5 || C || Target 5.4 (5.2 violence; 5.3 child marriage; 5.5 leadership).
+Female labour-force participation in Pakistan in the Labour Force Survey 2024–25 was: || 14.5% | 21.4% | 33.8% | None of these || D || None of these — 24.4% (21.4% in 2020–21; 14.5% is Balochistan's rate).
+Pakistan's Lady Health Worker Programme was launched in: || 1988 | 1994 | 2002 | 2008 || B || 1994, under Benazir Bhutto.
+The "critical mass" of women needed to change the culture of a legislature is usually put at about: || 10% | 17% | 30% | 50% || C || About 30% (Dahlerup, 1988; ECOSOC target, 1990).
+Pakistan's first woman Foreign Minister (2011) was: || Tehmina Janjua | Hina Rabbani Khar | Sherry Rehman | Maleeha Lodhi || B || Hina Rabbani Khar (2011); Tehmina Janjua was the first woman Foreign Secretary (2017).
+Sharmeen Obaid-Chinoy's Oscar-winning documentary *Saving Face* (2012) dealt with: || Honour killing | Child marriage | Girls' education | None of these || D || None of these — acid attacks; *A Girl in the River* (2016) dealt with honour killing.
+Section 2(r) of the Punjab Protection of Women against Violence Act 2016 recognises all of the following as violence EXCEPT: || Economic abuse | Stalking | Cybercrime | None of these || D || None of these — all three are listed, with domestic and sexual violence, psychological abuse and abetment.
+
+## PART-II
+Q2 || What are gender roles and gender stereotypes? Discuss how the family, school textbooks, religion and the media construct them in Pakistan. How can harmful stereotypes be changed?
+Q3 || Critically evaluate the Benazir Income Support Programme through the lenses of Caroline Moser's practical and strategic gender needs and Naila Kabeer's concept of empowerment. Has it empowered women or merely reached them?
+Q4 || What is patriarchy? Critically compare the explanations of patriarchy offered by radical, Marxist and socialist feminists. Which explanation best accounts for women's subordination in Pakistan?
+Q5 || Female labour-force participation in Pakistan was only 24.4 per cent in 2024–25. Analyse the economic, social and institutional barriers to women's paid employment and the burden of unpaid care work. What policies would raise women's participation?
+Q6 || More than two decades after the Legal Framework Order 2002, have reserved seats produced substantive representation for women in Pakistan? Evaluate with reference to Hanna Pitkin's types of representation and the debate on critical mass versus critical actors.
+Q7 || Compare the case studies of Mukhtaran Mai, Malala Yousafzai and Sharmeen Obaid-Chinoy. What do they reveal about violence, voice and the role of the state and the media in Pakistan?
+Q8 || Write short notes on any TWO of the following:
+Q8a || Technology-facilitated violence against women in Pakistan.
+Q8b || Sustainable Development Goal 5 and Pakistan's progress.
+Q8c || The National Commission on the Status of Women.

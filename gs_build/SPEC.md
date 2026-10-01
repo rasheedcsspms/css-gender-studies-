@@ -22,7 +22,7 @@ decision already made, so a session never has to re-derive them. Content bluepri
 | QA | The Question Answers — all seven | `content/QA/main.gsm` (generated: includes `content/Tn/qa/*.gsm :: Tn` and `content/Tn/qa_eye.gsm`) | ✅ built — ≈101,300 words, 84 answers, 176 figures, 399 pages, 16.8 MB (front matter `compress: yes` re-encodes figures as 256-colour PNGs: 46.6 → 16.8 MB, same pixels); contents at level 1 only (`@toc 1-1`); index of questions by year (`@py qa_master_index`); answers tagged "Tn · Answer k" |
 | OL | The One-Liner and MCQ Bank | `content/OL/main.gsm` (+ `content/Tn/oneliners.gsm`, `content/OL/practice_Tn.gsm`) | ✅ 868 one-liners, 140 past + 234 practice MCQs, answer in bold after each |
 | RN | The Revision Notes — all seven | `content/RN/main.gsm` (+ `content/Tn/RN.gsm`) | ✅ ≈39,000 words, 31 figures (28 key diagrams), 94 pages |
-| PR | The Prediction Papers — Sets 1–3 | `content/PR/main.gsm` | ⬜ last |
+| PR | The Prediction Papers — Sets 1–3 | `content/PR/main.gsm` (+ `setN.txt`, `sN/*.gsm`) | ✅ 3 FPSC-format papers (Set 1 most probable; Set 2 difficult 70/30; Set 3 mixed); 60 MCQs explained; 25 model answers (full 1,055–1,346; notes 580–629); ≈34,800 words, 64 figures, 156 pages |
 
 Update this table when a document is finished.
 
@@ -131,6 +131,9 @@ Blocks (`@py NAME args`):
 | `qa_index N` | table of all questions answered in TnQA |
 | `topic_questions N` | every past question of topic N (KB Part Three) |
 | `mcqs_topic N` | every past MCQ of topic N with keys, as a table (KB Part Four) |
+| `pr_part1 N` / `pr_part2 N` | Set N of the Prediction Papers as FPSC prints it — Part-I (MCQs) and Part-II — from `content/PR/setN.txt` (`engine/fpsc.py`) |
+| `pr_question N KEY` | the predicted question in a box at the head of its model answer (`@py pr_question 1 Q2`, `Q8a`) |
+| `pr_mcq_answers N` | Set N's MCQs with options, then the answer in bold and a one-line reason |
 | `mcqs_quiz N` | every past MCQ of topic N with its options, then the answer in bold and a one-line note from `content/OL/src/past_notes.txt` (OL) |
 | `heatmap_topics`, `heatmap_heads`, `topic_weights`, `mcq_weights`, `mcq_table`, `papers_glance`, `repeat_engine MIN MAX`, `beyond_table`, `leaks_table`, `command_words`, `appendix_a`, `mapping_heads`, `family_docs` | record analytics (MA; reuse in PR/RN) |
 
@@ -266,6 +269,18 @@ Copy `templates/QA_skeleton.gsm`. Order answers as `@py qa_index N` lists them (
   and a thinkers index. Refresh volatile data (see `data/facts_verified.md`) just before finalising.
 - **PR**: three sets exactly in FPSC format (MA Appendix B); 20 MCQs + Q.2–Q.8; keys; full model answers. Cover all
   Tier 3 blind spots at least once; T1, T4, T7 in every set.
+  - Each set lives in `content/PR/setN.txt`: `year:`, `## MCQ` lines `stem || a | b | c | d || KEY || reason`, then
+    `## PART-II` lines `Q2 || text` … `Q8 || Write short notes …` and `Q8a || …`. `engine/fpsc.py` renders the replica
+    (black Times New Roman: Roll Number box, four-line heading, TIME/TOTAL MARKS rules, printed NOTE, Part-I Q. No. 1
+    with options (a)–(d) and "(20×1=20)", Part-II with marks at the right margin and "(10+10)" for notes).
+  - Volume order: How to Use → How the Papers Were Set (rationale table for every item, coverage bars, blind-spot table)
+    → per set: intro H1, `@py pr_part1 N`, `@py pr_part2 N`, "Part I Explained" (`@py pr_mcq_answers N`), then the
+    model answers `@include sN/qK.gsm` (each its own H1, opening with `@py pr_question N QK`).
+  - Set 1 = most probable; Set 2 = ~70% difficult / 30% medium (MCQs 14 D + 6 M; Part II 5 D + 2 M, noted in a `%%`
+    comment in set2.txt); Set 3 = mixed. Answer **every** short note, including all three in an "any TWO" question.
+- **Headings in model answers (from PR onward, user instruction):** give as many headings as possible — `### 1.` main
+  headings, `#### i)` sub-headings under nearly every main heading, and `##### (a)` sub-sub-headings wherever a
+  sub-heading holds two or more points; almost no paragraph should stand without a heading above it.
 
 ## 10a. Lessons from Topic 1 (apply from T2 on)
 

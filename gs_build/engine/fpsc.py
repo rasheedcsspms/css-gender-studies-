@@ -261,7 +261,7 @@ def render_part2(b, s):
             _runs(p, txt, 11)
             _r(p, "\t(10+10)" if notes else "\t(20)", 11, bold=True)
         else:
-            p = _p(doc, "j", left=2.8, hanging=0.9, after=3, line=1.05)
+            p = _p(doc, "j", left=2.8, hanging=0.9, after=3, line=1.05, keep=True)
             p.paragraph_format.tab_stops.add_tab_stop(Cm(2.8))
             _r(p, f"({part})\t", 11)
             _runs(p, txt, 11)
