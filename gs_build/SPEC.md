@@ -20,7 +20,7 @@ decision already made, so a session never has to re-derive them. Content bluepri
 | T7KB / T7QA | Gender-Based Violence and the Three Case Studies | `content/T7/` | ✅ Standards v2 — KB ≈23,200 words (core ≈17,200 + 125 one-liners + 12 MCQs + 3,985-word sheet), 28 figures; QA 9 answers + 3 notes, all 1,050–1,186 (notes 591–606), 27 figures; feeders `oneliners.gsm`, `rn_sheet.gsm`, `rn_plans.gsm`, `RN.gsm`, `facts.gsm` |
 | FB | The Fact Book | `content/FB/main.gsm` (+ `content/FB/fb/*.gsm`, `content/Tn/facts.gsm`) | ✅ built — ≈14,700 words, 54 tables, 2 figures, 60 pages: master timeline (94 events, 8 eras), topic sections T1–T7, numbers card (★ volatile, refreshed Oct 2026: HRCP 2025 = 470 honour killings; GSMA 2026 = mobile-internet gap 8%), index of laws (Constitution, ~50 Pakistani laws, international instruments), 114 thinkers, conferences/reports/surveys, cases, firsts. Front matter `updated:` sets the cover's "facts current" date |
 | QA | The Question Answers — all seven | `content/QA/main.gsm` (generated: includes `content/Tn/qa/*.gsm :: Tn` and `content/Tn/qa_eye.gsm`) | ✅ built — ≈101,300 words, 84 answers, 176 figures, 399 pages, 16.8 MB (front matter `compress: yes` re-encodes figures as 256-colour PNGs: 46.6 → 16.8 MB, same pixels); contents at level 1 only (`@toc 1-1`); index of questions by year (`@py qa_master_index`); answers tagged "Tn · Answer k" |
-| OL | The One-Liner and MCQ Bank | `content/OL/main.gsm` (+ `content/Tn/oneliners.gsm`) | ⬜ after T7 |
+| OL | The One-Liner and MCQ Bank | `content/OL/main.gsm` (+ `content/Tn/oneliners.gsm`, `content/OL/practice_Tn.gsm`) | ✅ 868 one-liners, 140 past + 234 practice MCQs, answer in bold after each |
 | RN | The Revision Notes — all seven | `content/RN/main.gsm` (+ `content/Tn/RN.gsm`) | ⬜ after T7 |
 | PR | The Prediction Papers — Sets 1–3 | `content/PR/main.gsm` | ⬜ last |
 
@@ -73,6 +73,8 @@ gives: item one; item two; item three    (cover-page bullets, ';'-separated)
 plain lines → one paragraph (blank line ends it)
 - bullet   /   "  - " level 2   /   "    - " level 3
 1. numbered paragraph (also i. ii. / a) b))
+(A) opt  (B) opt  (C) opt  (D) opt    MCQ options line under a numbered stem (none bolded)
+Ans: ^^Answer: (B) opt^^ — why        MCQ answer line straight after the options (answer in bold)
 > lead paragraph (italic intro)
 @pagebreak
 @py NAME arg …                        python block from blocks.py
@@ -128,7 +130,8 @@ Blocks (`@py NAME args`):
 | `question 2019-3` / `question 2024-8a` | prints the past question exactly as set in a box (QA documents) |
 | `qa_index N` | table of all questions answered in TnQA |
 | `topic_questions N` | every past question of topic N (KB Part Three) |
-| `mcqs_topic N` | every past MCQ of topic N with keys (KB Part Four; OL) |
+| `mcqs_topic N` | every past MCQ of topic N with keys, as a table (KB Part Four) |
+| `mcqs_quiz N` | every past MCQ of topic N with its options, then the answer in bold and a one-line note from `content/OL/src/past_notes.txt` (OL) |
 | `heatmap_topics`, `heatmap_heads`, `topic_weights`, `mcq_weights`, `mcq_table`, `papers_glance`, `repeat_engine MIN MAX`, `beyond_table`, `leaks_table`, `command_words`, `appendix_a`, `mapping_heads`, `family_docs` | record analytics (MA; reuse in PR/RN) |
 
 ## 6. House style (applies to every document)
@@ -244,8 +247,16 @@ Copy `templates/QA_skeleton.gsm`. Order answers as `@py qa_index N` lists them (
 ## 9. Compiled volumes
 
 - **QA**: `content/QA/main.gsm` = front matter + `@toc 1-1` + how-to + `@py qa_master_index` + one H1 part per topic (`@py qa_index N`, `@include ../Tn/qa_eye.gsm`, then `@include ../Tn/qa/NN.gsm :: Tn`). `@include FILE :: TAG` prefixes every H1 in the file with "TAG · "; each topic's eye box lives in `content/Tn/qa_eye.gsm`, shared with TnQA. Regenerate main.gsm if a topic's answer list changes.
-- **OL**: front matter + per topic `@include ../Tn/oneliners.gsm` + `@py mcqs_topic N` + new practice MCQs
-  (`content/OL/practice_Tn.gsm`, 25–40 per topic, weighted to lines the objective paper has not touched).
+- **OL**: front matter + how-to + the objective paper (`mcq_table`, `mcq_weights`, technique, traps) + one H1 part per
+  topic: `## The one-liners` (`@include ../Tn/oneliners.gsm`), `## The past MCQs, with answers` (`@py mcqs_quiz N`),
+  `## Practice MCQs, with answers` (`@include practice_Tn.gsm`). **Every MCQ is followed straight away by its answer
+  in bold on a separate line** (`Answer: (C) …` + a one-line reason); the correct option is never bolded among the
+  four; there is no separate key section.
+  Practice MCQs are written in `content/OL/src/Tn.txt` (`Q:` stem / `A:` four options split by `|` / `K:` letter `|` why)
+  on facts from the one-liners that no past MCQ has asked; `python3 content/OL/make_ol.py` regenerates
+  `practice_Tn.gsm` and spreads the key letters evenly over A–D (ordered numbers stay in order; a closing
+  "None of these" stays last). Include some "None of these" and "Both A and B" keys, as FPSC does since 2023.
+  Explanations of the past keys live in `content/OL/src/past_notes.txt` (`YEAR.N | note`).
 - **RN**: front matter + per topic `@include ../Tn/RN.gsm` (≈4,500 words each).
 - **FB**: front matter + master timeline + per topic `@include ../Tn/facts.gsm` + a "numbers card" + an index of laws
   and a thinkers index. Refresh volatile data (see `data/facts_verified.md`) just before finalising.

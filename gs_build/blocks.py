@@ -3,6 +3,7 @@
 Each block receives the Builder (b) and string args. Add new blocks with @block("name").
 """
 from collections import Counter, defaultdict
+from pathlib import Path
 
 from engine import figures as F
 from engine import style as S
@@ -282,6 +283,40 @@ def mcqs_topic(b, n):
         if m["topic"] == n:
             rows.append(f"{m['year']} · {m['n']} | {m['stem']} | {m['answer']}")
     b.table(f"Every recovered MCQ on T{n}, with its key.", ["@widths 1.6,7.6,4.8", "@font 9"] + rows)
+
+
+def _past_notes():
+    """One-line explanations of the past MCQ keys (content/OL/src/past_notes.txt: 'YEAR.N | note')."""
+    path = Path(__file__).parent / "content" / "OL" / "src" / "past_notes.txt"
+    out = {}
+    for ln in path.read_text(encoding="utf-8").splitlines():
+        if " | " in ln:
+            k, v = ln.split(" | ", 1)
+            out[k.strip()] = v.strip()
+    return out
+
+
+def _past_of(n):
+    return [m for m in R.mcqs_tagged() if m["topic"] == int(n)]
+
+
+@block("mcqs_quiz")
+def mcqs_quiz(b, n):
+    """A topic's past MCQs: stem, the four options, then the answer in bold with a one-line explanation."""
+    notes = _past_notes()
+    for i, m in enumerate(_past_of(n), 1):
+        b.numbered(f"{i}.", f"{m['stem']} *(CSS {m['year']}, Q1-{m['n']})*")
+        b.options("  ".join(f"({'ABCD'[j]}) {o}" for j, o in enumerate(m["options"])))
+        why = notes.get(f"{m['year']}.{m['n']}")
+        if why is None:
+            raise SystemExit(f"past_notes.txt: no note for {m['year']}.{m['n']}")
+        a = m["answer"]
+        if a[1:4] == " - ":
+            k = "ABCD".index(a[0])
+            ans = f"Answer: ({a[0]}) {m['options'][k]}"
+        else:
+            ans = "Answer: no fully valid option"
+        b.answer(f"^^{ans}^^ — {why}")
 
 
 @block("qa_master_index")

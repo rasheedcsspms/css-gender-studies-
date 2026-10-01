@@ -111,6 +111,18 @@ def _styles(doc, accent):
     n.paragraph_format.space_after = Pt(4)
     n.paragraph_format.tab_stops.add_tab_stop(Cm(0.95))
 
+    op = _get_style(doc, "GS Options")
+    op.paragraph_format.left_indent = Cm(0.95)
+    op.paragraph_format.space_before = Pt(0)
+    op.paragraph_format.space_after = Pt(2)
+    op.paragraph_format.line_spacing = 1.12
+
+    an = _get_style(doc, "GS Answer")
+    an.paragraph_format.left_indent = Cm(0.95)
+    an.paragraph_format.space_before = Pt(0)
+    an.paragraph_format.space_after = Pt(10)
+    an.paragraph_format.line_spacing = 1.08
+
     lead = _get_style(doc, "GS Lead")
     _font(lead, size=12, italic=True, colour=S.SLATE)
     lead.paragraph_format.space_after = Pt(10)

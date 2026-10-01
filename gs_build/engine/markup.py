@@ -5,6 +5,8 @@ See gs_build/SPEC.md §3 for the full syntax. In short:
   plain lines       a paragraph (consecutive lines are joined)
   - / "  - "        bullets (three levels)
   1. text           numbered paragraph (number kept as written)
+  (A) a (B) b ...   MCQ options line under a numbered stem
+  Ans: text         MCQ answer line under the options (write the answer itself in ^^bold^^)
   > text            lead paragraph (italic, larger)
   ::: box | title   a box   (simple example trap eye debate pakistan remember balance islam note glance update method)
   ::: card head     a card  (define thinker quote data law case report)  head = "Name | descriptor"
@@ -101,6 +103,44 @@ class Builder:
         p = self.doc.add_paragraph(style="GS Numbered")
         K._run(p, f"{num}\t", bold=True, colour=self.accent)
         K.add_runs(p, text, accent=self.term_colour)
+        self._last_numbered = p
+        return p
+
+    def options(self, text):
+        """An MCQ options line: (A) … (B) … (C) … (D) …, kept with its stem."""
+        self._count(text)
+        last = getattr(self, "_last_numbered", None)
+        if last is not None:
+            last.paragraph_format.keep_with_next = True
+            last.paragraph_format.keep_together = True
+        p = self.doc.add_paragraph(style="GS Options")
+        p.paragraph_format.keep_together = True
+        parts = re.split(r"\(([A-E])\)\s+", text.strip())
+        first = True
+        for letter, opt in zip(parts[1::2], parts[2::2]):
+            K._run(p, ("" if first else "     ") + f"({letter})\u00a0", bold=True, colour=self.accent)
+            K.add_runs(p, opt.strip(), accent=self.term_colour)
+            first = False
+        self._last_options = p
+        return p
+
+    def answer(self, text):
+        """An MCQ answer line, kept with its options. 'ANSWER — why': a why that only repeats the answer is dropped."""
+        if " — " in text:
+            head, why = text.split(" — ", 1)
+            norm = lambda x: re.sub(r"[^a-z0-9]", "", re.sub(r"\^\^|\*|answer:\s*\([a-e]\)", "", x.lower()))
+            for lead in ("None of these — ", "None of these; ", "None of these, "):
+                if norm(head).endswith("noneofthese") and why.startswith(lead):
+                    why = why[len(lead):]
+                    why = why[:1].upper() + why[1:]
+            text = head if norm(why) == norm(head) else f"{head} — {why}"
+        self._count(text)
+        last = getattr(self, "_last_options", None)
+        if last is not None:
+            last.paragraph_format.keep_with_next = True
+        p = self.doc.add_paragraph(style="GS Answer")
+        p.paragraph_format.keep_together = True
+        K.add_runs(p, text.strip(), accent=self.term_colour)
         return p
 
     # ------------------------------------------------------------ boxes & cards
@@ -360,6 +400,12 @@ class Builder:
             elif re.match(r"^ {4,}- ", ln):
                 flush()
                 self.bullet(s[2:], 3)
+            elif s.startswith("(A) "):
+                flush()
+                self.options(s)
+            elif s.startswith("Ans: "):
+                flush()
+                self.answer(s[5:])
             elif re.match(r"^(\d+|[ivx]+|[a-h])[.)]\s", s):
                 flush()
                 num, _, rest = s.partition(" ")

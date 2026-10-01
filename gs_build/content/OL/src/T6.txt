@@ -1,0 +1,139 @@
+Q: The World Bank defined governance as "the manner in which power is exercised" in:
+A: 1989 | 1992 | 1997 | 2000
+K: B | 1992; its 1989 report on Sub-Saharan Africa spoke of a "crisis of governance".
+
+Q: UNESCAP lists how many characteristics of good governance?
+A: Five | Six | Eight | Ten
+K: C | Eight.
+
+Q: Which of the following is NOT one of UNESCAP's characteristics of good governance?
+A: Rule of law | Transparency | Consensus orientation | Centralisation
+K: D | Centralisation is not on the list.
+
+Q: The article of CEDAW on women in political and public life is:
+A: Article 4 | Article 7 | Article 14 | Article 16
+K: B | Article 7; Article 4(1) allows temporary special measures.
+
+Q: *The Concept of Representation* (1967) was written by:
+A: Anne Phillips | Hanna Pitkin | Drude Dahlerup | Rosabeth Moss Kanter
+K: B | Hanna Pitkin.
+
+Q: Representatives who resemble those they represent illustrate which type of representation?
+A: Formal | Descriptive | Substantive | Symbolic
+K: B | Descriptive representation.
+
+Q: *The Politics of Presence* (1995) was written by:
+A: Anne Phillips | Hanna Pitkin | Iris Marion Young | None of these
+K: A | Anne Phillips.
+
+Q: Kanter (1977) called women forming less than about 15% of a group:
+A: Critical actors | Tokens | Queen bees | Electables
+K: B | Tokens.
+
+Q: The idea of "critical mass" was applied to women in politics in 1988 by:
+A: Drude Dahlerup | Sarah Childs | Mona Lena Krook | Anne Phillips
+K: A | Drude Dahlerup; critical mass is usually put at about 30%.
+
+Q: Childs and Krook (2009) stressed the role of:
+A: Critical mass | Critical actors | Tokens | Quotas
+K: B | Critical actors.
+
+Q: Beijing Platform Critical Area G concerns:
+A: Violence against women | Women and the economy | Women in power and decision-making | The girl child
+K: C | Women in power and decision-making.
+
+Q: The WSPU was founded in 1903 by:
+A: Millicent Fawcett | Emmeline Pankhurst | Emily Wilding Davison | Lucy Stone
+K: B | Emmeline Pankhurst; motto "Deeds, not words".
+
+Q: The word "suffragette" was coined in 1906 by the:
+A: *Times* | *Daily Mail* | *Guardian* | None of these
+K: B | The *Daily Mail*.
+
+Q: The first place in the United States to give women the vote (1869) was:
+A: New York | Wyoming Territory | California | Utah
+K: B | Wyoming Territory.
+
+Q: Women got the vote at federal level in Switzerland in:
+A: 1918 | 1944 | 1971 | 1990
+K: C | 1971 (France 1944).
+
+Q: The first Indian province to enfranchise women (1921) was:
+A: Bombay | Madras | Bengal | Punjab
+K: B | Madras.
+
+Q: Before 2002 the minimum voting age in Pakistan was:
+A: 16 | 18 | 21 | 25
+K: C | 21; lowered to 18 in 2002.
+
+Q: Women's share of registered voters in Pakistan in 2024 was about:
+A: 40% | 43% | 46% | 50%
+K: C | 46.1% (59.32 million of 128.58 million).
+
+Q: Section 9 of the Elections Act 2017 lets the ECP void a poll where women's turnout is below:
+A: 5% | 10% | 17% | 33%
+K: B | 10%.
+
+Q: Section 206 of the Elections Act 2017 requires parties to give women at least what share of general-seat tickets?
+A: 5% | 10% | 17% | 33%
+K: A | 5%.
+
+Q: Fatima Jinnah contested the 1965 presidential election against:
+A: Zulfikar Ali Bhutto | Ayub Khan | Yahya Khan | Iskander Mirza
+K: B | Ayub Khan.
+
+Q: How many women won general National Assembly seats in 2024?
+A: 8 | 11 | 60 | 306
+K: B | 11 (8 in 2018; 306 contested in 2024).
+
+Q: The Senate of Pakistan has how many seats reserved for women?
+A: 10 | 17 | 23 | 33
+K: B | 17 of 96.
+
+Q: Pakistan's first woman foreign minister (2011) was:
+A: Tehmina Janjua | Hina Rabbani Khar | Sherry Rehman | Fahmida Mirza
+K: B | Hina Rabbani Khar.
+
+Q: The first woman governor in Pakistan (Sindh, 1973) was:
+A: Begum Ra'ana Liaquat Ali Khan | Begum Shaista Ikramullah | Fatima Jinnah | None of these
+K: A | Begum Ra'ana Liaquat Ali Khan.
+
+Q: The 1962 Constitution reserved how many seats for women?
+A: 6 | 10 | 20 | 60
+K: A | 6 (10 in 1956 and 1973; 20 from 1985).
+
+Q: Pakistan's elections of 1990, 1993 and 1997 were held:
+A: With 20 reserved seats | With 60 reserved seats | With no reserved seats for women | None of these
+K: C | The reserved seats lapsed after 1988.
+
+Q: The 60 reserved seats for women were created by the:
+A: 18th Amendment | Legal Framework Order 2002 | Devolution Plan 2000 | 25th Amendment
+K: B | The LFO 2002, validated by the 17th Amendment (2003).
+
+Q: The Legal Framework Order 2002 reserved for women:
+A: 60 seats in the National Assembly | 17 seats in the Senate | Both A and B | None of these
+K: C | Both, plus 128 provincial seats.
+
+Q: A party list that alternates women and men candidates is called a:
+A: Zipper list | Closed list | Priority list | Fast track
+K: A | Zipper list.
+
+Q: The country with the world's highest share of women in parliament is:
+A: Norway | Rwanda | Iceland | Nepal
+K: B | Rwanda, over 60%.
+
+Q: Chattopadhyay and Duflo (2004) found that women panchayat leaders invested more in:
+A: Roads | Drinking water | Defence | Temples
+K: B | Drinking water.
+
+Q: The image of women's leadership path as a "labyrinth" (2007) comes from:
+A: Ryan and Haslam | Staines and Tavris | Childs and Krook | None of these
+K: D | None of these — Alice Eagly and Linda Carli (2007).
+
+Q: The world's first woman prime minister (1960) was:
+A: Indira Gandhi | Sirimavo Bandaranaike | Golda Meir | Benazir Bhutto
+K: B | Sirimavo Bandaranaike of Sri Lanka.
+
+Q: India's Constitution (106th Amendment) Act 2023 reserves for women:
+A: One-third of Lok Sabha seats | 60 seats | 17% of seats | None of these
+K: A | One-third, after the next delimitation.
