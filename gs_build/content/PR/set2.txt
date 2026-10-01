@@ -1,0 +1,37 @@
+%% Prediction Paper Set 2 — the difficult paper: about 70% difficult, 30% medium. Rendered by engine/fpsc.py.
+%% MCQ difficulty (D = difficult, M = medium): 1 D, 2 D, 3 D, 4 M, 5 D, 6 D, 7 D, 8 M, 9 D, 10 M, 11 M, 12 D, 13 M, 14 D, 15 D, 16 D, 17 M, 18 D, 19 D, 20 D
+%% Part II: Q2 D, Q3 D, Q4 D, Q5 D, Q6 D, Q7 M, Q8 M
+year: 2027
+
+## MCQ
+Thomas Laqueur's "one-sex model" holds that before the eighteenth century: || Women were seen as a separate species | Women were seen as inverted, lesser versions of men | Sex was considered irrelevant to social roles | None of these || B || In *Making Sex* (1990) Laqueur argued that Europe saw the female body as an inverted male body until a "two-sex" model emerged in the 18th century.
+Barbara Risman (2004) described gender as: || A performance without an actor | A social structure working at individual, interactional and institutional levels | A hormonal trait | None of these || B || Risman: gender as a social structure at three levels — the individual, everyday interaction and institutions.
+In Berger and Luckmann's *The Social Construction of Reality* (1966), the stage at which human-made arrangements come to look like solid facts is called: || Objectivation | Externalisation | Internalisation | None of these || A || Externalisation (people create arrangements) → objectivation (they look like facts) → internalisation (new generations learn them as natural).
+Which of the following is a "marked" term? || Doctor | Lady doctor | Chairperson | Teacher || B || A marked term singles a woman out as the exception to a male norm ("lady doctor").
+Which of the following is NOT one of Sylvia Walby's six structures of patriarchy (1990)? || Paid work | The state | Religion | Male violence || C || Walby's six: paid work, household production, culture, sexuality, violence and the state.
+"Under Western Eyes" (1984), a critique of Western feminist portrayals of "Third World women", was written by: || Gayatri Chakravorty Spivak | Uma Narayan | Chandra Talpade Mohanty | None of these || C || Chandra Talpade Mohanty (1984).
+The "patriarchal dividend" — the advantage all men gain from women's subordination — is a concept of: || R. W. Connell | Michael Kimmel | Michael Kaufman | None of these || A || R. W. Connell, *Masculinities* (1995).
+*Qur'an and Woman* (1992), a founding text of Islamic feminism, was written by: || Fatima Mernissi | Asma Barlas | Riffat Hassan | None of these || D || None of these — Amina Wadud (1992). Mernissi wrote *The Veil and the Male Elite* (1987).
+The Optional Protocol to CEDAW (1999): || Allows individual complaints to the CEDAW Committee | Has been ratified by Pakistan | Created UN Women | None of these || A || It allows individual complaints and inquiries; Pakistan is not a party.
+Pakistan's reservation to CEDAW concerns: || Article 2 | Article 16 | Article 29(1) | None of these || C || A reservation to Article 29(1) (disputes to the International Court of Justice), plus a general declaration subject to the Constitution.
+The Sindhiani Tehreek, a mass movement of rural Sindhi women, began in: || 1975 | 1979 | 1981 | 1982 || D || 1982, joining women's rights to struggles over land and democracy.
+Diane Elson argued that structural adjustment programmes treat women's labour as: || Infinitely elastic | Fully remunerated | Highly mechanised | None of these || A || *Male Bias in the Development Process* (1991): SAPs assume women's unpaid work can stretch without limit to absorb cuts.
+In Wallerstein's world-system theory, the zone that both exploits the periphery and is exploited by the core is: || The hinterland | The semi-periphery | The metropole | None of these || B || The semi-periphery (core, semi-periphery, periphery — Wallerstein, 1974).
+Naila Kabeer (1999) defined empowerment through three interrelated dimensions: || Access, control and participation | Welfare, equity and efficiency | Resources, agency and achievements | None of these || C || Resources, agency and achievements — the ability to make strategic life choices previously denied.
+The concept of "global care chains" (2000) was developed by: || Arlie Hochschild | Saskia Sassen | Guy Standing | Maria Mies || A || Arlie Hochschild: poor women migrate to care for richer families' children, leaving their own children with others.
+Under the Muslim Family Laws Ordinance 1961, a *talaq* takes effect: || Immediately on pronouncement | On a decree of the Family Court | On the Arbitration Council's permission | None of these || D || None of these — 90 days after written notice to the chairman of the Union Council.
+A wife's right to *khula* was recognised by the superior courts in: || The Saima Waheed case (2004) | The Safia Bibi case (1983) | The Shah Bano case (1985) | None of these || D || None of these — *Khurshid Bibi v. Muhammad Amin* (1967). Saima Waheed concerned marriage without a wali.
+In Hanna Pitkin's typology, representatives who act in the interests of those they represent illustrate which type of representation? || Formal | Descriptive | Symbolic | None of these || D || None of these — substantive representation (Pitkin, 1967).
+The World Bank's 1989 report that spoke of a "crisis of governance" concerned: || South Asia | Latin America | Sub-Saharan Africa | Eastern Europe || C || Sub-Saharan Africa (1989); the Bank defined governance in 1992.
+Johan Galtung's "cultural violence" (1990) refers to: || Violence committed by cultural groups | Aspects of culture that legitimise direct and structural violence | Violence portrayed in films | None of these || B || Cultural violence: beliefs and symbols that make direct and structural violence look right or acceptable.
+
+## PART-II
+Q2 || "Constructionism itself has a history." Historicize social constructionism from Wollstonecraft and Mill to Beauvoir, Berger and Luckmann, Foucault and Butler. In the light of Thomas Laqueur's "one-sex model" and research on intersex variation, is the distinction between sex and gender itself a social construction?
+Q3 || Can men be feminists? Critically evaluate men's feminism with reference to R. W. Connell's theory of masculinities, pro-feminist men's movements and the rise of the online "manosphere". What role can men play in advancing gender equality in Pakistan?
+Q4 || "Structural adjustment treats women's labour as infinitely elastic" (Diane Elson). Critically analyse the gendered impact of structural adjustment and IMF stabilisation programmes on women in developing countries, with particular reference to Pakistan's programmes of 2023–2024 and the care economy.
+Q5 || Using Johan Galtung's typology of direct, structural and cultural violence, critically analyse honour killing in Pakistan. Why have legal reforms such as the Criminal Law (Amendment) Acts of 2004 and 2016 failed to eliminate the practice?
+Q6 || "Feminism is a Western import." Critically evaluate this claim with reference to the history of women's activism in South Asia, postcolonial feminist critiques of Western feminism and the work of Muslim feminist scholars.
+Q7 || Critically evaluate the family laws of Pakistan — on marriage, divorce, dower, maintenance, inheritance and the minimum age of marriage — from a gender perspective, with reference to the Muslim Family Laws Ordinance 1961 and the recent child-marriage laws.
+Q8 || Write short notes on the following:
+Q8a || Gender and good governance: why gender equality is essential to good governance.
+Q8b || World-system theory and the international sexual division of labour.
