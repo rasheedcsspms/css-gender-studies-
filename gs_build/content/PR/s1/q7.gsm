@@ -1,0 +1,105 @@
+# Set 1 · Q. No. 7 · Women as Voters and Candidates: The Elections Act 2017 and the 2024 Elections
+@py pr_question 1 Q7
+
+## The answer map
+::: fig mindmap | The answer map: every branch is one numbered heading of the model answer below.
+@note Analyse the gender issues facing women at the ballot box and on the ballot paper, test the Elections Act 2017's remedies against the 2024 results, and propose reforms.
+@ask Discuss the GENDER ISSUES faced by women as VOTERS and as CANDIDATES; how far has the
+@ask ELECTIONS ACT 2017 addressed them? Refer to the GENERAL ELECTIONS 2024
+(1) Introduction: the right is secure; access and autonomy are not
+(2) The framework: Article 25, CEDAW Art. 7, vote at 18
+(3) Voters 1: the registration gap — 9.94 million in 2024
+(4) Voters 2: the turnout gap — 43% against 52%
+(5) Voters 3: autonomy — family and biradari voting
+(6) Candidates 1: the pipeline and the 2024 numbers
+(7) Candidates 2: parties, money, norms, violence
+(8) The Act's remedies: section 9 and section 206
+(9) How far they worked: progress and limits
+(10) Reforms for voters
+(11) Reforms for candidates
+(12) Conclusion: from the list to the booth to the ballot
+:::
+
+## Decoding the question
+Two groups and three tasks. "**Gender issues faced by women as voters**" and "**as candidates**" — treat them separately; they have different barriers. "**How far have the provisions of the Elections Act 2017 addressed these issues**" — name the provisions (**sections 9 and 206**, plus measures on registration) and **evaluate** them: "how far" demands a balanced judgement. "**Refer to the General Elections 2024**" — use the 2024 data throughout.
+
+## The model answer
+
+### 1. Introduction
+
+#### i) Definition
+**Women's electoral participation** has three stages: being on the **electoral roll**, **casting a vote** at the polling station, and **choosing freely**; and, as candidates, seeking a **party ticket**, contesting and **winning**.
+
+#### ii) The argument
+Pakistani women have had the vote since independence, and the **Elections Act 2017** added important safeguards. The 2024 elections showed real progress — the registration gap fell to **7.7%** and women cast **2.7 million** more votes than in 2018. But **9.94 million** fewer women than men were registered, women's turnout trailed men's by nine points, and only **11** women won general National Assembly seats. The Act addressed the most visible barriers; it has not touched **family control**, **party gatekeeping** or **money**.
+
+### 2. The framework
+**Article 25** of the Constitution forbids discrimination on the basis of sex, and **Article 34** calls for women's full participation in national life. **CEDAW** Article 7, which Pakistan accepted in ==1996==, requires equality in voting and standing for election, and **SDG target 5.5** calls for women's full participation in decision-making. The voting age is **18**, lowered from 21 in ==2002==; a voter needs a **CNIC** from NADRA, and the **Election Commission of Pakistan (ECP)** prepares the roll.
+
+### 3. Voters: the registration gap
+In ==2024== Pakistan had **128.58 million** registered voters: **69.26 million men** and **59.32 million women** — a gap of **9.94 million**, or **7.7%**, down from **12.8%** in ==2013==. Women are missing because many lack a **CNIC**: the documents, travel, cost and family permission needed are barriers, and some families see no reason for a woman to hold one. The CNIC matters beyond voting — without it a woman cannot open a bank account, receive **BISP** payments, claim inheritance or buy a SIM card. BISP (==2008==), paid only to women with CNICs, was a major driver of registration.
+
+### 4. Voters: the turnout gap
+In 2024 about **43%** of registered women voted, against about **52%** of men. The gap was widest in **Khyber Pakhtunkhwa**. Women stay home because families decide; because of **distance** and insecurity; because there are too few **female polling stations and staff**; and because of care work. In some constituencies elders and candidates have made **local agreements** to bar women from voting altogether.
+
+::: fig bars | The gender gap on Pakistan's electoral roll, 2024 (millions of registered voters).
+@colour 2F7D4F
+Men: 69.26
+Women: 59.32 *
+Gap: 9.94
+:::
+
+### 5. Voters: autonomy
+The deepest issue is **autonomy**. Even when women vote, the choice is often made by husbands, fathers or the ***biradari*** (clan). Family and clan voting means women's votes may simply multiply men's preferences. Parties have begun to court women directly — through BISP and provincial cash or health schemes — but a free and secret choice remains the hardest stage to secure.
+
+### 6. Candidates: the pipeline and the numbers
+Women leak out at every stage of the **candidate pipeline**: fewer aspire, fewer receive tickets, fewer win. In ==2024==, **306** women contested general National Assembly seats, but only **11** won — about **4%** of the 266 general seats — up from **8** in ==2018==. Women's presence in the Assembly rests mainly on the **60 reserved seats**, filled by party lists. **Maryam Nawaz** became Pakistan's first woman chief minister (Punjab) in ==2024==, yet the Global Gender Gap Report ==2025== recorded **no women federal ministers**.
+
+### 7. Candidates: the barriers
+
+#### i) Parties
+Party leaders control tickets and prefer "**electables**" — candidates with land, clan and money networks — who are almost always men.
+
+#### ii) Money and norms
+Campaigns are costly and women own little property. Norms of purdah, honour and care make campaigning hard, and "politics is dirty" discourages aspiration.
+
+#### iii) Violence and harassment
+Women candidates face threats and **online abuse** — doctored images and sexual slurs. **Benazir Bhutto**'s assassination on ==27 December 2007== is a reminder of the danger. Many women who succeed come through **political families** — a route, but almost the only one.
+
+### 8. The Elections Act's remedies
+
+#### i) Section 9 — the 10% rule
+The ECP may declare a poll **void** in a constituency where women's turnout is below **10%** of the votes cast, presuming that women were prevented from voting. In ==2015== the ECP had annulled a by-election in **Lower Dir** where women were kept away — a precedent the Act wrote into law.
+
+#### ii) Registration measures
+The ECP must take special measures where the gap between men and women on the roll exceeds 10%, with NADRA mobile vans, women's counters and campaigns with NGOs such as the **Aurat Foundation** and **FAFEN**.
+
+#### iii) Section 206 — the 5% ticket rule
+Parties must give at least **5%** of their general-seat tickets to women.
+
+::: fig flow | Where women leak out of the electoral process — and the Act's remedy at each stage.
+@per 4
+On the roll: 9.94 million gap — special registration measures
+At the booth: 43% vs 52% — section 9's 10% rule
+On a ticket: 306 women contested — section 206's 5%
+In the Assembly: 11 general-seat winners — no remedy for winnability
+:::
+
+### 9. How far the remedies worked
+The Act has **worked against open exclusion**. The threat of annulment deters agreements to bar women, and the registration gap has narrowed from 12.8% to 7.7%, with **2.7 million** more votes cast by women than in 2018. But its limits are clear. The **10% threshold is very low** — a constituency where nine in ten voters are men passes. The registration measures depend on NADRA's reach and families' consent. And the **5% rule** says nothing about **winnable seats**: parties meet it by fielding women where they expect to lose, so 306 candidates produced 11 winners. The Act addresses **access**, not **autonomy** or **power**.
+
+### 10. Reforms for voters
+Raise the section 9 threshold progressively, for example to **20%**, and apply it to polling stations as well as constituencies. Make **CNIC registration free and mobile**, linked to BISP, health cards and school enrolment. Open more **women's polling stations** with women staff and police close to homes. Run voter-education campaigns on the **secret ballot**, with religious scholars confirming that women's voting is a right. Prosecute anyone who makes agreements to bar women.
+
+### 11. Reforms for candidates
+Raise the ticket quota (for example to **10%**) and require that a share be in **winnable** constituencies, with penalties such as loss of reserved-seat allocation for parties that fail. Introduce **campaign-finance** support and spending limits; require women in party executives and ticket committees; strengthen protection against harassment under **PECA 2016**; and revive **local government** — where **33%** quotas in ==2000–01== elected about **36,000** women — as a training ground.
+
+### 12. Conclusion
+Pakistani women's right to vote and stand is secure in law, and the Elections Act 2017 has narrowed the gaps at the **roll** and the **booth**. The 2024 elections show progress but also the distance remaining: nearly ten million women unregistered, a nine-point turnout gap and only 11 women winning general seats. The Act tackled the most visible exclusion; the next reforms must tackle **family control**, **party gatekeeping** and **money**, so that women move from the list, to the booth, to a free choice — and to power.
+
+## Why this answer scores
+- Separates **voters** and **candidates**, and three stages of each (roll, booth, choice; ticket, contest, win).
+- Names the Act's **specific provisions** — sections 9 and 206 and the registration measures — and the **Lower Dir 2015** precedent.
+- Uses the **2024 data** throughout (9.94 million gap; 43% vs 52%; 306 contested, 11 won).
+- Answers "**how far**" with a balanced verdict: access improved, autonomy and power untouched.
+- A **bars** figure and a **flow** figure match each barrier to its remedy.

@@ -1,0 +1,35 @@
+%% Prediction Paper Set 1 — the most probable paper. Rendered by engine/fpsc.py.
+year: 2027
+
+## MCQ
+The distinction between "sex" and "gender" was brought into sociology by: || Ann Oakley | Talcott Parsons | Émile Durkheim | None of these || A || Ann Oakley, *Sex, Gender and Society* (1972), building on Money (1955) and Stoller (1968).
+According to Judith Butler, gender is: || A biological fact fixed at birth | A stable inner essence | A role chosen once and for all | None of these || D || None of these — for Butler gender is *performative*: it is produced by repeated, stylised acts (*Gender Trouble*, 1990).
+The term "hegemonic masculinity" was coined by: || Michael Kimmel | Michael Kaufman | Judith Lorber | None of these || D || None of these — R. W. (Raewyn) Connell (*Gender and Power*, 1987; *Masculinities*, 1995).
+Which statement about androgyny is correct? || It means having no gender traits | It is a medical condition | It combines positive masculine and feminine traits | It is a form of queer theory || C || Sandra Bem's androgyny: high on both positive masculine and positive feminine traits.
+*A Vindication of the Rights of Woman* (1792) was written by: || Mary Wollstonecraft | Harriet Taylor Mill | Olympe de Gouges | None of these || A || Mary Wollstonecraft, the founding text of liberal feminism; she blamed women's "weakness" on lack of education.
+"The personal is political" is most closely associated with: || Liberal feminism | Postmodern feminism | Radical feminism | None of these || C || Radical feminism of the second wave; the phrase is the title of Carol Hanisch's essay (1969–70).
+The term "intersectionality" was coined by: || Patricia Hill Collins | bell hooks | Audre Lorde | None of these || D || None of these — Kimberlé Crenshaw (1989). Collins added the "matrix of domination" (1990).
+Betty Friedan's *The Feminine Mystique* (1963) described: || The sex class | The problem that has no name | The male gaze | The second shift || B || "The problem that has no name" — the unhappiness of educated American housewives.
+Pakistan acceded to CEDAW in: || 1981 | 1996 | 2000 | 2006 || B || 12 March 1996, with a declaration and a reservation to Article 29(1).
+The Beijing Platform for Action (1995) identified how many critical areas of concern? || 10 | 12 | 15 | 20 || B || Twelve critical areas, labelled A to L (for example D: violence; G: power and decision-making).
+The Women's Action Forum was formed in: || 1981 | 1983 | 1986 | None of these || A || Karachi, 1981, after the Fehmida–Allah Bux case under the Zina Ordinance.
+Gender mainstreaming was adopted as a global strategy by: || CEDAW (1979) | The Nairobi Conference (1985) | The Mexico City Conference (1975) | None of these || D || None of these — the Beijing Platform for Action (1995).
+*Woman's Role in Economic Development* (1970), the founding text of WID, was written by: || Caroline Moser | Naila Kabeer | Ester Boserup | None of these || C || Ester Boserup (1970).
+SDG target 5.5 concerns: || Violence against women | Child marriage | Women's participation and leadership in decision-making | Unpaid care work || C || Target 5.5: women's full participation and equal opportunities for leadership (5.2 violence; 5.3 child marriage; 5.4 unpaid care).
+Article 25A of the Constitution of Pakistan provides for: || Free and compulsory education for children aged 5 to 16 | Equality of citizens | Protection of marriage and the family | None of these || A || Article 25A, added by the 18th Amendment (2010); Article 25 is equality, Article 35 the family.
+Pakistan's rank in the World Economic Forum's Global Gender Gap Report 2025 was: || 143rd | 145th | 146th | None of these || D || None of these — 148th of 148 (last), with 56.7% of the gap closed; it rose to 143rd of 145 in 2026.
+How many seats are reserved for women in the National Assembly of Pakistan? || 50 | 60 | 70 | None of these || B || 60 of 336 seats (created by the Legal Framework Order 2002).
+Under section 206 of the Elections Act 2017, political parties must award women at least: || 5% of general-seat tickets | 10% of general-seat tickets | 17% of general-seat tickets | 33% of general-seat tickets || A || 5%. Section 9 lets the ECP void a poll where women's turnout is below 10%.
+The Protection against Harassment of Women at the Workplace Act was passed in: || 2006 | 2010 | 2016 | None of these || B || 2010; amended in 2022 to widen "workplace" and "employee".
+The "cycle of violence" (tension building, acute battering, loving contrition) was described by: || Evan Stark | Liz Kelly | Lenore Walker | None of these || C || Lenore Walker, *The Battered Woman* (1979).
+
+## PART-II
+Q2 || Trace the evolution of Women's Studies into Gender Studies. Critically evaluate the status of Gender Studies as an academic discipline in Pakistan and give your views on the autonomy versus integration debate.
+Q3 || Since 2013, every province and the Islamabad Capital Territory has enacted a law against domestic violence. Critically evaluate this legal framework. Why has legislation alone failed to reduce violence against women in Pakistan, and what workable strategies would you suggest?
+Q4 || What is gender mainstreaming? Discuss its tools, and evaluate its achievements and limitations as the strategy of the Gender and Development (GAD) approach, with reference to Pakistan.
+Q5 || Discuss the key features of the fourth wave of feminism. How have digital activism, the #MeToo movement and the Aurat March reshaped feminist activism in Pakistan, and what backlash have they faced?
+Q6 || Discuss the status of women's education in Pakistan in the light of Article 25A of the Constitution. What are the causes of the gender gap in education, and what measures would you suggest to close it?
+Q7 || Discuss the gender issues faced by women as voters and as candidates in Pakistan. How far have the provisions of the Elections Act 2017 addressed these issues? Refer to the General Elections 2024 in your answer.
+Q8 || Write short notes on the following:
+Q8a || Liberal Feminism.
+Q8b || The United Nations World Conferences on Women and Beijing+30.

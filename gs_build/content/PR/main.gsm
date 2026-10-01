@@ -1,0 +1,28 @@
+---
+code: PR
+title: The Prediction Papers
+subtitle: test
+header: The Prediction Papers
+updated: October 2026
+gives: test
+---
+# Set 1 · The Most Probable Paper
+
+@py pr_part1 1
+
+@py pr_part2 1
+
+# Set 1 · Part I explained
+
+@py pr_mcq_answers 1
+
+@py pr_question 1 Q8b
+
+@include s1/q2.gsm
+@include s1/q3.gsm
+@include s1/q4.gsm
+@include s1/q5.gsm
+@include s1/q6.gsm
+@include s1/q7.gsm
+@include s1/q8a.gsm
+@include s1/q8b.gsm

@@ -319,6 +319,43 @@ def mcqs_quiz(b, n):
         b.answer(f"^^{ans}^^ — {why}")
 
 
+# ------------------------------------------------------------------ the Prediction Papers
+def _pr_set(n):
+    from engine import fpsc
+    return fpsc, fpsc.load(Path(__file__).parent / "content" / "PR" / f"set{int(n)}.txt")
+
+
+@block("pr_part1")
+def pr_part1(b, n):
+    """Set N, Part-I: the FPSC MCQ paper (no keys)."""
+    fpsc, s = _pr_set(n)
+    fpsc.render_part1(b, s)
+
+
+@block("pr_part2")
+def pr_part2(b, n):
+    """Set N, Part-II: the FPSC descriptive paper, Q. No. 2 to Q. No. 8."""
+    fpsc, s = _pr_set(n)
+    fpsc.render_part2(b, s)
+
+
+@block("pr_question")
+def pr_question(b, n, key):
+    """The predicted question in a box, at the head of its model answer:  @py pr_question 1 Q2  (or Q8a)."""
+    fpsc, s = _pr_set(n)
+    fpsc.question_box(b, s, key, int(n))
+
+
+@block("pr_mcq_answers")
+def pr_mcq_answers(b, n):
+    """Set N, Part-I explained: each MCQ, its options, then the answer in bold with a one-line reason."""
+    fpsc, s = _pr_set(n)
+    for i, m in enumerate(s["mcq"], 1):
+        b.numbered(f"{i}.", m["stem"])
+        b.options("  ".join(f"({'abcd'[j]}) {o}" for j, o in enumerate(m["opts"])))
+        b.answer(f"^^Answer: ({'abcd'[m['key']]}) {m['opts'][m['key']]}^^ — {m['why']}")
+
+
 @block("qa_master_index")
 def qa_master_index(b, *args):
     """Every past question by year, with the topic and answer number it has in the compiled QA volume."""

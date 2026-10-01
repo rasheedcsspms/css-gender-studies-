@@ -115,7 +115,7 @@ class Builder:
             last.paragraph_format.keep_together = True
         p = self.doc.add_paragraph(style="GS Options")
         p.paragraph_format.keep_together = True
-        parts = re.split(r"\(([A-E])\)\s+", text.strip())
+        parts = re.split(r"\(([A-Ea-e])\)\s+", text.strip())
         first = True
         for letter, opt in zip(parts[1::2], parts[2::2]):
             K._run(p, ("" if first else "     ") + f"({letter})\u00a0", bold=True, colour=self.accent)
@@ -400,7 +400,7 @@ class Builder:
             elif re.match(r"^ {4,}- ", ln):
                 flush()
                 self.bullet(s[2:], 3)
-            elif s.startswith("(A) "):
+            elif s.startswith("(A) ") or s.startswith("(a) ") and "(b) " in s and "(c) " in s:
                 flush()
                 self.options(s)
             elif s.startswith("Ans: "):
