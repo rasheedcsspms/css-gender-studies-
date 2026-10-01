@@ -16,8 +16,8 @@ decision already made, so a session never has to re-derive them. Content bluepri
 | T3KB / T3QA | Feminist Movements — the West, the United Nations and Pakistan | `content/T3/` | ✅ Standards v2 — KB ≈21,000 words (core ≈15,400 + 126 one-liners + 22 MCQs + 3,400-word sheet), 25 figures; QA 8 answers + 1 note + the 2023 repeat page, all 1,001–1,026 (note 542), 20 figures; feeders `oneliners.gsm`, `rn_sheet.gsm`, `rn_plans.gsm`, `RN.gsm`, `facts.gsm` |
 | T4KB / T4QA | Gender and Development | `content/T4/` | ✅ Standards v2 — KB ≈23,000 words (core ≈17,000 + 126 one-liners + 17 MCQs + 3,900-word sheet), 29 figures; QA 16 answers + 3 notes, all 974–1,012 (notes 550–555), 39 figures; feeders `oneliners.gsm`, `rn_sheet.gsm`, `rn_plans.gsm`, `RN.gsm`, `facts.gsm` |
 | T5KB / T5QA | Status of Women in Pakistan | `content/T5/` | ✅ Standards v2 — KB ≈19,400 words (core ≈15,500 + 120 one-liners + 19 MCQs + revision sheet), 22 figures; QA 8 answers + 1 note, all 987–1,039 (note 554), 22 figures; feeders `oneliners.gsm`, `rn_sheet.gsm`, `rn_plans.gsm`, `RN.gsm`, `facts.gsm` |
-| T6KB / T6QA | Gender and Governance | `content/T6/` | ⬜ next |
-| T7KB / T7QA | Gender-Based Violence and the Three Case Studies | `content/T7/` | ⬜ |
+| T6KB / T6QA | Gender and Governance | `content/T6/` | ✅ Standards v2 — KB ≈18,800 words (core ≈15,000 + 120 one-liners + 14 MCQs + revision sheet), 23 figures; QA 8 answers + 1 note, all 964–986 (note 556), 18 figures; feeders `oneliners.gsm`, `rn_sheet.gsm`, `rn_plans.gsm`, `RN.gsm`, `facts.gsm` |
+| T7KB / T7QA | Gender-Based Violence and the Three Case Studies | `content/T7/` | ⬜ next |
 | FB | The Fact Book | `content/FB/main.gsm` (+ `content/Tn/facts.gsm`) | ⬜ after T7 |
 | QA | The Question Answers — all seven | `content/QA/main.gsm` (includes `content/Tn/QA.gsm` bodies) | ⬜ after T7 |
 | OL | The One-Liner and MCQ Bank | `content/OL/main.gsm` (+ `content/Tn/oneliners.gsm`) | ⬜ after T7 |

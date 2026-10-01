@@ -1,0 +1,23 @@
+---
+code: T6KB
+title: The Knowledge Base
+subtitle: Topic 6 · Gender and Governance — voters, candidates, representatives and quotas, taught from zero
+header: T6 Knowledge Base
+gives: Syllabus Head VII taught from zero in simple English — what governance is and why gender matters to it; The suffrage movement in the West, the world and South Asia; Women as voters, candidates and representatives in Pakistan, with the 2024 election data; Gender quotas — types, arguments for and against, and the full history of Pakistan's reserved seats from 1956 to today; Whether women representatives make a difference, and women in leadership — glass ceiling, glass cliff and "pulling each other up"; Case studies of India, Bangladesh, Sri Lanka and Nepal; Today's debates, the record and five likely questions; About 120 MCQ-style one-liners, every past MCQ on the topic, and a detailed revision sheet
+---
+@toc
+@include kb/00_front.gsm
+@include kb/ch01_governance.gsm
+@include kb/ch02_suffrage.gsm
+@include kb/ch03_voters.gsm
+@include kb/ch04_candidates.gsm
+@include kb/ch05_representatives.gsm
+@include kb/ch06_quotas.gsm
+@include kb/ch07_quota_history.gsm
+@include kb/ch08_impact.gsm
+@include kb/ch09_leadership.gsm
+@include kb/ch10_south_asia.gsm
+@include kb/p2_debates.gsm
+@include kb/p3_record.gsm
+@include kb/p4_oneliners.gsm
+@include kb/p5_revision.gsm

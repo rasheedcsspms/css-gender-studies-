@@ -1,0 +1,17 @@
+# Part Four — The One-Liner Bank
+
+> About 120 one-liners in the style of the past MCQs. Each is a complete, checkable fact: the **key word** is in bold green and the **date** in bold navy. Read them aloud; cover the bold words and test yourself; then attempt every past MCQ below.
+
+## The one-liners
+
+@include ../oneliners.gsm
+
+## Every past MCQ on Topic 6
+
+@py mcqs_topic 6
+
+::: trap | Three MCQ traps in Topic 6
+1. **First suffrage: New Zealand, not Finland.** New Zealand (==1893==) gave women the vote first; Finland (==1906==) was the first in Europe and the first to let women **stand** for parliament.
+2. **"17%" and "60".** The 2016 MCQ gave reserved seats as **17%** "as stated in the paper" (60 of 342); the 2024 MCQ asked the number — **60**. Read whether the stem wants a percentage or a number, and local (**33%**) or national.
+3. **Speaker vs prime minister vs foreign secretary.** First woman **Speaker**: **Fahmida Mirza** (==2008==); first woman **PM**: **Benazir Bhutto** (==1988==); first woman **foreign minister**: **Hina Rabbani Khar** (==2011==); first woman **foreign secretary**: **Tehmina Janjua** (==2017==).
+:::

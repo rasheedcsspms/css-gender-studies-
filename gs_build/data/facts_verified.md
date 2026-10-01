@@ -71,3 +71,21 @@ Elections Act 2017 ss. 9 (10% turnout) and 206 (5% tickets); Fahmida Mirza Speak
 Marriages Act 1939; Family Courts Act 1964; Mukhtaran Mai 22 June 2002 Meerwala (ATC 2002; LHC 2005; SC 2011);
 Malala b. 12 July 1997, diary 2009, shot 9 Oct 2012, UN 12 July 2013, Malala Fund 2013, Nobel 2014;
 Obaid-Chinoy Saving Face (Oscar 2012), A Girl in the River (Oscar 2016).
+
+## Topic 6 — governance and quotas ★ (checked October 2026)
+- **Voters 2024** (ECP/FAFEN): 128.58m registered — 69.26m men (53.9%), 59.32m women (46.1%); registration gap **9.94m (7.7%)**,
+  down from 12.8% in 2013. Turnout: women **43%**, men **52%**; women cast **24.4m** of 58.9m votes (+2.7m on 2018);
+  turnout gap 10 points (2018) → 9 (2024); KP gap widest (15.7 points), Sindh 7.4. Sources: Dawn 1877967; FAFEN GE-2024 brief.
+- **Women on general NA seats**: 2013 — 5 at the general election (10 with by-elections); 2018 — **8**; 2024 — **11** (306 contested).
+- **Reserved-seat history**: 1956 — 10 seats (5 East, 5 West); 1962 — 6 seats (3+3); 1973 — 10 seats for 10 years or three
+  elections; 1985 — raised to **20**; lapsed after 1988 (none in the 1990s assemblies); **2002** (LFO) — **60** NA, 17 Senate,
+  128 provincial (now 132 after FATA merger: Punjab 66, Sindh 29, KP 26, Balochistan 11); local 33% (LGO 2001).
+  Sources: Wikipedia "Women in Pakistani politics"; PILDAT; IDEA.
+- **Senate**: 96 seats, 17 for women (4 per province + 1 ICT); 18 women senators in 2024 (IPU).
+- **Bangladesh 2026** (12 Feb): 85 women contested, **7** directly elected; **50** reserved seats (since 2011) filled May 2026;
+  57 women in 350. (IPU, IFES.)
+- **Nepal 2026** (5 March): women **96 of 275** (34.9%); only **14** via FPTP; constitution 2015 requires 33%. (IPU; Daily Pioneer.)
+- **Sri Lanka 2024**: record **22** women MPs (of 225); **Harini Amarasuriya** PM (Sept 2024), third woman PM. 25% local quota (2017).
+- **India**: Constitution (106th Amendment) Act **2023** (Nari Shakti Vandan Adhiniyam) — one-third of Lok Sabha and state
+  assembly seats, horizontal within SC/ST seats, for 15 years; operates only after the next census and delimitation
+  (not before 2029). 73rd/74th Amendments 1992 — one-third of panchayat seats.
