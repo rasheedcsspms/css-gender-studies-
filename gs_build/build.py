@@ -94,6 +94,28 @@ def cover(doc, fm, accent):
            9, S.SLATE, italic=True)
 
 
+def compress_images(path):
+    """Re-encode embedded PNG figures as 256-colour palette PNGs (same pixels and size; flat-colour charts lose
+    nothing visible). Used for compiled volumes so they stay under upload limits."""
+    import io
+    import zipfile
+    from PIL import Image
+    tmp = path.with_suffix(".tmp.docx")
+    with zipfile.ZipFile(path) as zin, zipfile.ZipFile(tmp, "w", zipfile.ZIP_DEFLATED) as zout:
+        for info in zin.infolist():
+            data = zin.read(info.filename)
+            if info.filename.startswith("word/media/") and info.filename.endswith(".png"):
+                im = Image.open(io.BytesIO(data)).convert("RGBA")
+                bg = Image.new("RGBA", im.size, (255, 255, 255, 255))
+                bg.alpha_composite(im)
+                q = bg.convert("RGB").quantize(colors=256, method=Image.Quantize.MEDIANCUT, dither=Image.Dither.NONE)
+                buf = io.BytesIO()
+                q.save(buf, "PNG", optimize=True, dpi=im.info.get("dpi", (200, 200)))
+                data = buf.getvalue()
+            zout.writestr(info, data)
+    tmp.replace(path)
+
+
 def build(code):
     reg = registry()
     if code not in reg:
@@ -112,6 +134,8 @@ def build(code):
     out_dir.mkdir(parents=True, exist_ok=True)
     out = out_dir / spec["file"]
     doc.save(out)
+    if fm.get("compress", "").lower() in ("yes", "true", "1"):
+        compress_images(out)
     print(f"{code}: {b.words:,} words · {b.fig_no} figures · {b.table_no} captioned tables -> {out.relative_to(S.REPO)}")
     return out
 
