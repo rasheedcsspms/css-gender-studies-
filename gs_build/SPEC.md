@@ -17,8 +17,8 @@ decision already made, so a session never has to re-derive them. Content bluepri
 | T4KB / T4QA | Gender and Development | `content/T4/` | ✅ Standards v2 — KB ≈23,000 words (core ≈17,000 + 126 one-liners + 17 MCQs + 3,900-word sheet), 29 figures; QA 16 answers + 3 notes, all 974–1,012 (notes 550–555), 39 figures; feeders `oneliners.gsm`, `rn_sheet.gsm`, `rn_plans.gsm`, `RN.gsm`, `facts.gsm` |
 | T5KB / T5QA | Status of Women in Pakistan | `content/T5/` | ✅ Standards v2 — KB ≈19,400 words (core ≈15,500 + 120 one-liners + 19 MCQs + revision sheet), 22 figures; QA 8 answers + 1 note, all 987–1,039 (note 554), 22 figures; feeders `oneliners.gsm`, `rn_sheet.gsm`, `rn_plans.gsm`, `RN.gsm`, `facts.gsm` |
 | T6KB / T6QA | Gender and Governance | `content/T6/` | ✅ Standards v2 — KB ≈18,800 words (core ≈15,000 + 120 one-liners + 14 MCQs + revision sheet), 23 figures; QA 8 answers + 1 note, all 964–986 (note 556), 18 figures; feeders `oneliners.gsm`, `rn_sheet.gsm`, `rn_plans.gsm`, `RN.gsm`, `facts.gsm` |
-| T7KB / T7QA | Gender-Based Violence and the Three Case Studies | `content/T7/` | ⬜ next |
-| FB | The Fact Book | `content/FB/main.gsm` (+ `content/Tn/facts.gsm`) | ⬜ after T7 |
+| T7KB / T7QA | Gender-Based Violence and the Three Case Studies | `content/T7/` | ✅ Standards v2 — KB ≈23,200 words (core ≈17,200 + 125 one-liners + 12 MCQs + 3,985-word sheet), 28 figures; QA 9 answers + 3 notes, all 1,050–1,186 (notes 591–606), 27 figures; feeders `oneliners.gsm`, `rn_sheet.gsm`, `rn_plans.gsm`, `RN.gsm`, `facts.gsm` |
+| FB | The Fact Book | `content/FB/main.gsm` (+ `content/Tn/facts.gsm`) | ⬜ next |
 | QA | The Question Answers — all seven | `content/QA/main.gsm` (includes `content/Tn/QA.gsm` bodies) | ⬜ after T7 |
 | OL | The One-Liner and MCQ Bank | `content/OL/main.gsm` (+ `content/Tn/oneliners.gsm`) | ⬜ after T7 |
 | RN | The Revision Notes — all seven | `content/RN/main.gsm` (+ `content/Tn/RN.gsm`) | ⬜ after T7 |
@@ -270,6 +270,7 @@ Copy `templates/QA_skeleton.gsm`. Order answers as `@py qa_index N` lists them (
 
 - **Lessons from Topic 2.** Inline markup: `***x***` is bold-italic (green), and `*italic*` may now sit inside `**bold**` (the parser was fixed in T2; before that, `***x***` printed a stray asterisk). `fig matrix` is a 2×2 quadrant — exactly four items, one sentence each (points joined by `;` run together). `fig mapping` uses `=>`, not `->`. Drafted answers again ran short (800–960); top up with "In simple words", "An example" and "The reply" sub-headings.
 - **Lessons from Topic 3.** A table's header row must not begin with an empty cell (` | A | B`) — the parser drops it; write `Aspect | A | B`. Exact repeats (2019/2023) get a short "refresh" page so answer numbers still match `qa_index`. The `--answer` count excludes figures and tables: draft each answer at 3–4 sentences per sub-heading or it lands near 800.
+- **Lessons from Topics 5–7 (length drift).** Lengths slid topic by topic (KB 23k → 19.4k → 18.8k; revision sheet 3,900 → 2,828 → 1,959; answers 1,000+ → 964–986) and the user noticed. Hard floors, checked with `tools_wordcount.py` before every build: **KB total ≥ 22,000 with core ≥ 16,500**; **revision sheet ≥ 3,500** counted words; **one-liners ≥ 120**; **full answers ≥ 1,050** by `--answer` (it excludes figures and tables — draft at ~1,250 words of prose); **notes ≥ 580**. Never round a shortfall into "≈1,000"; top up until the floor is met. Mindmap `@note` lines now wrap (engine fix, T7).
 
 ## 10. Workflow for one topic (the cheap path)
 

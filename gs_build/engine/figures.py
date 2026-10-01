@@ -243,10 +243,11 @@ def fig_mindmap(lines, path):
     lx, cx, rx = 0.2, (11.0 - 2.75) / 2, 11.0 - 0.2 - 3.55
     nl = math.ceil(len(br) / 2)
     left, right = br[:nl], br[nl:]
-    top = 0.5 if opts.get("note") else 0.15
+    note_lines = wrap(clean(opts["note"]), W - 0.6, 11, italic=True) if opts.get("note") else []
+    top = 0.2 + len(note_lines) * lh(11) + 0.18 if note_lines else 0.15
     cv = Canvas(W)
-    if opts.get("note"):
-        cv.text(W / 2, 0.12, clean(opts["note"]), 11, S.SLATE, italic=True, ha="center")
+    for i, ln in enumerate(note_lines):
+        cv.text(W / 2, 0.12 + i * lh(11), ln, 11, S.SLATE, italic=True, ha="center")
 
     def stack(col_items, start_idx):
         out, y = [], top

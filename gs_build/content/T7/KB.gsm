@@ -1,0 +1,25 @@
+---
+code: T7KB
+title: The Knowledge Base
+subtitle: Topic 7 · Gender-Based Violence and the Three Case Studies — taught from zero
+header: T7 Knowledge Base
+gives: Syllabus Heads VIII and IX taught from zero in simple English — what gender-based violence is, how big the problem is, and how it is defined in international and Pakistani law; The theories of violence against women — social learning, resources, feminist and power-and-control theory, the cycle of violence, the ecological model and Galtung's direct, structural and cultural violence; The root causes of violence in Pakistan and how they intersect; Every form and site of violence against women in Pakistan, with honour killing in depth and the latest data; The laws and government initiatives, the Punjab Protection of Women against Violence Act 2016 section by section, consequences and workable strategies; Masculinity studies and violence; The three case studies — Mukhtaran Mai, Malala Yousafzai and Sharmeen Obaid-Chinoy; Today's debates, the record and five likely questions; About 125 MCQ-style one-liners, every past MCQ on the topic, and a detailed revision sheet
+---
+@toc
+@include kb/00_front.gsm
+@include kb/ch01_defining.gsm
+@include kb/ch02_theories.gsm
+@include kb/ch03_power_structural.gsm
+@include kb/ch04_causes.gsm
+@include kb/ch05_forms.gsm
+@include kb/ch06_honour.gsm
+@include kb/ch07_laws.gsm
+@include kb/ch08_consequences_strategies.gsm
+@include kb/ch09_masculinities.gsm
+@include kb/ch10_mukhtaran.gsm
+@include kb/ch11_malala.gsm
+@include kb/ch12_sharmeen.gsm
+@include kb/p2_debates.gsm
+@include kb/p3_record.gsm
+@include kb/p4_oneliners.gsm
+@include kb/p5_revision.gsm

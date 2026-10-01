@@ -89,3 +89,41 @@ Obaid-Chinoy Saving Face (Oscar 2012), A Girl in the River (Oscar 2016).
 - **India**: Constitution (106th Amendment) Act **2023** (Nari Shakti Vandan Adhiniyam) — one-third of Lok Sabha and state
   assembly seats, horizontal within SC/ST seats, for 15 years; operates only after the next census and delimitation
   (not before 2029). 73rd/74th Amendments 1992 — one-third of panchayat seats.
+
+## Topic 7 — gender-based violence and the case studies ★ (checked October 2026)
+- **SSDO 2024** (released March 2025): **32,617** GBV cases — **5,339** rape, **24,439** kidnapping/abduction, **2,238** domestic
+  violence, **547** honour killings; conviction rates: rape **0.5%**, honour killing **0.5%**, kidnapping **0.1%**, DV **1.3%**.
+  Punjab 26,753 cases (225 honour killings, 2 convictions). Sources: Express Tribune 2531669; Dawn 1894972.
+- **HRCP State of Human Rights 2024** (30 April 2025): at least **405** honour killings; 3,300+ reported beatings;
+  HRCP documented **14,425** cases of violence against women and girls in 2024.
+- **PDHS 2017–18**: **28%** of ever-married women 15–49 experienced physical violence since age 15; **6%** sexual violence;
+  **34%** spousal physical, sexual or emotional violence; **56%** never sought help or told anyone. (UN Women database; PLOS One 2024.)
+- **UNODC/UN Women, Femicides in 2023** (Nov 2024): **85,000** women and girls killed intentionally; **51,100** (60%) by partners or
+  family — **140 a day**, one every **10 minutes**. WHO 2021: about **1 in 3** women (≈736m) (MCQ 2024).
+- **Punjab Protection of Women against Violence Act 2016** (passed 24 Feb, assent 26 Feb, gazette 29 Feb 2016; Act XVI of 2016):
+  s. 2(r) "violence" = any offence against the body of the aggrieved person incl. abetment, **domestic violence, sexual violence,
+  psychological abuse, economic abuse, stalking or a cybercrime**; economic abuse = denial of food, clothing, shelter or taking
+  her income; psychological violence certified by a panel. s. 3 toll-free number; s. 5 right to reside; s. 6 interim order;
+  s. 7 protection order (no contact, stay away, **GPS ankle/wrist bracelet** for grave violence, move out, surrender weapons);
+  s. 8 residence order; s. 9 monetary order; Family Court decides in **90 days** (first hearing within 7); s. 11 District Women
+  Protection Committee (DCO-led); s. 13 Protection Centres (Violence against Women Centres) and shelter homes; s. 14 Women
+  Protection Officer; s. 19 false complaint up to 3 months / Rs 50,000–100,000; s. 20 breach up to 1 year / Rs 50,000–200,000
+  (repeat 1–2 years). Source: Act text (Huqooq portal copy of Punjab Code).
+- **Anti-Rape (Investigation and Trial) Act 2021** (assent 1 Dec 2021): Special Sexual Offences Investigation Units in districts,
+  Anti-Rape Crisis Cells, special courts, in-camera trial, decision preferably within 4 months.
+- **ICT Domestic Violence (Prevention and Protection) Act 2025**: moved by Sharmila Farooqui (PPP); NA passed 13 Nov 2025;
+  Senate 28 Nov 2025.
+- **Mukhtaran Mai**: gang-raped 22 June 2002, Meerwala (Muzaffargarh), on a panchayat's order over her brother's alleged
+  relationship; ATC (D.G. Khan) Aug 2002 — 6 sentenced to death, 8 freed; LHC Multan bench 2005 — 5 acquitted, 1 to life;
+  Supreme Court **21 April 2011** upheld acquittals; Abdul Khaliq life imprisonment.
+- **Qandeel Baloch** killed July 2016 (Multan) by brother Waseem; life sentence Sept 2019; LHC acquitted Feb 2022 after parental pardon.
+- **Noor Mukadam** killed July 2021 (Islamabad); Supreme Court upheld Zahir Jaffer's death sentence May 2025 (review dismissed 2026).
+- **Sana Yousaf** (17, social-media creator) shot dead in Islamabad, 2 June 2025, after refusing a man's advances.
+- **Bano Satakzai and Ehsanullah Samalani** shot dead in Degari, Balochistan, June 2025, allegedly on a tribal chief's orders;
+  video went viral July 2025; arrests followed.
+- **Sharmeen Obaid-Chinoy**: *Saving Face* (Oscar 2012, documentary short; acid attacks); *A Girl in the River: The Price of
+  Forgiveness* (Oscar 2016; Saba Qaiser, 19, Gujranwala, shot by father and uncle, survived); PM Nawaz Sharif screened it —
+  "no honour in honour killing".
+- **Malala**: Islamabad "Girls' Education in Muslim Communities" conference (Muslim World League), 11–12 Jan 2025 — Islamabad
+  Declaration; Malala Fund has invested about **$14.6m** in Pakistan since 2013; "I am not Malala" day by a private schools
+  federation (Nov 2014).

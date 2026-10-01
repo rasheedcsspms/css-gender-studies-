@@ -1,0 +1,17 @@
+# Part Four — The One-Liner Bank
+
+> About 125 one-liners in the style of the past MCQs. Each is a complete, checkable fact: the **key word** is in bold green and the **date** in bold navy. Read them aloud; cover the bold words and test yourself; then attempt every past MCQ below.
+
+## The one-liners
+
+@include ../oneliners.gsm
+
+## Every past MCQ on Topic 7
+
+@py mcqs_topic 7
+
+::: trap | Three MCQ traps in Topic 7
+1. **Honour law: 2004 or 2016?** The **2004** Act **defined** honour crimes and raised penalties; the **2016** Act **restricted the forgiveness loophole** with a mandatory life sentence (MCQ 2026). Read which one the stem describes.
+2. **"Learned" and "socially constructed".** Social learning theory says violence is **learned** (MCQ 2023) and **socially constructed** (MCQ 2024) — not biological or innate.
+3. **The two Oscars.** *Saving Face* (==2012==) is about **acid attacks**; *A Girl in the River* (==2016==) is about **honour killing** (MCQ 2019). Do not swap them.
+:::
